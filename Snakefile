@@ -8,7 +8,7 @@ from shutil import copyfile
 if not exists("config.yaml"):
     copyfile("config.default.yaml", "config.yaml")
 
-configfile: "config_salt_cave_gas_network.yaml"
+configfile: "config.yaml"
 
 COSTS="data/costs.csv"
 ATLITE_NPROCESSES = config["atlite"].get("nprocesses", 4)
@@ -431,10 +431,10 @@ rule build_hydrogen_storage:
 
 rule build_hydrogen_map:
     input:
-        img_path = '../data/bundle/salt_cave/salt_cave.png'
-        gcps_path = '../data/bundle/salt_cave/GCP_Points.json'
-        onshore_path = "../resources/country_shapes.geojson"
-        offshore_path = "../resources/offshore_shapes.geojson"
+        img_path = '../data/bundle/salt_cave/salt_cave.png',
+        gcps_path = '../data/bundle/salt_cave/GCP_Points.json',
+        onshore_path = "../resources/country_shapes.geojson",
+        offshore_path = "../resources/offshore_shapes.geojson",
         capacity_path = "../data/bundle/salt_cave/storage_potential_eu_kwh.csv"
 
     output:
@@ -444,8 +444,8 @@ rule build_hydrogen_map:
 
 rule build_gas_network:
     input:
-        igginl_path = '../data/bundle/gas_network/IGGINL_PipeSegments.csv'
-        entsog_2019_path = '../data/bundle/gas_network/entsog_2019_dataset.csv'
+        igginl_path = '../data/bundle/gas_network/IGGINL_PipeSegments.csv',
+        entsog_2019_path = '../data/bundle/gas_network/entsog_2019_dataset.csv',
         emap_path = '../data/bundle/gas_network/EMAP_Raw_PipeSegments.csv'
     output:
         output_path = '../resources/gas_network_IGGINLEE.csv'
@@ -454,8 +454,8 @@ rule build_gas_network:
 
 rule add_gas_network:
     input:
-        offshore_path = '../resources/regions_offshore_elec_s{simpl}_{clusters}.geojson'
-        onshore_path = '../resources/regions_onshore_elec_s{simpl}_{clusters}.geojson'
+        offshore_path = '../resources/regions_offshore_elec_s{simpl}_{clusters}.geojson',
+        onshore_path = '../resources/regions_onshore_elec_s{simpl}_{clusters}.geojson',
         gas_network_path = '../resources/gas_network_IGGINLEE.csv'
 
     output:
