@@ -146,8 +146,8 @@ def add_storge2buses(buses,mask_list,capacity_shape,considered_locations):
     _capacity_df = _capacity_df[['name','hydrogen_storage_potential_MWh']]
     _capacity_df = _capacity_df.groupby('name').sum()
     _total_capacity = _capacity_df.hydrogen_storage_potential_MWh.sum()
-    logger.info('total capacity of nodes = {}'.format(_total_capacity))
-    if _total_capacity>90000:
+    logger.info('total capacity of nodes = {:.2e} mwh'.format(_total_capacity))
+    if _total_capacity>90*1e9:
         logger.warning('very serious overlap in region clusters geojson file')
     return buses.merge(_capacity_df,left_index = True,right_index = True, how='left')
 
@@ -187,7 +187,7 @@ if __name__ == "__main__":
         network_input_path = snakemake.input.networks
         network_output_path = snakemake.output.output_path
         path2resources = snakemake.input.path2resources
-        new_capacity_per_area_path = "/data/bundle/salt_cave/new_energy_capacity_map_kwhm2.geojson"
+        new_capacity_per_area_path = snakemake.input.new_capacity_per_area_path
 
         #config yaml
         config_dict= snakemake.config['hydrogen_storage']

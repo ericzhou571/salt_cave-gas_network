@@ -268,7 +268,7 @@ rule cluster_network:
 rule add_extra_components:
     input:
         network="networks/elec_s{simpl}_{clusters}.nc",
-        network_h2="/networks/with_hydro_storage_elec_s{simpl}.nc",
+        network_h2="networks/with_hydro_storage_elec_s{simpl}_{clusters}.nc",
         tech_costs=COSTS,
     output: "networks/elec_s{simpl}_{clusters}_ec.nc"
     log: "logs/add_extra_components/elec_s{simpl}_{clusters}.log"
@@ -418,47 +418,47 @@ rule build_country_flh:
 
 rule build_hydrogen_storage:
     input:
-        onshore_path = "/resources/country_shapes.geojson",
-        offshore_path = "/resources/offshore_shapes.geojson",
-        density_map_path = "/data/bundle/salt_cave/final.shp",
-        capacity_path = "/data/bundle/salt_cave/storage_potential_eu_kwh.csv",
-        path2resources = "/resources",
+        onshore_path = "resources/country_shapes.geojson",
+        offshore_path = "resources/offshore_shapes.geojson",
+        density_map_path = "data/bundle/salt_cave/final.shp",
+        new_capacity_per_area_path = "resources/new_energy_capacity_map_kwhm2.geojson",
+        path2resources = "resources",
         networks = "networks/elec_s{simpl}_{clusters}.nc"
     output:
-        output_path = "/networks/with_hydro_storage_elec_s{simpl}_{clusters}.nc"
+        output_path = "networks/with_hydro_storage_elec_s{simpl}_{clusters}.nc"
     log: "logs/build_hydrogen_storage_elec_s{simpl}_{clusters}.log"
     script: "scripts/build_hydrogen_storage.py"
 
 rule build_hydrogen_map:
     input:
-        img_path = '../data/bundle/salt_cave/salt_cave.png',
-        gcps_path = '../data/bundle/salt_cave/GCP_Points.json',
-        onshore_path = "../resources/country_shapes.geojson",
-        offshore_path = "../resources/offshore_shapes.geojson",
-        capacity_path = "../data/bundle/salt_cave/storage_potential_eu_kwh.csv"
+        img_path = 'data/bundle/salt_cave/salt_cave.png',
+        gcps_path = 'data/bundle/salt_cave/GCP_Points.json',
+        onshore_path = "resources/country_shapes.geojson",
+        offshore_path = "resources/offshore_shapes.geojson",
+        capacity_path = "data/bundle/salt_cave/storage_potential_eu_kwh.csv"
 
     output:
-        new_capacity_per_area_path = "../resources/new_energy_capacity_map_kwhm2.geojson"
+        new_capacity_per_area_path = "resources/new_energy_capacity_map_kwhm2.geojson"
     log: "logs/build_hydrogen_map.log"
     script: "scripts/build_hydrogen_map.py"
 
 rule build_gas_network:
     input:
-        igginl_path = '../data/bundle/gas_network/IGGINL_PipeSegments.csv',
-        entsog_2019_path = '../data/bundle/gas_network/entsog_2019_dataset.csv',
-        emap_path = '../data/bundle/gas_network/EMAP_Raw_PipeSegments.csv'
+        igginl_path = 'data/bundle/gas_network/IGGINL_PipeSegments.csv',
+        entsog_2019_path = 'data/bundle/gas_network/entsog_2019_dataset.csv',
+        emap_path = 'data/bundle/gas_network/EMAP_Raw_PipeSegments.csv'
     output:
-        output_path = '../resources/gas_network_IGGINLEE.csv'
+        output_path = 'resources/gas_network_IGGINLEE.csv'
     log: "logs/build_gas_network.log"
     script: "scripts/build_gas_network.py"
 
 rule add_gas_network:
     input:
-        offshore_path = '../resources/regions_offshore_elec_s{simpl}_{clusters}.geojson',
-        onshore_path = '../resources/regions_onshore_elec_s{simpl}_{clusters}.geojson',
-        gas_network_path = '../resources/gas_network_IGGINLEE.csv'
+        offshore_path = 'resources/regions_offshore_elec_s{simpl}_{clusters}.geojson',
+        onshore_path = 'resources/regions_onshore_elec_s{simpl}_{clusters}.geojson',
+        gas_network_path = 'resources/gas_network_IGGINLEE.csv'
 
     output:
-        output_path = '../resources/gas_network_elec_s{simpl}_{clusters}.csv'
+        output_path = 'resources/gas_network_elec_s{simpl}_{clusters}.csv'
     log: "logs/add_gas_network_elec_s{simpl}_{clusters}.log"
     script: "scripts/add_gas_network.py"

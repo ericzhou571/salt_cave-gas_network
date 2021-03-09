@@ -141,7 +141,7 @@ def load_preprocessing_dataset(IGGINL_df_path, entsog_df_path, EMAP_df_path):
     #load&preprocess EMAP_df
     EMAP_Raw = unpack_param(pd.read_csv(EMAP_df_path, sep=';'))
     EMAP_Raw.pipe_class_EMap = EMAP_Raw.pipe_class_EMap.fillna('A')
-    print('finish loading')
+    logger.info('finish loading')
     return IGGINL, entsog_dataset_wrapping, EMAP_Raw
 
 
@@ -186,7 +186,7 @@ def add_entsog_capacity(IGGINL_df, entsog_dataset_wrapping,
     IGGINL_df.capacity_nan = IGGINL_df.capacity_nan.fillna(IGGINL_df.entsog_capacity_withdirection)
     logger.info('after adding entsog_2019 dataset, capactiy of {} rows are still missing capacity '\
                 .format(IGGINL_df.capacity_nan.isna().sum()))
-    print('finish adding entsog_dataset')
+    logger.info('finish adding entsog_dataset')
     return IGGINL_df
 
 
@@ -218,7 +218,7 @@ def add_EMAP_diameter(IGGINL_df, EMAP_Raw, buffers=0.5):
     IGGINL_df.diameter_nan = IGGINL_df.diameter_nan.fillna(IGGINL_df.EMAP_Class)
     logger.info('after adding EMAP dataset, capactiy of {} rows are still missing diameter ' \
                 .format(IGGINL_df.diameter_nan.isna().sum()))
-    print('finish adding EMAP diameter')
+    logger.info('finish adding EMAP diameter')
     return IGGINL_df
 
 
@@ -262,7 +262,7 @@ def train_lasso(IGG):
                 .format(MAE_normal))
 
     # here will not show the plot, plot will be return
-    print('finish training lasso')
+    logger.info('finish training lasso')
     return rg_model_normal
 
 def filling_with_lasso(IGGINL_df, regression_model):
@@ -276,7 +276,7 @@ def filling_with_lasso(IGGINL_df, regression_model):
 
     #remove extremely small value
     IGGINL_df.capacity_nan = IGGINL_df.capacity_nan.apply(lambda x: np.nan if x < minimum_value else x)
-    print('finish filling with lasso')
+    logger.info('finish filling with lasso')
     return IGGINL_df
 
 def node_capacity_spread(df):
@@ -288,10 +288,10 @@ def node_capacity_spread(df):
         if iteration >= 20:
             logger.info('can\'t filling all missing capacity in 20 round\
                         still have {} missing value'.format(df.capacity_nan.isna().sum()))
-            logger.info('can\'t filling rest missing capacity with capacity in max_capacity ')
+            logger.info('fill rest missing capacity with capacity in max_capacity ')
             df.capacity_nan = df.capacity_nan.fillna(df['max_capacity'])
             return df
-    print('finish spreading')
+    logger.info('finish spreading')
     return df
 
 def clean_save(df,output_path):
@@ -306,7 +306,7 @@ def clean_save(df,output_path):
                              'length_km', 'long_mean', 'max_pressure_bar',
                              'num_compressor', 'start_year', 'Capacity_GWh_h', 'diameter_mm',]
     Final_dataset.to_csv(output_path, sep=';', index=False)
-    print('sucessfully saving dataset to {}'.format(output_path))
+    logger.info('sucessfully saving dataset to {}'.format(output_path))
 
 def node_capacity_update(df, how='max'):
     df = df[df.capacity_nan.notna()].reset_index(drop=True)

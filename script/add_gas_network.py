@@ -143,7 +143,7 @@ def create_cross_regions_network(df,points2buses_map,output_path):
 
     cross_buses_gas_network.to_csv(output_path, sep=';', index=False)
     logger.info('sucessful store gas network to {}'.format(output_path))
-    print('sucessful store gas network to {}'.format(output_path))
+    #print('sucessful store gas network to {}'.format(output_path))
 
 
 

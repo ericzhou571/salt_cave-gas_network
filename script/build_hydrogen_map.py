@@ -16,7 +16,11 @@ from fiona.errors import DriverError
 import os
 import shutil
 
+from _helpers import configure_logging
+# snakemake is a global value snakemake.input.
+
 logger = logging.getLogger(__name__)
+
 
 
 def extract_with_threshold(color, mask, threshold=10, i=None, save_mode=False):
@@ -567,6 +571,7 @@ if __name__ == "__main__":
         offshore_path = "../resources/offshore_shapes.geojson"
         capacity_path = "../data/bundle/salt_cave/storage_potential_eu_kwh.csv"
         new_capacity_per_area_path = "../resources/new_energy_capacity_map_kwhm2.geojson"
+        tmp_folder = '../resources/hydrogen_tmp/'
     else:
         configure_logging(snakemake)
         for count in range(5):
@@ -577,10 +582,10 @@ if __name__ == "__main__":
         offshore_path = snakemake.input.offshore_path
         capacity_path = snakemake.input.capacity_path
         new_capacity_per_area_path = snakemake.output.new_capacity_per_area_path
+        tmp_folder = 'resources/hydrogen_tmp/'
+        logging.info('finish loading')
         # snakemake mode (normal mode)
 
-    # define vital variables
-    tmp_folder = '../resources/hydrogen_tmp/'
     # create tmp folder in resources
     try:
         os.mkdir(tmp_folder)
