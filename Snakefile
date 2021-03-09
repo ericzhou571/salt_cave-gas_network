@@ -431,11 +431,19 @@ rule build_hydrogen_storage:
 
 rule build_hydrogen_map:
     input:
+<<<<<<< HEAD
         img_path = 'data/bundle/salt_cave/salt_cave.png',
         gcps_path = 'data/bundle/salt_cave/GCP_Points.json',
         onshore_path = "resources/country_shapes.geojson",
         offshore_path = "resources/offshore_shapes.geojson",
         capacity_path = "data/bundle/salt_cave/storage_potential_eu_kwh.csv"
+=======
+        img_path = '../data/bundle/salt_cave/salt_cave.png',
+        gcps_path = '../data/bundle/salt_cave/GCP_Points.json',
+        onshore_path = "../resources/country_shapes.geojson",
+        offshore_path = "../resources/offshore_shapes.geojson",
+        capacity_path = "../data/bundle/salt_cave/storage_potential_eu_kwh.csv"
+>>>>>>> aaa275db80e3b5ab504c14e065c228db6add4437
 
     output:
         new_capacity_per_area_path = "resources/new_energy_capacity_map_kwhm2.geojson"
@@ -444,9 +452,15 @@ rule build_hydrogen_map:
 
 rule build_gas_network:
     input:
+<<<<<<< HEAD
         igginl_path = 'data/bundle/gas_network/IGGINL_PipeSegments.csv',
         entsog_2019_path = 'data/bundle/gas_network/entsog_2019_dataset.csv',
         emap_path = 'data/bundle/gas_network/EMAP_Raw_PipeSegments.csv'
+=======
+        igginl_path = '../data/bundle/gas_network/IGGINL_PipeSegments.csv',
+        entsog_2019_path = '../data/bundle/gas_network/entsog_2019_dataset.csv',
+        emap_path = '../data/bundle/gas_network/EMAP_Raw_PipeSegments.csv'
+>>>>>>> aaa275db80e3b5ab504c14e065c228db6add4437
     output:
         output_path = 'resources/gas_network_IGGINLEE.csv'
     log: "logs/build_gas_network.log"
@@ -454,9 +468,15 @@ rule build_gas_network:
 
 rule add_gas_network:
     input:
+<<<<<<< HEAD
         offshore_path = 'resources/regions_offshore_elec_s{simpl}_{clusters}.geojson',
         onshore_path = 'resources/regions_onshore_elec_s{simpl}_{clusters}.geojson',
         gas_network_path = 'resources/gas_network_IGGINLEE.csv'
+=======
+        offshore_path = '../resources/regions_offshore_elec_s{simpl}_{clusters}.geojson',
+        onshore_path = '../resources/regions_onshore_elec_s{simpl}_{clusters}.geojson',
+        gas_network_path = '../resources/gas_network_IGGINLEE.csv'
+>>>>>>> aaa275db80e3b5ab504c14e065c228db6add4437
 
     output:
         output_path = 'resources/gas_network_elec_s{simpl}_{clusters}.csv'

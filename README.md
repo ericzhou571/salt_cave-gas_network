@@ -1,4 +1,4 @@
-# salt_cave and gas_network script usage
+# salt_cave and gas_network scripts usage
 
 - please put files in 'script' folder of this repository in 'scripts' folder of pypsa.eur repository 
 - please put 'salt_cave' folder and 'gas_network' folder under the directory '/data/bunlde/'
