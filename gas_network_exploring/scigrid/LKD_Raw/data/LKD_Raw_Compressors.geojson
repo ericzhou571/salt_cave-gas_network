@@ -1,0 +1,369 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78878209417577,
+                    48.21915679567742
+                ]
+            },
+            "properties": {
+                "name": "Haiming 2-RAGES/bn",
+                "id": "LKD_CO_0",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "ITP-00308",
+                    "license": "open data",
+                    "num_turb": 2.0,
+                    "operator_name": "bayernets"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.587282157390655,
+                    52.09349905015139
+                ]
+            },
+            "properties": {
+                "name": "Radeland",
+                "id": "LKD_CO_1",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 3.0,
+                    "operator_name": "OPAL"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31805195819919,
+                    52.54146169126879
+                ]
+            },
+            "properties": {
+                "name": "Mallnow",
+                "id": "LKD_CO_2",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "ITP-00096",
+                    "license": "open data",
+                    "num_turb": 4.0,
+                    "operator_name": "JAGAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.214034690779144,
+                    50.7820747876035
+                ]
+            },
+            "properties": {
+                "name": "Rueckersdorf",
+                "id": "LKD_CO_3",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 3.0,
+                    "operator_name": "JAGAL STEGAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.297239816310503,
+                    50.678803200903324
+                ]
+            },
+            "properties": {
+                "name": "Olbernhau",
+                "id": "LKD_CO_4",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 3.0,
+                    "operator_name": "STEGAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.075455959602834,
+                    50.872017405452425
+                ]
+            },
+            "properties": {
+                "name": "Eischleben",
+                "id": "LKD_CO_5",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 3.0,
+                    "operator_name": "STEGAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.656208132409002,
+                    50.68474780129773
+                ]
+            },
+            "properties": {
+                "name": "Reckrod",
+                "id": "LKD_CO_6",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "ITP-00198",
+                    "license": "open data",
+                    "num_turb": 5.0,
+                    "operator_name": "STEGAL MIDAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.663706939190082,
+                    51.921375832676524
+                ]
+            },
+            "properties": {
+                "name": "Lippe",
+                "id": "LKD_CO_7",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 3.0,
+                    "operator_name": "MIDAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.347535098990326,
+                    52.5517987869226
+                ]
+            },
+            "properties": {
+                "name": "Rehden",
+                "id": "LKD_CO_8",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00087",
+                    "license": "open data",
+                    "num_turb": 2.0,
+                    "operator_name": "MIDAL NEL  RHG GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.230313945642903,
+                    53.18327612885241
+                ]
+            },
+            "properties": {
+                "name": "Bunder-Tief",
+                "id": "LKD_CO_9",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "ITP-00199",
+                    "license": "open data",
+                    "num_turb": 2.0,
+                    "operator_name": "MIDAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.777765856644877,
+                    50.85304060359307
+                ]
+            },
+            "properties": {
+                "name": "Weisweiler",
+                "id": "LKD_CO_10",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 3.0,
+                    "operator_name": "WEDAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.406074212518723,
+                    50.7132578942927
+                ]
+            },
+            "properties": {
+                "name": "Ort_LKD_N_814126",
+                "id": "LKD_CO_11",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 3.0,
+                    "operator_name": "ONTRAS"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.218489752145178,
+                    51.71159321151147
+                ]
+            },
+            "properties": {
+                "name": "Ort_LKD_N_815007",
+                "id": "LKD_CO_12",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": null,
+                    "license": "open data",
+                    "num_turb": 2.0,
+                    "operator_name": "ONTRAS"
+                },
+                "method": {
+                    "entsog_key": null,
+                    "license": "raw",
+                    "num_turb": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        }
+    ]
+}

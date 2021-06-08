@@ -1,0 +1,677 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213,
+                    51.323
+                ]
+            },
+            "properties": {
+                "name": "Zeebrugge LNG Terminal",
+                "id": "GIE_LG_0",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001006T",
+                    "facility_code": "21W0000000001245",
+                    "max_cap_store2pipe_M_m3_per_d": 41.906288298,
+                    "max_workingGas_M_m3": 223.088,
+                    "median_cap_store2pipe_M_m3_per_d": 41.906288298,
+                    "name_short": "Zeebrugge"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0947299999999998,
+                    43.3612
+                ]
+            },
+            "properties": {
+                "name": "Bilbao LNG Terminal",
+                "id": "GIE_LG_1",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001352A",
+                    "facility_code": "21W0000000000362",
+                    "max_cap_store2pipe_M_m3_per_d": 23.4373526904,
+                    "max_workingGas_M_m3": 262.11672,
+                    "median_cap_store2pipe_M_m3_per_d": 20.9955689628,
+                    "name_short": "Bilbao"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.174,
+                    41.398
+                ]
+            },
+            "properties": {
+                "name": "Barcelona LNG Terminal",
+                "id": "GIE_LG_2",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001254A",
+                    "facility_code": "21W000000000039X",
+                    "max_cap_store2pipe_M_m3_per_d": 51.1831809156,
+                    "max_workingGas_M_m3": 442.68952,
+                    "median_cap_store2pipe_M_m3_per_d": 51.1831809156,
+                    "name_short": "Barcelona"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.998,
+                    37.624
+                ]
+            },
+            "properties": {
+                "name": "Cartagena LNG Terminal",
+                "id": "GIE_LG_3",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001254A",
+                    "facility_code": "21W000000000038Z",
+                    "max_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "max_workingGas_M_m3": 341.92032,
+                    "median_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "name_short": "Cartagena"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9422,
+                    37.2615
+                ]
+            },
+            "properties": {
+                "name": "Huelva LNG Terminal",
+                "id": "GIE_LG_4",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001254A",
+                    "facility_code": "21W0000000000370",
+                    "max_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "max_workingGas_M_m3": 360.84776000000005,
+                    "median_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "name_short": "Huelva"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2152,
+                    39.6329
+                ]
+            },
+            "properties": {
+                "name": "Sagunto LNG Terminal",
+                "id": "GIE_LG_5",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "18XTGPRS-12345-G",
+                    "facility_code": "21W0000000000354",
+                    "max_cap_store2pipe_M_m3_per_d": 26.237390401200003,
+                    "max_workingGas_M_m3": 349.48895999999996,
+                    "median_cap_store2pipe_M_m3_per_d": 26.237390401200003,
+                    "name_short": "Sagunto"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.253,
+                    43.4578
+                ]
+            },
+            "properties": {
+                "name": "Mugardos LNG Terminal",
+                "id": "GIE_LG_6",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "18XRGNSA-12345-V",
+                    "facility_code": "21W0000000000338",
+                    "max_cap_store2pipe_M_m3_per_d": 10.8607523328,
+                    "max_workingGas_M_m3": 175.2,
+                    "median_cap_store2pipe_M_m3_per_d": 10.8607523328,
+                    "name_short": "Mugardos"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8516699999999995,
+                    43.45399999999999
+                ]
+            },
+            "properties": {
+                "name": "Fos Tonkin LNG Terminal",
+                "id": "GIE_LG_7",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000010679",
+                    "facility_code": "63W179356656691A",
+                    "max_cap_store2pipe_M_m3_per_d": 9.0411992076,
+                    "max_workingGas_M_m3": 46.72,
+                    "median_cap_store2pipe_M_m3_per_d": 9.0411992076,
+                    "name_short": "FosTonkin"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.14,
+                    47.32
+                ]
+            },
+            "properties": {
+                "name": "Montoir de Bretagne LNG Terminal",
+                "id": "GIE_LG_8",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000010679",
+                    "facility_code": "63W631527814486R",
+                    "max_cap_store2pipe_M_m3_per_d": 32.5445460528,
+                    "max_workingGas_M_m3": 210.23999999999998,
+                    "median_cap_store2pipe_M_m3_per_d": 31.771471668,
+                    "name_short": "MontoirDeBretagne"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1947919999999996,
+                    51.033134000000004
+                ]
+            },
+            "properties": {
+                "name": "Dunkerque LNG Terminal",
+                "id": "GIE_LG_9",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001331I",
+                    "facility_code": "21W0000000000451",
+                    "max_cap_store2pipe_M_m3_per_d": 49.005373807199994,
+                    "max_workingGas_M_m3": 350.4,
+                    "median_cap_store2pipe_M_m3_per_d": 49.005373807199994,
+                    "name_short": "Dunkerque"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898630000000001,
+                    43.42239
+                ]
+            },
+            "properties": {
+                "name": "Fos Cavaou LNG Terminal",
+                "id": "GIE_LG_10",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001070K",
+                    "facility_code": "63W943693783886F",
+                    "max_cap_store2pipe_M_m3_per_d": 28.2832092,
+                    "max_workingGas_M_m3": 192.72,
+                    "median_cap_store2pipe_M_m3_per_d": 28.2832092,
+                    "name_short": "FosCavaou"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.711,
+                    51.45
+                ]
+            },
+            "properties": {
+                "name": "Isle of Grain LNG Terminal",
+                "id": "GIE_LG_11",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-GB-A-A0A0A-7",
+                    "facility_code": "21W000000000099F",
+                    "max_cap_store2pipe_M_m3_per_d": 60.714622416000005,
+                    "max_workingGas_M_m3": 599.4176000000001,
+                    "median_cap_store2pipe_M_m3_per_d": 60.714622416000005,
+                    "name_short": "IsleofGrain"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.078012,
+                    51.713781
+                ]
+            },
+            "properties": {
+                "name": "South Hook LNG Terminal",
+                "id": "GIE_LG_12",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013554",
+                    "facility_code": "21W0000000000419",
+                    "max_cap_store2pipe_M_m3_per_d": 61.280286600000004,
+                    "max_workingGas_M_m3": 438.98112000000003,
+                    "median_cap_store2pipe_M_m3_per_d": 61.280286600000004,
+                    "name_short": "SouthHook"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4023,
+                    37.96
+                ]
+            },
+            "properties": {
+                "name": "Revythoussa LNG Terminal",
+                "id": "GIE_LG_13",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-GR-A-A0A0A-G",
+                    "facility_code": "21W000000000040B",
+                    "max_cap_store2pipe_M_m3_per_d": 25.4454605436,
+                    "max_workingGas_M_m3": 75.92,
+                    "median_cap_store2pipe_M_m3_per_d": 19.373998302,
+                    "name_short": "Revythoussa"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.830632000000001,
+                    44.073876
+                ]
+            },
+            "properties": {
+                "name": "Panigaglia LNG Terminal",
+                "id": "GIE_LG_14",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "26X00000117915-0",
+                    "facility_code": "59W0000000000011",
+                    "max_cap_store2pipe_M_m3_per_d": 11.266144998,
+                    "max_workingGas_M_m3": 23.36,
+                    "median_cap_store2pipe_M_m3_per_d": 11.266144998,
+                    "name_short": "Panigaglia"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2808,
+                    43.548
+                ]
+            },
+            "properties": {
+                "name": "FSRU OLT Offshore LNG Toscana",
+                "id": "GIE_LG_15",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001109G",
+                    "facility_code": "21W0000000000443",
+                    "max_cap_store2pipe_M_m3_per_d": 15.716036578799999,
+                    "max_workingGas_M_m3": 80.10144,
+                    "median_cap_store2pipe_M_m3_per_d": 15.697181106,
+                    "name_short": "Toscana"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.363969699999998,
+                    45.048835700000005
+                ]
+            },
+            "properties": {
+                "name": "Porto Levante LNG Terminal",
+                "id": "GIE_LG_16",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001360B",
+                    "facility_code": "21W000000000082W",
+                    "max_cap_store2pipe_M_m3_per_d": 21.542377674,
+                    "max_workingGas_M_m3": 146.0,
+                    "median_cap_store2pipe_M_m3_per_d": 21.542377674,
+                    "name_short": "PortoLevante"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.151954,
+                    55.7252
+                ]
+            },
+            "properties": {
+                "name": "FSRU Independence",
+                "id": "GIE_LG_17",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013740",
+                    "facility_code": "21W0000000001253",
+                    "max_cap_store2pipe_M_m3_per_d": 11.831809182,
+                    "max_workingGas_M_m3": 97.56888,
+                    "median_cap_store2pipe_M_m3_per_d": 11.831809182,
+                    "name_short": "Klaipeda"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064029,
+                    51.973836999999996
+                ]
+            },
+            "properties": {
+                "name": "Rotterdam Gate Terminal",
+                "id": "GIE_LG_18",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001063H",
+                    "facility_code": "21W0000000000079",
+                    "max_cap_store2pipe_M_m3_per_d": 43.461864804,
+                    "max_workingGas_M_m3": 315.36,
+                    "median_cap_store2pipe_M_m3_per_d": 43.461864804,
+                    "name_short": "RotterdamGate"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.294722,
+                    53.909167000000004
+                ]
+            },
+            "properties": {
+                "name": "Swinoujscie LNG Terminal",
+                "id": "GIE_LG_19",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "eic_code": "53XPL000000PLNG6",
+                    "facility_code": "21W000000000096L",
+                    "max_cap_store2pipe_M_m3_per_d": 15.348354859200002,
+                    "max_workingGas_M_m3": 186.88,
+                    "median_cap_store2pipe_M_m3_per_d": 15.348354859200002,
+                    "name_short": "Swinoujscie"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8435,
+                    37.9419
+                ]
+            },
+            "properties": {
+                "name": "Sines LNG Terminal",
+                "id": "GIE_LG_20",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013619",
+                    "facility_code": "16WTGNL01------O",
+                    "max_cap_store2pipe_M_m3_per_d": 18.8554728,
+                    "max_workingGas_M_m3": 227.76000000000002,
+                    "median_cap_store2pipe_M_m3_per_d": 18.1766757792,
+                    "name_short": "Sines"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "name_short": "raw"
+                }
+            }
+        }
+    ]
+}

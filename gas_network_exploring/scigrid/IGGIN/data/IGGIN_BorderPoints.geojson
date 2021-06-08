@@ -1,0 +1,3073 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3036,
+                    36.7348
+                ]
+            },
+            "properties": {
+                "name": "Almeria",
+                "id": "INET_BP_0",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.315596,
+                    50.926317
+                ]
+            },
+            "properties": {
+                "name": "Alveringem",
+                "id": "INET_BP_1",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "Alveringem-Maldegem pipeline",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7057619,
+                    46.5499903
+                ]
+            },
+            "properties": {
+                "name": "Arnoldstein",
+                "id": "INET_BP_2",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "medgaz",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.12,
+                    45.78
+                ]
+            },
+            "properties": {
+                "name": "Backi Breg",
+                "id": "INET_BP_3",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9714,
+                    38.87665
+                ]
+            },
+            "properties": {
+                "name": "Badajoz",
+                "id": "INET_BP_4",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.461,
+                    48.2023
+                ]
+            },
+            "properties": {
+                "name": "Balassagyarmat",
+                "id": "INET_BP_5",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "Slovak-Hungarian Gas Interconnector",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.822,
+                    52.86
+                ]
+            },
+            "properties": {
+                "name": "Balgzand",
+                "id": "INET_BP_6",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.788932,
+                    54.84019
+                ]
+            },
+            "properties": {
+                "name": "Ballylumford",
+                "id": "INET_BP_7",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.457,
+                    47.481
+                ]
+            },
+            "properties": {
+                "name": "Basel",
+                "id": "INET_BP_8",
+                "country_code": "CH",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.875328,
+                    48.316295
+                ]
+            },
+            "properties": {
+                "name": "Baumgarten",
+                "id": "INET_BP_9",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "WAG",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5320069,
+                    48.198510799999994
+                ]
+            },
+            "properties": {
+                "name": "Beregdaroc",
+                "id": "INET_BP_10",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4907078,
+                    44.7815366
+                ]
+            },
+            "properties": {
+                "name": "Bibesti",
+                "id": "INET_BP_11",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.743022,
+                    43.333203999999995
+                ]
+            },
+            "properties": {
+                "name": "Biriatou",
+                "id": "INET_BP_12",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.021767,
+                    50.817365
+                ]
+            },
+            "properties": {
+                "name": "Bocholtz",
+                "id": "INET_BP_13",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "TENP",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.39,
+                    50.635
+                ]
+            },
+            "properties": {
+                "name": "Brandov",
+                "id": "INET_BP_14",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.1291199999999995,
+                    54.78735
+                ]
+            },
+            "properties": {
+                "name": "Brighthouse",
+                "id": "INET_BP_15",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.121625,
+                    48.552002
+                ]
+            },
+            "properties": {
+                "name": "Budince",
+                "id": "INET_BP_16",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "Vojany-U?horod pipeline",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8531,
+                    48.1835
+                ]
+            },
+            "properties": {
+                "name": "Burghausen",
+                "id": "INET_BP_17",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "MONACO",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.059,
+                    38.982
+                ]
+            },
+            "properties": {
+                "name": "Campo Maior",
+                "id": "INET_BP_18",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67,
+                    46.71
+                ]
+            },
+            "properties": {
+                "name": "Cersak",
+                "id": "INET_BP_19",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.68003,
+                    37.906
+                ]
+            },
+            "properties": {
+                "name": "Cordoba",
+                "id": "INET_BP_20",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.68003,
+                    37.906
+                ]
+            },
+            "properties": {
+                "name": "Cordoba",
+                "id": "INET_BP_21",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.194969,
+                    46.302801
+                ]
+            },
+            "properties": {
+                "name": "Csanadpalota",
+                "id": "INET_BP_22",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.472999999999999,
+                    50.621
+                ]
+            },
+            "properties": {
+                "name": "Deutschneudorf",
+                "id": "INET_BP_23",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8705487,
+                    50.9554323
+                ]
+            },
+            "properties": {
+                "name": "Dilsen",
+                "id": "INET_BP_24",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9314,
+                    45.1566
+                ]
+            },
+            "properties": {
+                "name": "Donji Miholac",
+                "id": "INET_BP_25",
+                "country_code": "HR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "Gas pipeline between Vrosfld-Slobodnica",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.404,
+                    53.66
+                ]
+            },
+            "properties": {
+                "name": "Dornum",
+                "id": "INET_BP_26",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7741311,
+                    46.126703
+                ]
+            },
+            "properties": {
+                "name": "Dravaszerdahely",
+                "id": "INET_BP_27",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.644184699999997,
+                    49.808796799999996
+                ]
+            },
+            "properties": {
+                "name": "Drozdwicze",
+                "id": "INET_BP_28",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1947919999999996,
+                    51.033134000000004
+                ]
+            },
+            "properties": {
+                "name": "Dunkerque",
+                "id": "INET_BP_29",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.289041,
+                    54.801878
+                ]
+            },
+            "properties": {
+                "name": "Ellund",
+                "id": "INET_BP_30",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.144031,
+                    51.897037
+                ]
+            },
+            "properties": {
+                "name": "Elten",
+                "id": "INET_BP_31",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2062,
+                    53.3422
+                ]
+            },
+            "properties": {
+                "name": "Emden",
+                "id": "INET_BP_32",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "NPT, EPT",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3062,
+                    52.4807
+                ]
+            },
+            "properties": {
+                "name": "Emsbueren",
+                "id": "INET_BP_33",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.09,
+                    50.7
+                ]
+            },
+            "properties": {
+                "name": "Eynatten",
+                "id": "INET_BP_34",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6948726,
+                    47.658044
+                ]
+            },
+            "properties": {
+                "name": "Fallentor",
+                "id": "INET_BP_35",
+                "country_code": "CH",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.269219,
+                    37.052698
+                ]
+            },
+            "properties": {
+                "name": "Gela",
+                "id": "INET_BP_36",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.619396,
+                    45.942831
+                ]
+            },
+            "properties": {
+                "name": "Gorizia",
+                "id": "INET_BP_37",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7611628,
+                    50.7587829
+                ]
+            },
+            "properties": {
+                "name": "Gravenvoeren",
+                "id": "INET_BP_38",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8531,
+                    48.1835
+                ]
+            },
+            "properties": {
+                "name": "Haiming",
+                "id": "INET_BP_39",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6777169,
+                    50.0161463
+                ]
+            },
+            "properties": {
+                "name": "Hermanowice",
+                "id": "INET_BP_40",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.13,
+                    51.52
+                ]
+            },
+            "properties": {
+                "name": "Hilvarenbeek",
+                "id": "INET_BP_41",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.596259,
+                    47.835122
+                ]
+            },
+            "properties": {
+                "name": "Hugelheim",
+                "id": "INET_BP_42",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7645463,
+                    61.169597700000004
+                ]
+            },
+            "properties": {
+                "name": "Imatra",
+                "id": "INET_BP_43",
+                "country_code": "FI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1868662,
+                    47.6181459
+                ]
+            },
+            "properties": {
+                "name": "Inzenham",
+                "id": "INET_BP_44",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4607273,
+                    45.265423
+                ]
+            },
+            "properties": {
+                "name": "Isaccea",
+                "id": "INET_BP_45",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.457,
+                    47.481
+                ]
+            },
+            "properties": {
+                "name": "Jura La Cure",
+                "id": "INET_BP_46",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.107900300000004,
+                    43.753800899999995
+                ]
+            },
+            "properties": {
+                "name": "Kardam",
+                "id": "INET_BP_47",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.629338600000004,
+                    58.100208499999994
+                ]
+            },
+            "properties": {
+                "name": "Karksi",
+                "id": "INET_BP_48",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.186866199999999,
+                    47.618145899999995
+                ]
+            },
+            "properties": {
+                "name": "Kiefersfelden",
+                "id": "INET_BP_49",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2,
+                    56.59
+                ]
+            },
+            "properties": {
+                "name": "Kiemenai",
+                "id": "INET_BP_50",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.307160999999997,
+                    40.970417
+                ]
+            },
+            "properties": {
+                "name": "Kipoi",
+                "id": "INET_BP_51",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.063011,
+                    46.273080900000004
+                ]
+            },
+            "properties": {
+                "name": "Kiskundorozsma",
+                "id": "INET_BP_52",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.896413,
+                    53.01781
+                ]
+            },
+            "properties": {
+                "name": "Kondratki",
+                "id": "INET_BP_53",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "Yamal",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.943475899999996,
+                    57.5928519
+                ]
+            },
+            "properties": {
+                "name": "Korneti",
+                "id": "INET_BP_54",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "Baltic Pipeline System",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7475233,
+                    54.716599
+                ]
+            },
+            "properties": {
+                "name": "Kotlovka",
+                "id": "INET_BP_55",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3632506,
+                    41.3875814
+                ]
+            },
+            "properties": {
+                "name": "Kulata",
+                "id": "INET_BP_56",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6939308,
+                    42.2868817
+                ]
+            },
+            "properties": {
+                "name": "Kyustendil",
+                "id": "INET_BP_57",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.025,
+                    48.699
+                ]
+            },
+            "properties": {
+                "name": "Lanzhot",
+                "id": "INET_BP_58",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9557180000000001,
+                    43.018757
+                ]
+            },
+            "properties": {
+                "name": "Larrau",
+                "id": "INET_BP_59",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0307916,
+                    51.228626299999995
+                ]
+            },
+            "properties": {
+                "name": "Lasow",
+                "id": "INET_BP_60",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.543,
+                    52.427
+                ]
+            },
+            "properties": {
+                "name": "Lebus",
+                "id": "INET_BP_61",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6789333,
+                    47.5797815
+                ]
+            },
+            "properties": {
+                "name": "Lindau",
+                "id": "INET_BP_62",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.084,
+                    53.548
+                ]
+            },
+            "properties": {
+                "name": "Loughshinny",
+                "id": "INET_BP_63",
+                "country_code": "IE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.82,
+                    45.269
+                ]
+            },
+            "properties": {
+                "name": "Loznica",
+                "id": "INET_BP_64",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.47384,
+                    52.441781000000006
+                ]
+            },
+            "properties": {
+                "name": "Mallnow",
+                "id": "INET_BP_65",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597628,
+                    37.65533
+                ]
+            },
+            "properties": {
+                "name": "Mazara Del Vallo",
+                "id": "INET_BP_66",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "TransMed",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.27,
+                    49.144
+                ]
+            },
+            "properties": {
+                "name": "Medelsheim",
+                "id": "INET_BP_67",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "MEGAL Nord",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376644,
+                    47.786743
+                ]
+            },
+            "properties": {
+                "name": "Mediesu Aurit",
+                "id": "INET_BP_68",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.325508000000003,
+                    40.980957000000004
+                ]
+            },
+            "properties": {
+                "name": "Meric Nehri",
+                "id": "INET_BP_70",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2689169,
+                    47.8681469
+                ]
+            },
+            "properties": {
+                "name": "Mosonmagyarovar",
+                "id": "INET_BP_71",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67,
+                    46.71
+                ]
+            },
+            "properties": {
+                "name": "Murfeld",
+                "id": "INET_BP_72",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1790751,
+                    59.3796931
+                ]
+            },
+            "properties": {
+                "name": "Narva",
+                "id": "INET_BP_73",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2176216,
+                    43.8155851
+                ]
+            },
+            "properties": {
+                "name": "Negru Voda",
+                "id": "INET_BP_74",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3672514,
+                    54.860443000000004
+                ]
+            },
+            "properties": {
+                "name": "Nemencine",
+                "id": "INET_BP_75",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3122919,
+                    55.617559
+                ]
+            },
+            "properties": {
+                "name": "Nybro",
+                "id": "INET_BP_76",
+                "country_code": "DK",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8705487,
+                    50.9554323
+                ]
+            },
+            "properties": {
+                "name": "Obbicht",
+                "id": "INET_BP_77",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.751863,
+                    48.554429999999996
+                ]
+            },
+            "properties": {
+                "name": "Oberkappel",
+                "id": "INET_BP_78",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.359860999999999,
+                    50.645421
+                ]
+            },
+            "properties": {
+                "name": "Olbernhau",
+                "id": "INET_BP_79",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.457,
+                    47.481
+                ]
+            },
+            "properties": {
+                "name": "Oltinigue",
+                "id": "INET_BP_80",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.45287,
+                    45.3199
+                ]
+            },
+            "properties": {
+                "name": "Orlovka",
+                "id": "INET_BP_81",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "TENP",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.38,
+                    40.265
+                ]
+            },
+            "properties": {
+                "name": "Otranto",
+                "id": "INET_BP_82",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.205,
+                    53.2019
+                ]
+            },
+            "properties": {
+                "name": "Oude Statenzijl",
+                "id": "INET_BP_83",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "EPT, NPT",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.31,
+                    55.93
+                ]
+            },
+            "properties": {
+                "name": "Pakruojis",
+                "id": "INET_BP_84",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.366838000000001,
+                    46.449851
+                ]
+            },
+            "properties": {
+                "name": "Passo Gries",
+                "id": "INET_BP_85",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "Transitgas Pipeline",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3674222,
+                    49.545017
+                ]
+            },
+            "properties": {
+                "name": "Petange",
+                "id": "INET_BP_86",
+                "country_code": "LU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.526435099999999,
+                    47.5766418
+                ]
+            },
+            "properties": {
+                "name": "Pfronten",
+                "id": "INET_BP_87",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.311025,
+                    43.547519
+                ]
+            },
+            "properties": {
+                "name": "Piombino",
+                "id": "INET_BP_88",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.09,
+                    50.7
+                ]
+            },
+            "properties": {
+                "name": "Raeren",
+                "id": "INET_BP_89",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3674222,
+                    49.545017
+                ]
+            },
+            "properties": {
+                "name": "Remich",
+                "id": "INET_BP_90",
+                "country_code": "LU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7000312,
+                    46.2258891
+                ]
+            },
+            "properties": {
+                "name": "Rogatec",
+                "id": "INET_BP_91",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0480199,
+                    54.952670999999995
+                ]
+            },
+            "properties": {
+                "name": "Sakiai",
+                "id": "INET_BP_92",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65005,
+                    45.9266
+                ]
+            },
+            "properties": {
+                "name": "Sempeter",
+                "id": "INET_BP_93",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3938203,
+                    41.2349471
+                ]
+            },
+            "properties": {
+                "name": "Sidirokastron",
+                "id": "INET_BP_94",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2176216,
+                    43.8155851
+                ]
+            },
+            "properties": {
+                "name": "Silistea",
+                "id": "INET_BP_95",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.008611,
+                    42.1825
+                ]
+            },
+            "properties": {
+                "name": "Strandja",
+                "id": "INET_BP_96",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.44,
+                    44.79
+                ]
+            },
+            "properties": {
+                "name": "Takovo",
+                "id": "INET_BP_97",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.592806,
+                    46.505528000000005
+                ]
+            },
+            "properties": {
+                "name": "Tarvisio",
+                "id": "INET_BP_98",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28,
+                    45.41
+                ]
+            },
+            "properties": {
+                "name": "Trzac",
+                "id": "INET_BP_99",
+                "country_code": "BA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.632403,
+                    42.155953000000004
+                ]
+            },
+            "properties": {
+                "name": "Tuy",
+                "id": "INET_BP_100",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8531,
+                    48.1835
+                ]
+            },
+            "properties": {
+                "name": "Ueberackern",
+                "id": "INET_BP_101",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.438999,
+                    45.862614
+                ]
+            },
+            "properties": {
+                "name": "Umag Rijeka",
+                "id": "INET_BP_102",
+                "country_code": "HR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.287882999999997,
+                    48.6208
+                ]
+            },
+            "properties": {
+                "name": "Uzhgorod",
+                "id": "INET_BP_103",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.644,
+                    41.506
+                ]
+            },
+            "properties": {
+                "name": "Vale De Frades",
+                "id": "INET_BP_104",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6398019,
+                    42.0248024
+                ]
+            },
+            "properties": {
+                "name": "Valenca Do Minho",
+                "id": "INET_BP_105",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6375433,
+                    57.957053599999995
+                ]
+            },
+            "properties": {
+                "name": "Varska",
+                "id": "INET_BP_106",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5,
+                    46.058
+                ]
+            },
+            "properties": {
+                "name": "Vodice",
+                "id": "INET_BP_107",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7645463,
+                    61.1695977
+                ]
+            },
+            "properties": {
+                "name": "Vyborg",
+                "id": "INET_BP_108",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.495999999999999,
+                    49.644
+                ]
+            },
+            "properties": {
+                "name": "Waidhaus",
+                "id": "INET_BP_109",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": "MEGAL",
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": "raw",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9,
+                    47.566
+                ]
+            },
+            "properties": {
+                "name": "Wallbach",
+                "id": "INET_BP_110",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.006152,
+                    52.175948
+                ]
+            },
+            "properties": {
+                "name": "Winterswijk",
+                "id": "INET_BP_111",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.371,
+                    52.3696
+                ]
+            },
+            "properties": {
+                "name": "Wysokoje",
+                "id": "INET_BP_112",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.89,
+                    43.32
+                ]
+            },
+            "properties": {
+                "name": "Zajecar",
+                "id": "INET_BP_113",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34,
+                    51.387
+                ]
+            },
+            "properties": {
+                "name": "Zandvliet",
+                "id": "INET_BP_114",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213,
+                    51.323
+                ]
+            },
+            "properties": {
+                "name": "Zeebrugge",
+                "id": "INET_BP_115",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827686,
+                    51.191165999999996
+                ]
+            },
+            "properties": {
+                "name": "Zelzate",
+                "id": "INET_BP_116",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0759819,
+                    51.9605323
+                ]
+            },
+            "properties": {
+                "name": "Zweekhorst",
+                "id": "INET_BP_117",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.398599,
+                    42.2242526
+                ]
+            },
+            "properties": {
+                "name": "Zhidilovo",
+                "id": "INET_BP_118",
+                "country_code": "MK",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "pipe_name": null,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "pipe_name": null,
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

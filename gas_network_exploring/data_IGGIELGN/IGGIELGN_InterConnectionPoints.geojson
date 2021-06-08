@@ -1,0 +1,3073 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.21645,
+                    36.67306
+                ]
+            },
+            "properties": {
+                "name": "Almeria",
+                "id": "INET_IP_0",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8213,
+                    51.01642
+                ]
+            },
+            "properties": {
+                "name": "Alveringem",
+                "id": "INET_IP_1",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.70576,
+                    46.54999
+                ]
+            },
+            "properties": {
+                "name": "Arnoldstein",
+                "id": "INET_IP_2",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7383,
+                    46.09571
+                ]
+            },
+            "properties": {
+                "name": "Backi Breg",
+                "id": "INET_IP_3",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.89401,
+                    38.85621
+                ]
+            },
+            "properties": {
+                "name": "Badajoz",
+                "id": "INET_IP_4",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.26114,
+                    48.06674
+                ]
+            },
+            "properties": {
+                "name": "Balassagyarmat",
+                "id": "INET_IP_5",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.84876,
+                    52.85142
+                ]
+            },
+            "properties": {
+                "name": "Balgzand",
+                "id": "INET_IP_6",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.78422,
+                    54.8428
+                ]
+            },
+            "properties": {
+                "name": "Ballylumford",
+                "id": "INET_IP_7",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.67359,
+                    47.56344
+                ]
+            },
+            "properties": {
+                "name": "Basel",
+                "id": "INET_IP_8",
+                "country_code": "CH",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.76913,
+                    48.36282
+                ]
+            },
+            "properties": {
+                "name": "Baumgarten",
+                "id": "INET_IP_9",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.59206,
+                    48.18885
+                ]
+            },
+            "properties": {
+                "name": "Beregdaroc",
+                "id": "INET_IP_10",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.54231,
+                    44.74909
+                ]
+            },
+            "properties": {
+                "name": "Bibesti",
+                "id": "INET_IP_11",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.71111,
+                    43.30877
+                ]
+            },
+            "properties": {
+                "name": "Biriatou",
+                "id": "INET_IP_12",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.98559,
+                    50.7936
+                ]
+            },
+            "properties": {
+                "name": "Bocholtz",
+                "id": "INET_IP_13",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38158,
+                    50.64598
+                ]
+            },
+            "properties": {
+                "name": "Brandov",
+                "id": "INET_IP_14",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.10175,
+                    54.81249
+                ]
+            },
+            "properties": {
+                "name": "Brighthouse",
+                "id": "INET_IP_15",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.12217,
+                    48.54841
+                ]
+            },
+            "properties": {
+                "name": "Budince",
+                "id": "INET_IP_16",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86101,
+                    48.19149
+                ]
+            },
+            "properties": {
+                "name": "Burghausen",
+                "id": "INET_IP_17",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.20273,
+                    38.95729
+                ]
+            },
+            "properties": {
+                "name": "Campo Maior",
+                "id": "INET_IP_18",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7671,
+                    46.72824
+                ]
+            },
+            "properties": {
+                "name": "Cersak",
+                "id": "INET_IP_19",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.68795,
+                    37.82964
+                ]
+            },
+            "properties": {
+                "name": "Cordoba",
+                "id": "INET_IP_20",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.68795,
+                    37.82964
+                ]
+            },
+            "properties": {
+                "name": "Cordoba",
+                "id": "INET_IP_21",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.77967,
+                    46.21163
+                ]
+            },
+            "properties": {
+                "name": "Csanadpalota",
+                "id": "INET_IP_22",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.52173,
+                    50.63739
+                ]
+            },
+            "properties": {
+                "name": "Deutschneudorf",
+                "id": "INET_IP_23",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.80138,
+                    51.02287
+                ]
+            },
+            "properties": {
+                "name": "Dilsen",
+                "id": "INET_IP_24",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1601,
+                    45.76138
+                ]
+            },
+            "properties": {
+                "name": "Donji Miholac",
+                "id": "INET_IP_25",
+                "country_code": "HR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41631,
+                    53.6525
+                ]
+            },
+            "properties": {
+                "name": "Dornum",
+                "id": "INET_IP_26",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1601,
+                    45.76138
+                ]
+            },
+            "properties": {
+                "name": "Dravaszerdahely",
+                "id": "INET_IP_27",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.59986,
+                    49.8607
+                ]
+            },
+            "properties": {
+                "name": "Drozdwicze",
+                "id": "INET_IP_28",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.19267,
+                    51.03396
+                ]
+            },
+            "properties": {
+                "name": "Dunkerque",
+                "id": "INET_IP_29",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.28701,
+                    54.80396
+                ]
+            },
+            "properties": {
+                "name": "Ellund",
+                "id": "INET_IP_30",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.12728,
+                    51.86375
+                ]
+            },
+            "properties": {
+                "name": "Elten",
+                "id": "INET_IP_31",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1971,
+                    53.34383
+                ]
+            },
+            "properties": {
+                "name": "Emden",
+                "id": "INET_IP_32",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.24015,
+                    52.35642
+                ]
+            },
+            "properties": {
+                "name": "Emsbueren",
+                "id": "INET_IP_33",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.21729,
+                    50.70096
+                ]
+            },
+            "properties": {
+                "name": "Eynatten",
+                "id": "INET_IP_34",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6492,
+                    47.64837
+                ]
+            },
+            "properties": {
+                "name": "Fallentor",
+                "id": "INET_IP_35",
+                "country_code": "CH",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.19107,
+                    37.14335
+                ]
+            },
+            "properties": {
+                "name": "Gela",
+                "id": "INET_IP_36",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65387,
+                    45.93941
+                ]
+            },
+            "properties": {
+                "name": "Gorizia",
+                "id": "INET_IP_37",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75499,
+                    50.75011
+                ]
+            },
+            "properties": {
+                "name": "Gravenvoeren",
+                "id": "INET_IP_38",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86101,
+                    48.19149
+                ]
+            },
+            "properties": {
+                "name": "Haiming",
+                "id": "INET_IP_39",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.80371,
+                    49.66798
+                ]
+            },
+            "properties": {
+                "name": "Hermanowice",
+                "id": "INET_IP_40",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2572,
+                    51.56386
+                ]
+            },
+            "properties": {
+                "name": "Hilvarenbeek",
+                "id": "INET_IP_41",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.61274,
+                    47.83753
+                ]
+            },
+            "properties": {
+                "name": "Hugelheim",
+                "id": "INET_IP_42",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.71409,
+                    61.17337
+                ]
+            },
+            "properties": {
+                "name": "Imatra",
+                "id": "INET_IP_43",
+                "country_code": "FI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1341,
+                    47.8561
+                ]
+            },
+            "properties": {
+                "name": "Inzenham",
+                "id": "INET_IP_44",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.49417,
+                    45.24272
+                ]
+            },
+            "properties": {
+                "name": "Isaccea",
+                "id": "INET_IP_45",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.39312,
+                    47.34316
+                ]
+            },
+            "properties": {
+                "name": "Jura La Cure",
+                "id": "INET_IP_46",
+                "country_code": "CH",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.96951,
+                    43.77018
+                ]
+            },
+            "properties": {
+                "name": "Kardam",
+                "id": "INET_IP_47",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.52384,
+                    58.07075
+                ]
+            },
+            "properties": {
+                "name": "Karksi",
+                "id": "INET_IP_48",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.22717,
+                    47.6481
+                ]
+            },
+            "properties": {
+                "name": "Kiefersfelden",
+                "id": "INET_IP_49",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.42295,
+                    56.22492
+                ]
+            },
+            "properties": {
+                "name": "Kiemenai",
+                "id": "INET_IP_50",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.30945,
+                    40.97174
+                ]
+            },
+            "properties": {
+                "name": "Kipoi",
+                "id": "INET_IP_51",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.10466,
+                    46.28569
+                ]
+            },
+            "properties": {
+                "name": "Kiskundorozsma",
+                "id": "INET_IP_52",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.89641,
+                    53.01781
+                ]
+            },
+            "properties": {
+                "name": "Kondratki",
+                "id": "INET_IP_53",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.99581,
+                    57.5837
+                ]
+            },
+            "properties": {
+                "name": "Korneti",
+                "id": "INET_IP_54",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.79474,
+                    54.81404
+                ]
+            },
+            "properties": {
+                "name": "Kotlovka",
+                "id": "INET_IP_55",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.18327,
+                    41.45463
+                ]
+            },
+            "properties": {
+                "name": "Kulata",
+                "id": "INET_IP_56",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.69393,
+                    42.28688
+                ]
+            },
+            "properties": {
+                "name": "Kyustendil",
+                "id": "INET_IP_57",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.04115,
+                    48.77895
+                ]
+            },
+            "properties": {
+                "name": "Lanzhot",
+                "id": "INET_IP_58",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.88551,
+                    42.99799
+                ]
+            },
+            "properties": {
+                "name": "Larrau",
+                "id": "INET_IP_59",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.97809,
+                    51.1465
+                ]
+            },
+            "properties": {
+                "name": "Lasow",
+                "id": "INET_IP_60",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.60093,
+                    47.53777
+                ]
+            },
+            "properties": {
+                "name": "Lindau",
+                "id": "INET_IP_61",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.28784,
+                    53.54616
+                ]
+            },
+            "properties": {
+                "name": "Loughshinny",
+                "id": "INET_IP_62",
+                "country_code": "IE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.23111,
+                    44.58244
+                ]
+            },
+            "properties": {
+                "name": "Loznica",
+                "id": "INET_IP_63",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.543,
+                    52.427
+                ]
+            },
+            "properties": {
+                "name": "Mallnow",
+                "id": "INET_IP_64",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.68026,
+                    37.68062
+                ]
+            },
+            "properties": {
+                "name": "Mazara Del Vallo",
+                "id": "INET_IP_65",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.29579,
+                    49.17536
+                ]
+            },
+            "properties": {
+                "name": "Medelsheim",
+                "id": "INET_IP_66",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.20685,
+                    47.76483
+                ]
+            },
+            "properties": {
+                "name": "Mediesu Aurit",
+                "id": "INET_IP_67",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55633,
+                    32.32657
+                ]
+            },
+            "properties": {
+                "name": "Mellitah",
+                "id": "INET_IP_68",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.21615,
+                    47.9024
+                ]
+            },
+            "properties": {
+                "name": "Mosonmagyarovar",
+                "id": "INET_IP_69",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7671,
+                    46.72824
+                ]
+            },
+            "properties": {
+                "name": "Murfeld",
+                "id": "INET_IP_70",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.17908,
+                    59.37969
+                ]
+            },
+            "properties": {
+                "name": "Narva",
+                "id": "INET_IP_71",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.96951,
+                    43.77018
+                ]
+            },
+            "properties": {
+                "name": "Negru Voda",
+                "id": "INET_IP_72",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.36725,
+                    54.86044
+                ]
+            },
+            "properties": {
+                "name": "Nemencine",
+                "id": "INET_IP_73",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.27396,
+                    56.18374
+                ]
+            },
+            "properties": {
+                "name": "Nybro",
+                "id": "INET_IP_74",
+                "country_code": "DK",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.80138,
+                    51.02287
+                ]
+            },
+            "properties": {
+                "name": "Obbicht",
+                "id": "INET_IP_75",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.75186,
+                    48.55443
+                ]
+            },
+            "properties": {
+                "name": "Oberkappel",
+                "id": "INET_IP_76",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.38158,
+                    50.64598
+                ]
+            },
+            "properties": {
+                "name": "Olbernhau",
+                "id": "INET_IP_77",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.43854,
+                    47.46597
+                ]
+            },
+            "properties": {
+                "name": "Oltinigue",
+                "id": "INET_IP_78",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.37447,
+                    45.35975
+                ]
+            },
+            "properties": {
+                "name": "Orlovka",
+                "id": "INET_IP_79",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.31413,
+                    40.11357
+                ]
+            },
+            "properties": {
+                "name": "Otranto",
+                "id": "INET_IP_80",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.18816,
+                    53.21049
+                ]
+            },
+            "properties": {
+                "name": "Oude Statenzijl",
+                "id": "INET_IP_81",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.94294,
+                    55.93233
+                ]
+            },
+            "properties": {
+                "name": "Pakruojis",
+                "id": "INET_IP_82",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.30971,
+                    46.48966
+                ]
+            },
+            "properties": {
+                "name": "Passo Gries",
+                "id": "INET_IP_83",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.87693,
+                    49.55781
+                ]
+            },
+            "properties": {
+                "name": "Petange",
+                "id": "INET_IP_84",
+                "country_code": "LU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6071,
+                    47.56577
+                ]
+            },
+            "properties": {
+                "name": "Pfronten",
+                "id": "INET_IP_85",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.59086,
+                    42.96976
+                ]
+            },
+            "properties": {
+                "name": "Piombino",
+                "id": "INET_IP_86",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.21729,
+                    50.70096
+                ]
+            },
+            "properties": {
+                "name": "Raeren",
+                "id": "INET_IP_87",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.39846,
+                    49.53427
+                ]
+            },
+            "properties": {
+                "name": "Remich",
+                "id": "INET_IP_88",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.67228,
+                    46.23421
+                ]
+            },
+            "properties": {
+                "name": "Rogatec",
+                "id": "INET_IP_89",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.06017,
+                    54.94789
+                ]
+            },
+            "properties": {
+                "name": "Sakiai",
+                "id": "INET_IP_90",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.65387,
+                    45.93941
+                ]
+            },
+            "properties": {
+                "name": "Sempeter",
+                "id": "INET_IP_91",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.38269,
+                    41.08296
+                ]
+            },
+            "properties": {
+                "name": "Sidirokastron",
+                "id": "INET_IP_92",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.14808,
+                    44.35541
+                ]
+            },
+            "properties": {
+                "name": "Silistea",
+                "id": "INET_IP_93",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.00861,
+                    42.1825
+                ]
+            },
+            "properties": {
+                "name": "Strandja",
+                "id": "INET_IP_94",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.38581,
+                    44.0421
+                ]
+            },
+            "properties": {
+                "name": "Takovo",
+                "id": "INET_IP_95",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.59281,
+                    46.50553
+                ]
+            },
+            "properties": {
+                "name": "Tarvisio",
+                "id": "INET_IP_96",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3727,
+                    44.76112
+                ]
+            },
+            "properties": {
+                "name": "Trzac",
+                "id": "INET_IP_97",
+                "country_code": "BA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.57419,
+                    42.20975
+                ]
+            },
+            "properties": {
+                "name": "Tuy",
+                "id": "INET_IP_98",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.86101,
+                    48.19149
+                ]
+            },
+            "properties": {
+                "name": "Ueberackern",
+                "id": "INET_IP_99",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.82506,
+                    45.62397
+                ]
+            },
+            "properties": {
+                "name": "Umag Rijeka",
+                "id": "INET_IP_100",
+                "country_code": "HR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.43117,
+                    48.61535
+                ]
+            },
+            "properties": {
+                "name": "Uzhgorod",
+                "id": "INET_IP_101",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.68503,
+                    41.69868
+                ]
+            },
+            "properties": {
+                "name": "Vale De Frades",
+                "id": "INET_IP_102",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.59299,
+                    42.02064
+                ]
+            },
+            "properties": {
+                "name": "Valenca Do Minho",
+                "id": "INET_IP_103",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.46244,
+                    57.89527
+                ]
+            },
+            "properties": {
+                "name": "Varska",
+                "id": "INET_IP_104",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.56291,
+                    46.12777
+                ]
+            },
+            "properties": {
+                "name": "Vodice",
+                "id": "INET_IP_105",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.59571,
+                    60.70369
+                ]
+            },
+            "properties": {
+                "name": "Vyborg",
+                "id": "INET_IP_106",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.44549,
+                    49.66191
+                ]
+            },
+            "properties": {
+                "name": "Waidhaus",
+                "id": "INET_IP_107",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8072,
+                    47.5708
+                ]
+            },
+            "properties": {
+                "name": "Wallbach",
+                "id": "INET_IP_108",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.81851,
+                    51.98283
+                ]
+            },
+            "properties": {
+                "name": "Winterswijk",
+                "id": "INET_IP_109",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.26215,
+                    52.35832
+                ]
+            },
+            "properties": {
+                "name": "Wysokoje",
+                "id": "INET_IP_110",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.50359,
+                    43.89872
+                ]
+            },
+            "properties": {
+                "name": "Zajecar",
+                "id": "INET_IP_111",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.15428,
+                    51.34212
+                ]
+            },
+            "properties": {
+                "name": "Zandvliet",
+                "id": "INET_IP_112",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.19745,
+                    51.326
+                ]
+            },
+            "properties": {
+                "name": "Zeebrugge",
+                "id": "INET_IP_113",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.86892,
+                    51.21043
+                ]
+            },
+            "properties": {
+                "name": "Zelzate",
+                "id": "INET_IP_114",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.11463,
+                    51.96088
+                ]
+            },
+            "properties": {
+                "name": "Zweekhorst",
+                "id": "INET_IP_115",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3986,
+                    42.22425
+                ]
+            },
+            "properties": {
+                "name": "Zhidilovo",
+                "id": "INET_IP_116",
+                "country_code": "MK",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.30945,
+                    40.97174
+                ]
+            },
+            "properties": {
+                "name": "Meric Nehri",
+                "id": "INET_IP_117",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "exact": 3,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "exact": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,965 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9940986,
+                    40.9399278
+                ]
+            },
+            "properties": {
+                "name": "Alexandroupolis",
+                "id": "INET_LG_0",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 16.71232876712329,
+                    "max_workingGas_M_m3": 110.92671200000001,
+                    "source": "http://www.gastrade.gr/en/the-company/the-project.aspx",
+                    "start_year": 2022.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.174,
+                    41.398
+                ]
+            },
+            "properties": {
+                "name": "Barcelona",
+                "id": "INET_LG_1",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 46.84931506849315,
+                    "max_workingGas_M_m3": 548.286648,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 1969.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.09473,
+                    43.3612
+                ]
+            },
+            "properties": {
+                "name": "Bilbao",
+                "id": "INET_LG_2",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 24.10958904109589,
+                    "max_workingGas_M_m3": 293.68892800000003,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2003.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.976153,
+                    58.922139
+                ]
+            },
+            "properties": {
+                "name": "Brunnsviksholme",
+                "id": "INET_LG_3",
+                "country_code": "SE",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 1.36986301369863,
+                    "max_workingGas_M_m3": 12.982320000000001,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2011.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.998,
+                    37.624
+                ]
+            },
+            "properties": {
+                "name": "Cartagena",
+                "id": "INET_LG_4",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 32.32876712328767,
+                    "max_workingGas_M_m3": 404.32714400000003,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 1989.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.556524,
+                    35.828836
+                ]
+            },
+            "properties": {
+                "name": "Delimara",
+                "id": "INET_LG_5",
+                "country_code": "MT",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 1.643835616438356,
+                    "max_workingGas_M_m3": 81.644368,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf + https://www.sourcewatch.org/index.php/Delimara_Malta_LNG_Terminal",
+                    "start_year": 2017.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.988372,
+                    51.705887
+                ]
+            },
+            "properties": {
+                "name": "Dragon",
+                "id": "INET_LG_6",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 20.82191780821918,
+                    "max_workingGas_M_m3": 208.871104,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2009.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.194792,
+                    51.033134
+                ]
+            },
+            "properties": {
+                "name": "Dunkerque",
+                "id": "INET_LG_7",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 35.61643835616439,
+                    "max_workingGas_M_m3": 391.63332,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2016.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2193451,
+                    43.489646
+                ]
+            },
+            "properties": {
+                "name": "El Ferrol",
+                "id": "INET_LG_8",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 9.863013698630137,
+                    "max_workingGas_M_m3": 195.744536,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2007.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.664,
+                    43.534
+                ]
+            },
+            "properties": {
+                "name": "El Musel",
+                "id": "INET_LG_9",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 19.17808219178082,
+                    "max_workingGas_M_m3": 195.744536,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2012.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89863,
+                    43.42239
+                ]
+            },
+            "properties": {
+                "name": "Fos Cavaou",
+                "id": "INET_LG_10",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 45.205479452054796,
+                    "max_workingGas_M_m3": 359.033272,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2020.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.85167,
+                    43.454
+                ]
+            },
+            "properties": {
+                "name": "Fos Tonkin",
+                "id": "INET_LG_11",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 9.315068493150685,
+                    "max_workingGas_M_m3": 101.11784800000001,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 1972.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064029,
+                    51.973837
+                ]
+            },
+            "properties": {
+                "name": "Gate Rotterdam",
+                "id": "INET_LG_12",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 43.83561643835616,
+                    "max_workingGas_M_m3": 469.959984,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2018.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.97456,
+                    57.70887
+                ]
+            },
+            "properties": {
+                "name": "Gothenburg",
+                "id": "INET_LG_13",
+                "country_code": "SE",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": null,
+                    "max_workingGas_M_m3": 21.492952000000002,
+                    "source": "https://www.hydrocarbons-technology.com/projects/swedegas-lng-facility-port-gothenburg/",
+                    "start_year": 2018.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": null,
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9422,
+                    37.2615
+                ]
+            },
+            "properties": {
+                "name": "Huelva",
+                "id": "INET_LG_14",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 32.32876712328767,
+                    "max_workingGas_M_m3": 404.32714400000003,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 1988.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.711,
+                    51.45
+                ]
+            },
+            "properties": {
+                "name": "Isle Of Grain",
+                "id": "INET_LG_15",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 75.34246575342466,
+                    "max_workingGas_M_m3": 652.7222,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2020.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.101954,
+                    55.7253
+                ]
+            },
+            "properties": {
+                "name": "Klaipeda",
+                "id": "INET_LG_16",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 10.95890410958904,
+                    "max_workingGas_M_m3": 110.92671200000001,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2014.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.14,
+                    47.32
+                ]
+            },
+            "properties": {
+                "name": "Montoir De Bretagne",
+                "id": "INET_LG_17",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 27.397260273972602,
+                    "max_workingGas_M_m3": 234.979992,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 1980.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0045,
+                    59.40601
+                ]
+            },
+            "properties": {
+                "name": "Tallinn",
+                "id": "INET_LG_18",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 10.95890410958904,
+                    "max_workingGas_M_m3": 2.596464,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf + https://news.err.ee/610905/vopak-to-build-initially-4-000-cubic-meter-lng-terminal-at-muuga",
+                    "start_year": 2019.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9465288,
+                    58.902926
+                ]
+            },
+            "properties": {
+                "name": "Nynashamm",
+                "id": "INET_LG_19",
+                "country_code": "SE",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": null,
+                    "max_workingGas_M_m3": 12.982320000000001,
+                    "source": "https://www.gasinfocus.com/en/indicator/existing-and-planned-lng-terminals/ +https://nauticor.de/lng-terminal-nynaeshamn",
+                    "start_year": 2011.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": null,
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.07494,
+                    59.38445
+                ]
+            },
+            "properties": {
+                "name": "Paldiski",
+                "id": "INET_LG_20",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 6.8493150684931505,
+                    "max_workingGas_M_m3": 104.435552,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf + https://www.lngworldnews.com/tallinna-sadam-alexela-to-work-on-paldiski-lng-terminal/",
+                    "start_year": 2020.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.830632,
+                    44.073876
+                ]
+            },
+            "properties": {
+                "name": "Panigaglia",
+                "id": "INET_LG_21",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 9.58904109589041,
+                    "max_workingGas_M_m3": 65.200096,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 1971.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.39881,
+                    61.63817
+                ]
+            },
+            "properties": {
+                "name": "Pori",
+                "id": "INET_LG_22",
+                "country_code": "FI",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": null,
+                    "max_workingGas_M_m3": 18.607992000000003,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": null
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": null,
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": null
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3639697,
+                    45.0488357
+                ]
+            },
+            "properties": {
+                "name": "Porto Levante",
+                "id": "INET_LG_23",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 21.91780821917808,
+                    "max_workingGas_M_m3": 163.14448800000002,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2009.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4023,
+                    37.96
+                ]
+            },
+            "properties": {
+                "name": "Revithoussa",
+                "id": "INET_LG_24",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 22.602739726027398,
+                    "max_workingGas_M_m3": 146.84446400000002,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2000.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.306389,
+                    56.84888
+                ]
+            },
+            "properties": {
+                "name": "Riga",
+                "id": "INET_LG_25",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 13.698630136986301,
+                    "max_workingGas_M_m3": null,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2019.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": null,
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2152,
+                    39.6329
+                ]
+            },
+            "properties": {
+                "name": "Sagunto",
+                "id": "INET_LG_26",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 24.10958904109589,
+                    "max_workingGas_M_m3": 391.63332,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2006.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8435,
+                    37.9419
+                ]
+            },
+            "properties": {
+                "name": "Sines",
+                "id": "INET_LG_27",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 20.82191780821918,
+                    "max_workingGas_M_m3": 254.59772,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2003.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.078012,
+                    51.713781
+                ]
+            },
+            "properties": {
+                "name": "South Hook",
+                "id": "INET_LG_28",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 57.534246575342465,
+                    "max_workingGas_M_m3": 505.877736,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2009.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.294722,
+                    53.909167
+                ]
+            },
+            "properties": {
+                "name": "Swinoujscie",
+                "id": "INET_LG_29",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 20.54794520547945,
+                    "max_workingGas_M_m3": 313.30665600000003,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2020.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2808,
+                    43.548
+                ]
+            },
+            "properties": {
+                "name": "Toscana",
+                "id": "INET_LG_30",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 10.273972602739725,
+                    "max_workingGas_M_m3": 88.13552800000001,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2013.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213,
+                    51.323
+                ]
+            },
+            "properties": {
+                "name": "Zeebrugge",
+                "id": "INET_LG_31",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": 32.87671232876713,
+                    "max_workingGas_M_m3": 365.52443200000005,
+                    "source": "https://globallnghub.com/wp-content/uploads/2018/09/King.pdf",
+                    "start_year": 2019.0
+                },
+                "method": {
+                    "end_year": null,
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "source": "raw",
+                    "start_year": "raw"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,3493 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.232375,
+                    47.9867
+                ]
+            },
+            "properties": {
+                "name": "UGS Haidach (astora)",
+                "id": "GIE_SR_21",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001160J",
+                    "facility_code": "21W000000000078N",
+                    "max_cap_pipe2store_M_m3_per_d": 9.86046950076,
+                    "max_cap_store2pipe_M_m3_per_d": 8.50004713824,
+                    "max_workingGas_M_m3": 10.4435,
+                    "name_short": "Haidach"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.232375,
+                    47.9867
+                ]
+            },
+            "properties": {
+                "name": "UGS Haidach (GSA)",
+                "id": "GIE_SR_22",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "25X-GSALLC-----E",
+                    "facility_code": "25W-SPHAID-GAZ-M",
+                    "max_cap_pipe2store_M_m3_per_d": 18.68388799752,
+                    "max_cap_store2pipe_M_m3_per_d": 16.7436598464,
+                    "max_workingGas_M_m3": 19.9928,
+                    "name_short": "Haidach"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.778209,
+                    48.355222
+                ]
+            },
+            "properties": {
+                "name": "VGS OMV Gas Storage Pool (Tallesbrunn & Schoenkirchen / Reyersdorf)",
+                "id": "GIE_SR_23",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "25X-OMVGASSTORA5",
+                    "facility_code": "21W000000000081Y",
+                    "max_cap_pipe2store_M_m3_per_d": 28.63580654136,
+                    "max_cap_store2pipe_M_m3_per_d": 19.81521636552,
+                    "max_workingGas_M_m3": 25.2442,
+                    "name_short": "Tallesbrunn"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.312084,
+                    47.981978000000005
+                ]
+            },
+            "properties": {
+                "name": "RAG Storage Pool (Puchkirchen / Haag, Aigelsbrunn, Haidach 5, Nussdorf / Zagling)",
+                "id": "GIE_SR_24",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "23X----100225-1C",
+                    "facility_code": "21W000000000079L",
+                    "max_cap_pipe2store_M_m3_per_d": 18.93655133304,
+                    "max_cap_store2pipe_M_m3_per_d": 18.175733005559998,
+                    "max_workingGas_M_m3": 17.123,
+                    "name_short": "Haidach"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.356863,
+                    47.962006
+                ]
+            },
+            "properties": {
+                "name": "UGS 7 Fields (Uniper Energy Storage) - AT",
+                "id": "GIE_SR_25",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W000000000057V",
+                    "max_cap_pipe2store_M_m3_per_d": 22.88017346916,
+                    "max_cap_store2pipe_M_m3_per_d": 15.255020268840001,
+                    "max_workingGas_M_m3": 19.415,
+                    "name_short": "7Fields"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703353,
+                    51.386993
+                ]
+            },
+            "properties": {
+                "name": "UGS Loenhout",
+                "id": "GIE_SR_26",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-BE-A-A0A0A-Y",
+                    "facility_code": "21Z000000000102A",
+                    "max_cap_pipe2store_M_m3_per_d": 15.980013198,
+                    "max_cap_store2pipe_M_m3_per_d": 8.30960686296,
+                    "max_workingGas_M_m3": 9.0013,
+                    "name_short": "Loenhout"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.592123,
+                    43.349887
+                ]
+            },
+            "properties": {
+                "name": "UGS Chiren",
+                "id": "GIE_SR_27",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-BG-A-A0A0A-C",
+                    "facility_code": "21W000000000031C",
+                    "max_cap_pipe2store_M_m3_per_d": 3.4128405768000003,
+                    "max_cap_store2pipe_M_m3_per_d": 3.2148581124000004,
+                    "max_workingGas_M_m3": 6.27,
+                    "name_short": "Chiren"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.609626000000002,
+                    48.872481
+                ]
+            },
+            "properties": {
+                "name": "VGS Innogy Virtual Storage (Haje, Tranovice, Stramberk, Tvrdonice, Dolni Dunajovice, Lobodice)",
+                "id": "GIE_SR_28",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "eic_code": "27XG-RWE-GAS-STI",
+                    "facility_code": "21W000000000076R",
+                    "max_cap_pipe2store_M_m3_per_d": 39.812388043560006,
+                    "max_cap_store2pipe_M_m3_per_d": 29.744508342,
+                    "max_workingGas_M_m3": 28.7146,
+                    "name_short": "Lobodice"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.028471,
+                    48.871373999999996
+                ]
+            },
+            "properties": {
+                "name": "UGS Dolni Bojanovice",
+                "id": "GIE_SR_31",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "eic_code": "27X-SPPSTORAGE-R",
+                    "facility_code": "21W000000000074V",
+                    "max_cap_pipe2store_M_m3_per_d": 9.01103045112,
+                    "max_cap_store2pipe_M_m3_per_d": 7.00857923976,
+                    "max_workingGas_M_m3": 6.117,
+                    "name_short": "DolniBojanovice"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.388862,
+                    53.253484
+                ]
+            },
+            "properties": {
+                "name": "UGS Jemgum H (astora)",
+                "id": "GIE_SR_32",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001160J",
+                    "facility_code": "21W0000000001148",
+                    "max_cap_pipe2store_M_m3_per_d": 10.11219006264,
+                    "max_cap_store2pipe_M_m3_per_d": 8.552842462080001,
+                    "max_workingGas_M_m3": 4.5413,
+                    "name_short": "JemgumH"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.493598,
+                    52.613673
+                ]
+            },
+            "properties": {
+                "name": "UGS Rehden",
+                "id": "GIE_SR_33",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001160J",
+                    "facility_code": "21Z000000000271O",
+                    "max_cap_pipe2store_M_m3_per_d": 50.004713865599996,
+                    "max_cap_store2pipe_M_m3_per_d": 32.50306401264,
+                    "max_workingGas_M_m3": 48.62,
+                    "name_short": "Rehden"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.493598,
+                    52.613673
+                ]
+            },
+            "properties": {
+                "name": "VSP NORD (Rehden, Jemgum)",
+                "id": "GIE_SR_34",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001160J",
+                    "facility_code": "21W0000000001261",
+                    "max_cap_pipe2store_M_m3_per_d": 0.0,
+                    "max_cap_store2pipe_M_m3_per_d": 0.0,
+                    "max_workingGas_M_m3": 0.0,
+                    "name_short": "Jemgum"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.816447,
+                    48.042629
+                ]
+            },
+            "properties": {
+                "name": "UGS Wolfersberg",
+                "id": "GIE_SR_35",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X0000000000151",
+                    "facility_code": "21W0000000000184",
+                    "max_cap_pipe2store_M_m3_per_d": 6.13085698092,
+                    "max_cap_store2pipe_M_m3_per_d": 3.57594041652,
+                    "max_workingGas_M_m3": 4.1209,
+                    "name_short": "Wolfersberg"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.224641,
+                    52.513276
+                ]
+            },
+            "properties": {
+                "name": "UGS Berlin",
+                "id": "GIE_SR_36",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X0000000000224",
+                    "facility_code": "21W0000000001083",
+                    "max_cap_pipe2store_M_m3_per_d": 5.65098519816,
+                    "max_cap_store2pipe_M_m3_per_d": 3.01404732708,
+                    "max_workingGas_M_m3": 1.7094,
+                    "name_short": "Berlin"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.228212699999998,
+                    47.88087120000001
+                ]
+            },
+            "properties": {
+                "name": "UGS Inzenham-West",
+                "id": "GIE_SR_38",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011748",
+                    "facility_code": "21W0000000000192",
+                    "max_cap_pipe2store_M_m3_per_d": 7.60252663296,
+                    "max_cap_store2pipe_M_m3_per_d": 5.06835108864,
+                    "max_workingGas_M_m3": 4.768,
+                    "name_short": "InzenhamWest"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00616,
+                    52.18
+                ]
+            },
+            "properties": {
+                "name": "UGS Enschede - Epe (Eneco)",
+                "id": "GIE_SR_39",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000010849",
+                    "facility_code": "21W000000000012G",
+                    "max_cap_pipe2store_M_m3_per_d": 8.824361270399999,
+                    "max_cap_store2pipe_M_m3_per_d": 8.824361270399999,
+                    "max_workingGas_M_m3": 1.4352,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912085,
+                    53.461064
+                ]
+            },
+            "properties": {
+                "name": "UGS Etzel EGL (Equinor Storage Deutschland)",
+                "id": "GIE_SR_41",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001368W",
+                    "facility_code": "21W000000000100J",
+                    "max_cap_pipe2store_M_m3_per_d": 34.0482700086,
+                    "max_cap_store2pipe_M_m3_per_d": 19.86141227388,
+                    "max_workingGas_M_m3": 2.1851,
+                    "name_short": "Etzel"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00616,
+                    52.17
+                ]
+            },
+            "properties": {
+                "name": "UGS EWE-Zone L",
+                "id": "GIE_SR_42",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "21W0000000001075",
+                    "max_cap_pipe2store_M_m3_per_d": 28.82624681664,
+                    "max_cap_store2pipe_M_m3_per_d": 8.648062599720001,
+                    "max_workingGas_M_m3": 9.9568,
+                    "name_short": "Nuettermoor"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.388862,
+                    53.253484
+                ]
+            },
+            "properties": {
+                "name": "UGS Jemgum H (EWE)",
+                "id": "GIE_SR_43",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "21W0000000000508",
+                    "max_cap_pipe2store_M_m3_per_d": 6.505138116,
+                    "max_cap_store2pipe_M_m3_per_d": 5.204110492800001,
+                    "max_workingGas_M_m3": 4.1285,
+                    "name_short": "Jemgum"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.417349000000001,
+                    53.25912099999999
+                ]
+            },
+            "properties": {
+                "name": "UGS Nuettermoor H aggregated data prior to 7 April 2016",
+                "id": "GIE_SR_44",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "PRIOR_EWE_000001",
+                    "max_cap_pipe2store_M_m3_per_d": 18.98369001504,
+                    "max_cap_store2pipe_M_m3_per_d": 10.8041859144,
+                    "max_workingGas_M_m3": 6.477,
+                    "name_short": "Nuettermoor"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.417349000000001,
+                    53.25912099999999
+                ]
+            },
+            "properties": {
+                "name": "UGS Nuettermoor H-1",
+                "id": "GIE_SR_45",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "21W0000000001059",
+                    "max_cap_pipe2store_M_m3_per_d": 6.5617045344,
+                    "max_cap_store2pipe_M_m3_per_d": 4.59319317408,
+                    "max_workingGas_M_m3": 1.832,
+                    "name_short": "NuettermoorH1"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.417349000000001,
+                    53.25912099999999
+                ]
+            },
+            "properties": {
+                "name": "UGS Nuettermoor H-2",
+                "id": "GIE_SR_46",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "21W000000000104B",
+                    "max_cap_pipe2store_M_m3_per_d": 4.68369944352,
+                    "max_cap_store2pipe_M_m3_per_d": 2.34184972176,
+                    "max_workingGas_M_m3": 1.955,
+                    "name_short": "NuettermoorH2"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.417349000000001,
+                    53.25912099999999
+                ]
+            },
+            "properties": {
+                "name": "UGS Nuettermoor H-3",
+                "id": "GIE_SR_47",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "21W000000000103D",
+                    "max_cap_pipe2store_M_m3_per_d": 7.73828603712,
+                    "max_cap_store2pipe_M_m3_per_d": 3.86914301856,
+                    "max_workingGas_M_m3": 2.69,
+                    "name_short": "NuettermoorH3"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.41736,
+                    53.259130000000006
+                ]
+            },
+            "properties": {
+                "name": "UGS Nuettermoor L GUD",
+                "id": "GIE_SR_48",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "21W0000000001067",
+                    "max_cap_pipe2store_M_m3_per_d": 2.21740360128,
+                    "max_cap_store2pipe_M_m3_per_d": 1.9958517958800002,
+                    "max_workingGas_M_m3": 0.4312,
+                    "name_short": "NuettermoorL"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.780083,
+                    52.478855
+                ]
+            },
+            "properties": {
+                "name": "UGS Ruedersdorf H",
+                "id": "GIE_SR_49",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000011756",
+                    "facility_code": "21W000000000048W",
+                    "max_cap_pipe2store_M_m3_per_d": 3.0894692182800005,
+                    "max_cap_store2pipe_M_m3_per_d": 1.00499670024,
+                    "max_workingGas_M_m3": 1.09,
+                    "name_short": "RuedersdorfH"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.360764999999999,
+                    53.422766
+                ]
+            },
+            "properties": {
+                "name": "UGS Kraak",
+                "id": "GIE_SR_53",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013805",
+                    "facility_code": "21W000000000020H",
+                    "max_cap_pipe2store_M_m3_per_d": 10.13670217728,
+                    "max_cap_store2pipe_M_m3_per_d": 4.561138870320001,
+                    "max_workingGas_M_m3": 2.988,
+                    "name_short": "Kraak"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0,
+                    52.175948
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe IGSNWE H Gas (historical data prior to 1 April 2017)",
+                "id": "GIE_SR_54",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "facility_code": "21W0000000000524",
+                    "max_cap_pipe2store_M_m3_per_d": 22.41538606464,
+                    "max_cap_store2pipe_M_m3_per_d": 6.6984067122,
+                    "max_workingGas_M_m3": 5.91,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05,
+                    52.176
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe IGSNWE L Gas",
+                "id": "GIE_SR_55",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "facility_code": "21W0000000000532",
+                    "max_cap_pipe2store_M_m3_per_d": 9.2203261992,
+                    "max_cap_store2pipe_M_m3_per_d": 4.6101630996,
+                    "max_workingGas_M_m3": 1.8413,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0,
+                    52.175948
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe NL IGSNWE",
+                "id": "GIE_SR_56",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "facility_code": "21W000000000003H",
+                    "max_cap_pipe2store_M_m3_per_d": 11.19637974864,
+                    "max_cap_store2pipe_M_m3_per_d": 4.47911756364,
+                    "max_workingGas_M_m3": 2.9783,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0,
+                    52.175948
+                ]
+            },
+            "properties": {
+                "name": "UGS Kalle IGSNWE",
+                "id": "GIE_SR_57",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "facility_code": "21W000000000004F",
+                    "max_cap_pipe2store_M_m3_per_d": 11.67813707868,
+                    "max_cap_store2pipe_M_m3_per_d": 5.1899688882,
+                    "max_workingGas_M_m3": 2.466,
+                    "name_short": "Kalle"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.555702,
+                    51.891723
+                ]
+            },
+            "properties": {
+                "name": "UGS Stassfurt",
+                "id": "GIE_SR_58",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "facility_code": "21W0000000000265",
+                    "max_cap_pipe2store_M_m3_per_d": 14.139719052719999,
+                    "max_cap_store2pipe_M_m3_per_d": 7.880644856760001,
+                    "max_workingGas_M_m3": 6.3457,
+                    "name_short": "Stassfurt"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4263650000000005,
+                    51.663755
+                ]
+            },
+            "properties": {
+                "name": "UGS Xanten (historical data prior to 1 April 2017)",
+                "id": "GIE_SR_59",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "facility_code": "21W0000000000516",
+                    "max_cap_pipe2store_M_m3_per_d": 7.145281417560001,
+                    "max_cap_store2pipe_M_m3_per_d": 2.54643160164,
+                    "max_workingGas_M_m3": 2.0188,
+                    "name_short": "Xanten"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3447949999999995,
+                    53.845027
+                ]
+            },
+            "properties": {
+                "name": "VGS innEXpool",
+                "id": "GIE_SR_60",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001262B",
+                    "facility_code": "21W000000000121B",
+                    "max_cap_pipe2store_M_m3_per_d": 30.65994154644,
+                    "max_cap_store2pipe_M_m3_per_d": 9.7907042514,
+                    "max_workingGas_M_m3": 6.644,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1,
+                    52.176
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe (KGE)",
+                "id": "GIE_SR_61",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001140P",
+                    "facility_code": "21W000000000097J",
+                    "max_cap_pipe2store_M_m3_per_d": 10.31771471616,
+                    "max_cap_store2pipe_M_m3_per_d": 3.86914301856,
+                    "max_workingGas_M_m3": 2.1895,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.554382,
+                    49.7458
+                ]
+            },
+            "properties": {
+                "name": "UGS Haehnlein (historical data prior to 01/04/2016)",
+                "id": "GIE_SR_62",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X000000000042Z",
+                    "facility_code": "21W000000000064Y",
+                    "max_cap_pipe2store_M_m3_per_d": 2.55680211168,
+                    "max_cap_store2pipe_M_m3_per_d": 1.53389271228,
+                    "max_workingGas_M_m3": 0.904,
+                    "name_short": "Haehnlein"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.484942,
+                    49.822998999999996
+                ]
+            },
+            "properties": {
+                "name": "UGS Stockstadt (historical data prior to 01/04/2016)",
+                "id": "GIE_SR_63",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X000000000042Z",
+                    "facility_code": "21W0000000000621",
+                    "max_cap_pipe2store_M_m3_per_d": 3.4524370696799997,
+                    "max_cap_store2pipe_M_m3_per_d": 2.30131045524,
+                    "max_workingGas_M_m3": 1.526,
+                    "name_short": "Stockstadt"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00616,
+                    52.18
+                ]
+            },
+            "properties": {
+                "name": "UGS Enschede - Epe (Nuon)",
+                "id": "GIE_SR_66",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X0000000000119",
+                    "facility_code": "21W000000000005D",
+                    "max_cap_pipe2store_M_m3_per_d": 13.350617516040002,
+                    "max_cap_store2pipe_M_m3_per_d": 6.6748373712,
+                    "max_workingGas_M_m3": 3.0119,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912085,
+                    53.461064
+                ]
+            },
+            "properties": {
+                "name": "UGS Etzel ESE (OMV)",
+                "id": "GIE_SR_67",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "25X-OMVGASSTORA5",
+                    "facility_code": "21W000000000056X",
+                    "max_cap_pipe2store_M_m3_per_d": 10.0688224752,
+                    "max_cap_store2pipe_M_m3_per_d": 6.72009050592,
+                    "max_workingGas_M_m3": 5.295,
+                    "name_short": "Etzel"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.200844,
+                    54.266597
+                ]
+            },
+            "properties": {
+                "name": "UGS Kiel-Roenne (Stadtwerke Kiel)",
+                "id": "GIE_SR_69",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "37X000000000051Y",
+                    "facility_code": "21W0000000001164",
+                    "max_cap_pipe2store_M_m3_per_d": 2.55680211168,
+                    "max_cap_store2pipe_M_m3_per_d": 1.0728764023200001,
+                    "max_workingGas_M_m3": 0.668,
+                    "name_short": "KielRoenne"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.718167,
+                    53.16090500000001
+                ]
+            },
+            "properties": {
+                "name": "UGS Bremen-Lesum (Storengy Deutschland)",
+                "id": "GIE_SR_70",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "facility_code": "21W000000000090X",
+                    "max_cap_pipe2store_M_m3_per_d": 4.90336570164,
+                    "max_cap_store2pipe_M_m3_per_d": 2.33996417448,
+                    "max_workingGas_M_m3": 1.55,
+                    "name_short": "BremenLesum"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.414961,
+                    47.851208
+                ]
+            },
+            "properties": {
+                "name": "UGS Fronhofen-Trigonodus",
+                "id": "GIE_SR_71",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "facility_code": "21W000000000091V",
+                    "max_cap_pipe2store_M_m3_per_d": 0.75704723292,
+                    "max_cap_store2pipe_M_m3_per_d": 0.5043838974,
+                    "max_workingGas_M_m3": 0.125,
+                    "name_short": "FronhofenTrigonodus"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.482867,
+                    53.435469
+                ]
+            },
+            "properties": {
+                "name": "UGS Harsefeld",
+                "id": "GIE_SR_72",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "facility_code": "21W000000000092T",
+                    "max_cap_pipe2store_M_m3_per_d": 7.70434618608,
+                    "max_cap_store2pipe_M_m3_per_d": 2.32582256988,
+                    "max_workingGas_M_m3": 1.263,
+                    "name_short": "Harsefeld"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.942675,
+                    52.801137
+                ]
+            },
+            "properties": {
+                "name": "UGS Peckensen",
+                "id": "GIE_SR_73",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "facility_code": "21W0000000000273",
+                    "max_cap_pipe2store_M_m3_per_d": 21.868577353440003,
+                    "max_cap_store2pipe_M_m3_per_d": 7.98246440988,
+                    "max_workingGas_M_m3": 4.394,
+                    "name_short": "Peckensen"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.039466000000001,
+                    47.915177
+                ]
+            },
+            "properties": {
+                "name": "UGS Schmidthausen",
+                "id": "GIE_SR_74",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "facility_code": "21W000000000089I",
+                    "max_cap_pipe2store_M_m3_per_d": 3.7729801072800004,
+                    "max_cap_store2pipe_M_m3_per_d": 1.00688224752,
+                    "max_workingGas_M_m3": 1.67,
+                    "name_short": "Schmidthausen"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.829442,
+                    52.504884999999994
+                ]
+            },
+            "properties": {
+                "name": "UGS Uelsen",
+                "id": "GIE_SR_75",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001072G",
+                    "facility_code": "21W000000000093R",
+                    "max_cap_pipe2store_M_m3_per_d": 10.1442443664,
+                    "max_cap_store2pipe_M_m3_per_d": 7.6392948049200005,
+                    "max_workingGas_M_m3": 9.534,
+                    "name_short": "Uelsen"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.702463999999999,
+                    51.219587
+                ]
+            },
+            "properties": {
+                "name": "UGS Allmenhausen",
+                "id": "GIE_SR_77",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001307F",
+                    "facility_code": "21W000000000030E",
+                    "max_cap_pipe2store_M_m3_per_d": 1.55746205328,
+                    "max_cap_store2pipe_M_m3_per_d": 1.24069011024,
+                    "max_workingGas_M_m3": 0.6881,
+                    "name_short": "Allmenhausen"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.00616,
+                    52.176
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe Trianel",
+                "id": "GIE_SR_78",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001310Q",
+                    "facility_code": "21W000000000085Q",
+                    "max_cap_pipe2store_M_m3_per_d": 15.54445177632,
+                    "max_cap_store2pipe_M_m3_per_d": 7.77222588816,
+                    "max_workingGas_M_m3": 2.2266,
+                    "name_short": "Epe"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.402956,
+                    48.127548
+                ]
+            },
+            "properties": {
+                "name": "UGS Bierwang",
+                "id": "GIE_SR_79",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W0000000000613",
+                    "max_cap_pipe2store_M_m3_per_d": 32.94428207616,
+                    "max_cap_store2pipe_M_m3_per_d": 25.3417554432,
+                    "max_workingGas_M_m3": 9.408,
+                    "name_short": "Bierwang"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.433821,
+                    47.922265
+                ]
+            },
+            "properties": {
+                "name": "UGS Breitbrunn",
+                "id": "GIE_SR_80",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W0000000000605",
+                    "max_cap_pipe2store_M_m3_per_d": 13.178089939920001,
+                    "max_cap_store2pipe_M_m3_per_d": 6.3354388608,
+                    "max_workingGas_M_m3": 11.11,
+                    "name_short": "Breitbrunn"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05,
+                    52.177
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe Uniper H-Gas",
+                "id": "GIE_SR_81",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W000000000066U",
+                    "max_cap_pipe2store_M_m3_per_d": 43.850287543680004,
+                    "max_cap_store2pipe_M_m3_per_d": 30.95314414848,
+                    "max_workingGas_M_m3": 15.3043,
+                    "name_short": "EpeH"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.05,
+                    52.178000000000004
+                ]
+            },
+            "properties": {
+                "name": "UGS Epe Uniper L-Gas",
+                "id": "GIE_SR_82",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W000000000065W",
+                    "max_cap_pipe2store_M_m3_per_d": 26.88036202368,
+                    "max_cap_store2pipe_M_m3_per_d": 5.375695295280001,
+                    "max_workingGas_M_m3": 4.26,
+                    "name_short": "EpeL"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6307,
+                    49.5845
+                ]
+            },
+            "properties": {
+                "name": "UGS Eschenfelden",
+                "id": "GIE_SR_83",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W000000000083U",
+                    "max_cap_pipe2store_M_m3_per_d": 1.0229093994,
+                    "max_cap_store2pipe_M_m3_per_d": 0.51098331288,
+                    "max_workingGas_M_m3": 0.444,
+                    "name_short": "Eschenfelden"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912085,
+                    53.461064
+                ]
+            },
+            "properties": {
+                "name": "UGS Etzel Erdgas Lager EGL",
+                "id": "GIE_SR_84",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W000000000059R",
+                    "max_cap_pipe2store_M_m3_per_d": 25.61327425152,
+                    "max_cap_store2pipe_M_m3_per_d": 14.67804280116,
+                    "max_workingGas_M_m3": 11.3181,
+                    "name_short": "Etzel"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912085,
+                    53.461064
+                ]
+            },
+            "properties": {
+                "name": "UGS Etzel ESE (Uniper Energy Storage)",
+                "id": "GIE_SR_85",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W0000000000168",
+                    "max_cap_pipe2store_M_m3_per_d": 37.40171584608,
+                    "max_cap_store2pipe_M_m3_per_d": 40.12821721296,
+                    "max_workingGas_M_m3": 12.4559,
+                    "name_short": "Etzel"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.065929,
+                    53.36059
+                ]
+            },
+            "properties": {
+                "name": "UGS Krummhorn",
+                "id": "GIE_SR_86",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001127H",
+                    "facility_code": "21W000000000067S",
+                    "max_cap_pipe2store_M_m3_per_d": 7.28575468992,
+                    "max_cap_store2pipe_M_m3_per_d": 0.0,
+                    "max_workingGas_M_m3": 1.77,
+                    "name_short": "Krummhorn"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.912085,
+                    53.461064
+                ]
+            },
+            "properties": {
+                "name": "UGS Etzel ESE (VNG)",
+                "id": "GIE_SR_87",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001138C",
+                    "facility_code": "21W000000000120D",
+                    "max_cap_pipe2store_M_m3_per_d": 4.35278589588,
+                    "max_cap_store2pipe_M_m3_per_d": 2.70858866772,
+                    "max_workingGas_M_m3": 1.4033,
+                    "name_short": "Etzel"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.75,
+                    51.219587
+                ]
+            },
+            "properties": {
+                "name": "UGS Kirchheiligen",
+                "id": "GIE_SR_88",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001138C",
+                    "facility_code": "21W000000000023B",
+                    "max_cap_pipe2store_M_m3_per_d": 3.1818610350000003,
+                    "max_cap_store2pipe_M_m3_per_d": 3.5636843592,
+                    "max_workingGas_M_m3": 2.027,
+                    "name_short": "Kirchheiligen"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.833525999999999,
+                    51.430367
+                ]
+            },
+            "properties": {
+                "name": "VGS Storage Hub (Bernburg, Bad Lauchstaedt)",
+                "id": "GIE_SR_89",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001138C",
+                    "facility_code": "21W0000000000427",
+                    "max_cap_pipe2store_M_m3_per_d": 46.88036202264,
+                    "max_cap_store2pipe_M_m3_per_d": 27.891015365759998,
+                    "max_workingGas_M_m3": 22.4289,
+                    "name_short": "Bernburg"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.41462,
+                    56.640401000000004
+                ]
+            },
+            "properties": {
+                "name": "VGS GSD Gas Storage (Lille Torup, Stenlille)",
+                "id": "GIE_SR_90",
+                "country_code": "DK",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001104T",
+                    "facility_code": "45W000000000112V",
+                    "max_cap_pipe2store_M_m3_per_d": 18.553785235200003,
+                    "max_cap_store2pipe_M_m3_per_d": 9.5031582912,
+                    "max_workingGas_M_m3": 10.82,
+                    "name_short": "LilleTorup"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.366233,
+                    37.067091999999995
+                ]
+            },
+            "properties": {
+                "name": "VGS Enagas Basic Underground Storage (Serrablo, Yela, Gaviota, Marismas)",
+                "id": "GIE_SR_91",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013368",
+                    "facility_code": "21W000000000032A",
+                    "max_cap_pipe2store_M_m3_per_d": 18.90072593472,
+                    "max_cap_store2pipe_M_m3_per_d": 11.96474026524,
+                    "max_workingGas_M_m3": 31.6188,
+                    "name_short": "Marismas"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.756336,
+                    43.868812
+                ]
+            },
+            "properties": {
+                "name": "VGS SALINE (Tersanne, Etrez, Manosque)",
+                "id": "GIE_SR_92",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "facility_code": "21W000000000084S",
+                    "max_cap_pipe2store_M_m3_per_d": 57.03780522,
+                    "max_cap_store2pipe_M_m3_per_d": 9.63231827988,
+                    "max_workingGas_M_m3": 11.55,
+                    "name_short": "Etrez"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8738650000000001,
+                    48.844032
+                ]
+            },
+            "properties": {
+                "name": "VGS SEDIANE (Saint-Illiers, Beynes Superieur, Beynes Profond)",
+                "id": "GIE_SR_93",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "facility_code": "21W0000000000710",
+                    "max_cap_pipe2store_M_m3_per_d": 26.114829828,
+                    "max_cap_store2pipe_M_m3_per_d": 14.680871122080001,
+                    "max_workingGas_M_m3": 11.6447,
+                    "name_short": "BeynesProfond"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699989,
+                    49.526019
+                ]
+            },
+            "properties": {
+                "name": "VGS SEDIANE B (Gournay-sur-Aronde)",
+                "id": "GIE_SR_94",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "facility_code": "21W0000000000702",
+                    "max_cap_pipe2store_M_m3_per_d": 23.35815970464,
+                    "max_cap_store2pipe_M_m3_per_d": 9.9085509564,
+                    "max_workingGas_M_m3": 13.1,
+                    "name_short": "GournaySurAronde"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.486212,
+                    47.387853
+                ]
+            },
+            "properties": {
+                "name": "VGS SEDIANE LITTORAL (Chemery, Cere-la-Ronde, Soings-en-Sologne)",
+                "id": "GIE_SR_95",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "facility_code": "21W000000000072Z",
+                    "max_cap_pipe2store_M_m3_per_d": 30.6919958502,
+                    "max_cap_store2pipe_M_m3_per_d": 23.12435184192,
+                    "max_workingGas_M_m3": 29.4,
+                    "name_short": "Chemery"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.298375,
+                    48.707076
+                ]
+            },
+            "properties": {
+                "name": "VGS SERENE NORD (Trois Fontaines l\u00c2\u0092Abbaye, Cerville, Germiny-sous-Coulombs, Saint-Clair-sur-Epte)",
+                "id": "GIE_SR_96",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "facility_code": "21W000000000073X",
+                    "max_cap_pipe2store_M_m3_per_d": 18.459507871200003,
+                    "max_cap_store2pipe_M_m3_per_d": 14.444234938440001,
+                    "max_workingGas_M_m3": 16.7,
+                    "name_short": "Cerville"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.486212,
+                    47.387853
+                ]
+            },
+            "properties": {
+                "name": "VGS SERENE SUD (Chemery, Cere-la-Ronde, Soings-en-Sologne)",
+                "id": "GIE_SR_97",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001083B",
+                    "facility_code": "21W000000000069O",
+                    "max_cap_pipe2store_M_m3_per_d": 20.46101630892,
+                    "max_cap_store2pipe_M_m3_per_d": 15.416234561280001,
+                    "max_workingGas_M_m3": 19.6,
+                    "name_short": "Chemery"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.22006599999999998,
+                    43.780448
+                ]
+            },
+            "properties": {
+                "name": "VGS Lussagnet (TEREGA)",
+                "id": "GIE_SR_98",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-FR-B-A0A0A-J",
+                    "facility_code": "21W000000000068Q",
+                    "max_cap_pipe2store_M_m3_per_d": 52.28245497984,
+                    "max_cap_store2pipe_M_m3_per_d": 27.475252190520003,
+                    "max_workingGas_M_m3": 33.0142,
+                    "name_short": "Lussagnet"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.087273,
+                    53.813894999999995
+                ]
+            },
+            "properties": {
+                "name": "UGS Aldbrough I",
+                "id": "GIE_SR_102",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "23X--140207-SSE9",
+                    "facility_code": "55WALDBOROUGH00H",
+                    "max_cap_pipe2store_M_m3_per_d": 32.242858488,
+                    "max_cap_store2pipe_M_m3_per_d": 29.320260204,
+                    "max_workingGas_M_m3": 2.1524,
+                    "name_short": "AldbroughI"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.207479,
+                    53.946532999999995
+                ]
+            },
+            "properties": {
+                "name": "UGS Atwick",
+                "id": "GIE_SR_103",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "23X--140207-SSE9",
+                    "facility_code": "55WATWICK-SSE00J",
+                    "max_cap_pipe2store_M_m3_per_d": 12.25605732,
+                    "max_cap_store2pipe_M_m3_per_d": 2.82832092,
+                    "max_workingGas_M_m3": 2.652,
+                    "name_short": "Atwick"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4350240000000003,
+                    53.234065
+                ]
+            },
+            "properties": {
+                "name": "UGS Stublach",
+                "id": "GIE_SR_104",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "48XSTORENGYUK01P",
+                    "facility_code": "21W000000000101H",
+                    "max_cap_pipe2store_M_m3_per_d": 18.8554728,
+                    "max_cap_store2pipe_M_m3_per_d": 17.158480248,
+                    "max_workingGas_M_m3": 2.6221,
+                    "name_short": "Stublach"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.405628,
+                    53.225722
+                ]
+            },
+            "properties": {
+                "name": "UGS Holford",
+                "id": "GIE_SR_105",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013716",
+                    "facility_code": "21W000000000112C",
+                    "max_cap_pipe2store_M_m3_per_d": 22.469124162120004,
+                    "max_cap_store2pipe_M_m3_per_d": 22.469124162120004,
+                    "max_workingGas_M_m3": 1.8197,
+                    "name_short": "Holford"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.520556,
+                    45.59451
+                ]
+            },
+            "properties": {
+                "name": "UGS Okoli",
+                "id": "GIE_SR_106",
+                "country_code": "HR",
+                "tags": {},
+                "param": {
+                    "eic_code": "31X-PSP-OSS-HR-D",
+                    "facility_code": "21W000000000077P",
+                    "max_cap_pipe2store_M_m3_per_d": 5.71037993748,
+                    "max_cap_store2pipe_M_m3_per_d": 4.28302064652,
+                    "max_workingGas_M_m3": 5.6049,
+                    "name_short": "Okoli"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.366312,
+                    47.507335
+                ]
+            },
+            "properties": {
+                "name": "VGS MFGT (Pusztaederics, Zsana-Nord, Kardoskut-Pusztaszolos, Hajduszoboszlo)",
+                "id": "GIE_SR_107",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013635",
+                    "facility_code": "21W000000000087M",
+                    "max_cap_pipe2store_M_m3_per_d": 53.969077021800004,
+                    "max_cap_store2pipe_M_m3_per_d": 32.33147921016,
+                    "max_workingGas_M_m3": 47.3129,
+                    "name_short": "Hajduszoboszlo"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.194969,
+                    46.302801
+                ]
+            },
+            "properties": {
+                "name": "UGS Szoereg-1",
+                "id": "GIE_SR_108",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013643",
+                    "facility_code": "21W000000000086O",
+                    "max_cap_pipe2store_M_m3_per_d": 25.20693881268,
+                    "max_cap_store2pipe_M_m3_per_d": 12.638823417840001,
+                    "max_workingGas_M_m3": 20.1129,
+                    "name_short": "Szoereg1"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.93,
+                    44.3
+                ]
+            },
+            "properties": {
+                "name": "VGS Edison Stoccaggio (Collalto, Cellino, San Potito & Cotignola)",
+                "id": "GIE_SR_110",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013651",
+                    "facility_code": "21W000000000095N",
+                    "max_cap_pipe2store_M_m3_per_d": 8.824361270399999,
+                    "max_cap_store2pipe_M_m3_per_d": 7.05948901632,
+                    "max_workingGas_M_m3": 10.8381,
+                    "name_short": "Cellino"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.462563000000001,
+                    45.287745
+                ]
+            },
+            "properties": {
+                "name": "UGS Cornegliano",
+                "id": "GIE_SR_111",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "59X4-IGSTORAGE-T",
+                    "facility_code": "59W-IGSTORAGE-0Q",
+                    "max_cap_pipe2store_M_m3_per_d": 2.0363910624000003,
+                    "max_cap_store2pipe_M_m3_per_d": 1.42547374368,
+                    "max_workingGas_M_m3": 1.08,
+                    "name_short": "Cornegliano"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.920891000000001,
+                    44.991076
+                ]
+            },
+            "properties": {
+                "name": "VGS STOGIT (Fiume Treste, Bordolano, Sabbioncello, Minerbio, Sergnano, Ripalta, Cortemaggiore, Brugherio, Settala)",
+                "id": "GIE_SR_112",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001250I",
+                    "facility_code": "21Z000000000274I",
+                    "max_cap_pipe2store_M_m3_per_d": 257.61289713,
+                    "max_cap_store2pipe_M_m3_per_d": 149.19675685092,
+                    "max_workingGas_M_m3": 182.3124,
+                    "name_short": "Bordolano"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.696409,
+                    57.169567
+                ]
+            },
+            "properties": {
+                "name": "UGS Incukalns",
+                "id": "GIE_SR_113",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001379R",
+                    "facility_code": "21W000000000113A",
+                    "max_cap_pipe2store_M_m3_per_d": 10.39596492828,
+                    "max_cap_store2pipe_M_m3_per_d": 0.0,
+                    "max_workingGas_M_m3": 24.219,
+                    "name_short": "Incukalns"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7,
+                    51.8
+                ]
+            },
+            "properties": {
+                "name": "UGS EnergyStock",
+                "id": "GIE_SR_114",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001057C",
+                    "facility_code": "21W000000000006B",
+                    "max_cap_pipe2store_M_m3_per_d": 39.78881870256,
+                    "max_cap_store2pipe_M_m3_per_d": 24.315074949240003,
+                    "max_workingGas_M_m3": 3.0078,
+                    "name_short": "EnergyStock"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3102800000000006,
+                    53.27855400000001
+                ]
+            },
+            "properties": {
+                "name": "UGS Grijpskerk",
+                "id": "GIE_SR_115",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001075A",
+                    "facility_code": "21W000000000001L",
+                    "max_cap_pipe2store_M_m3_per_d": 67.81653624612001,
+                    "max_cap_store2pipe_M_m3_per_d": 16.30244178288,
+                    "max_workingGas_M_m3": 27.6667,
+                    "name_short": "Grijpskerk"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.430666,
+                    53.090773999999996
+                ]
+            },
+            "properties": {
+                "name": "UGS Norg (Langelo)",
+                "id": "GIE_SR_116",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001075A",
+                    "facility_code": "21W000000000015A",
+                    "max_cap_pipe2store_M_m3_per_d": 69.99905722272,
+                    "max_cap_store2pipe_M_m3_per_d": 42.306967095000005,
+                    "max_workingGas_M_m3": 55.8444,
+                    "name_short": "Norg"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.744591000000001,
+                    52.639238
+                ]
+            },
+            "properties": {
+                "name": "UGS Bergermeer",
+                "id": "GIE_SR_117",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001120V",
+                    "facility_code": "21W0000000000087",
+                    "max_cap_pipe2store_M_m3_per_d": 51.0559064742,
+                    "max_cap_store2pipe_M_m3_per_d": 35.38418025648,
+                    "max_workingGas_M_m3": 45.6515,
+                    "name_short": "Bergermeer"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.716946,
+                    52.650953
+                ]
+            },
+            "properties": {
+                "name": "UGS Alkmaar",
+                "id": "GIE_SR_118",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013732",
+                    "facility_code": "21W000000000002J",
+                    "max_cap_pipe2store_M_m3_per_d": 33.609880266,
+                    "max_cap_store2pipe_M_m3_per_d": 3.73432638804,
+                    "max_workingGas_M_m3": 4.9514,
+                    "name_short": "Alkmaar"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.306302,
+                    51.475463
+                ]
+            },
+            "properties": {
+                "name": "UGS Wierzchowice",
+                "id": "GIE_SR_120",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "eic_code": "53XPL000000OSMP5",
+                    "facility_code": "21Z000000000381H",
+                    "max_cap_pipe2store_M_m3_per_d": 9.955689638399999,
+                    "max_cap_store2pipe_M_m3_per_d": 6.222306024,
+                    "max_workingGas_M_m3": 13.2,
+                    "name_short": "Wierzchowice"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.454148,
+                    54.606362
+                ]
+            },
+            "properties": {
+                "name": "VGS GIM Kawerna (Kosakowo, Mogilno)",
+                "id": "GIE_SR_121",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "eic_code": "53XPL000000OSMP5",
+                    "facility_code": "21Z000000000383D",
+                    "max_cap_pipe2store_M_m3_per_d": 28.99028943,
+                    "max_cap_store2pipe_M_m3_per_d": 12.6048835668,
+                    "max_workingGas_M_m3": 8.1932,
+                    "name_short": "Mogilno"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.072274,
+                    49.626709999999996
+                ]
+            },
+            "properties": {
+                "name": "VGS GIM Sanok (Brzeznica, Husow, Strachocina, Swarzow)",
+                "id": "GIE_SR_122",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "eic_code": "53XPL000000OSMP5",
+                    "facility_code": "21Z000000000382F",
+                    "max_cap_pipe2store_M_m3_per_d": 12.161779956,
+                    "max_cap_store2pipe_M_m3_per_d": 9.7859903832,
+                    "max_workingGas_M_m3": 11.808,
+                    "name_short": "Brzeznica"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.85463,
+                    39.983508
+                ]
+            },
+            "properties": {
+                "name": "UGS Carrico",
+                "id": "GIE_SR_123",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013627",
+                    "facility_code": "16ZAS01--------8",
+                    "max_cap_pipe2store_M_m3_per_d": 7.923069670560001,
+                    "max_cap_store2pipe_M_m3_per_d": 2.2626567360000003,
+                    "max_workingGas_M_m3": 3.57,
+                    "name_short": "Carrico"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.553105,
+                    46.565927
+                ]
+            },
+            "properties": {
+                "name": "UGS Targu Mures",
+                "id": "GIE_SR_124",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X000000001300T",
+                    "facility_code": "21Z000000000309P",
+                    "max_cap_pipe2store_M_m3_per_d": 1.979824644,
+                    "max_cap_store2pipe_M_m3_per_d": 1.791269916,
+                    "max_workingGas_M_m3": 3.1546,
+                    "name_short": "TarguMures"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.310924,
+                    44.389969
+                ]
+            },
+            "properties": {
+                "name": "UGS Balaceanca",
+                "id": "GIE_SR_125",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "facility_code": "21Z0000000003111",
+                    "max_cap_pipe2store_M_m3_per_d": 1.24257565752,
+                    "max_cap_store2pipe_M_m3_per_d": 1.0351654567200002,
+                    "max_workingGas_M_m3": 0.5452,
+                    "name_short": "Balaceanca"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.775177,
+                    44.690653999999995
+                ]
+            },
+            "properties": {
+                "name": "UGS Bilciuresti",
+                "id": "GIE_SR_126",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "facility_code": "21Z000000000313Y",
+                    "max_cap_pipe2store_M_m3_per_d": 14.403695671920001,
+                    "max_cap_store2pipe_M_m3_per_d": 10.28848873332,
+                    "max_workingGas_M_m3": 14.3263,
+                    "name_short": "Bilciuresti"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.208115,
+                    46.23695
+                ]
+            },
+            "properties": {
+                "name": "UGS Cetatea de Balta",
+                "id": "GIE_SR_127",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "facility_code": "21Z000000000316S",
+                    "max_cap_pipe2store_M_m3_per_d": 0.50249835012,
+                    "max_cap_store2pipe_M_m3_per_d": 0.0,
+                    "max_workingGas_M_m3": 1.0659,
+                    "name_short": "CetateadeBalta"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.886504000000002,
+                    44.352658
+                ]
+            },
+            "properties": {
+                "name": "UGS Ghercesti",
+                "id": "GIE_SR_128",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "facility_code": "21Z000000000315U",
+                    "max_cap_pipe2store_M_m3_per_d": 2.0175355896,
+                    "max_cap_store2pipe_M_m3_per_d": 2.0175355896,
+                    "max_workingGas_M_m3": 1.6343,
+                    "name_short": "Ghercesti"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.183885,
+                    46.782414
+                ]
+            },
+            "properties": {
+                "name": "UGS Sarma?el",
+                "id": "GIE_SR_129",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "facility_code": "21Z000000000314W",
+                    "max_cap_pipe2store_M_m3_per_d": 7.451682850560001,
+                    "max_cap_store2pipe_M_m3_per_d": 6.457999434,
+                    "max_workingGas_M_m3": 9.522,
+                    "name_short": "Sarmael"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.60623,
+                    44.720131
+                ]
+            },
+            "properties": {
+                "name": "UGS Urziceni",
+                "id": "GIE_SR_130",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-DEPOGAZ-AGSI",
+                    "facility_code": "21Z0000000003103",
+                    "max_cap_pipe2store_M_m3_per_d": 4.7289525782399995,
+                    "max_cap_store2pipe_M_m3_per_d": 3.15263505216,
+                    "max_workingGas_M_m3": 4.0168,
+                    "name_short": "Urziceni"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.863828,
+                    56.798359
+                ]
+            },
+            "properties": {
+                "name": "UGS Skallen",
+                "id": "GIE_SR_131",
+                "country_code": "SE",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X-SE-A-A0A0A-F",
+                    "facility_code": "21W0000000000435",
+                    "max_cap_pipe2store_M_m3_per_d": 0.05750919204,
+                    "max_cap_store2pipe_M_m3_per_d": 0.824926935,
+                    "max_workingGas_M_m3": 0.105,
+                    "name_short": "Skallen"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9273,
+                    48.4522
+                ]
+            },
+            "properties": {
+                "name": "UGS Lab (incl. Gajary baden)",
+                "id": "GIE_SR_132",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "eic_code": "42X-NAFTA-SK---U",
+                    "facility_code": "21W000000000088K",
+                    "max_cap_pipe2store_M_m3_per_d": 36.99349485996,
+                    "max_cap_store2pipe_M_m3_per_d": 31.8940322412,
+                    "max_workingGas_M_m3": 30.1182,
+                    "name_short": "Gajary"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.962,
+                    48.3633
+                ]
+            },
+            "properties": {
+                "name": "UGS Lab IV - Pozagas",
+                "id": "GIE_SR_133",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "eic_code": "42X-POZAGAS-SK-V",
+                    "facility_code": "21W000000000047Y",
+                    "max_cap_pipe2store_M_m3_per_d": 6.85019326824,
+                    "max_cap_store2pipe_M_m3_per_d": 6.85019326824,
+                    "max_workingGas_M_m3": 6.9476,
+                    "name_short": "Malacky"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.99,
+                    49.266999999999996
+                ]
+            },
+            "properties": {
+                "name": "UGS Bilche-Volytsko-Uherske",
+                "id": "GIE_SR_134",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-BILCHE-4",
+                    "max_cap_pipe2store_M_m3_per_d": 120.21683793096001,
+                    "max_cap_store2pipe_M_m3_per_d": 102.18440651867999,
+                    "max_workingGas_M_m3": 181.1756,
+                    "name_short": "BilcheVolytskoUherske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.54,
+                    48.802
+                ]
+            },
+            "properties": {
+                "name": "UGS Bohorodchanske",
+                "id": "GIE_SR_135",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-BOHORO-4",
+                    "max_cap_pipe2store_M_m3_per_d": 25.964928819240004,
+                    "max_cap_store2pipe_M_m3_per_d": 49.932120295320004,
+                    "max_workingGas_M_m3": 24.363,
+                    "name_short": "Bohorodchanske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.666,
+                    48.723
+                ]
+            },
+            "properties": {
+                "name": "UGS Chervonopartyzanske",
+                "id": "GIE_SR_136",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-CHERVO-W",
+                    "max_cap_pipe2store_M_m3_per_d": 10.35448288812,
+                    "max_cap_store2pipe_M_m3_per_d": 16.084661072040003,
+                    "max_workingGas_M_m3": 15.9951,
+                    "name_short": "Chervonopartyzanske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.235,
+                    49.266999999999996
+                ]
+            },
+            "properties": {
+                "name": "UGS Dashavske",
+                "id": "GIE_SR_137",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-DASHAV-S",
+                    "max_cap_pipe2store_M_m3_per_d": 26.024323558560003,
+                    "max_cap_store2pipe_M_m3_per_d": 26.024323558560003,
+                    "max_workingGas_M_m3": 22.8262,
+                    "name_short": "Dashavske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.5,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Kehychivske",
+                "id": "GIE_SR_138",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-KEHYCH-X",
+                    "max_cap_pipe2store_M_m3_per_d": 8.46705006084,
+                    "max_cap_store2pipe_M_m3_per_d": 8.96483454276,
+                    "max_workingGas_M_m3": 7.3959,
+                    "name_short": "Kehychivske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.6,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Krasnopopivske",
+                "id": "GIE_SR_139",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-KRPOPY-Q",
+                    "max_cap_pipe2store_M_m3_per_d": 5.03252569032,
+                    "max_cap_store2pipe_M_m3_per_d": 5.03252569032,
+                    "max_workingGas_M_m3": 4.4836,
+                    "name_short": "Krasnopopivske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.7,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Olyshivske",
+                "id": "GIE_SR_140",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-OLYSHI-5",
+                    "max_cap_pipe2store_M_m3_per_d": 2.00150843772,
+                    "max_cap_store2pipe_M_m3_per_d": 2.1023852172,
+                    "max_workingGas_M_m3": 3.2912,
+                    "name_short": "Olyshivske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6,
+                    49.44
+                ]
+            },
+            "properties": {
+                "name": "UGS Oparske",
+                "id": "GIE_SR_141",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-OPARSK-2",
+                    "max_cap_pipe2store_M_m3_per_d": 20.945601959879998,
+                    "max_cap_store2pipe_M_m3_per_d": 20.945601959879998,
+                    "max_workingGas_M_m3": 20.3128,
+                    "name_short": "Oparske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.16,
+                    49.0202
+                ]
+            },
+            "properties": {
+                "name": "UGS Proletarske",
+                "id": "GIE_SR_142",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-PROLET-T",
+                    "max_cap_pipe2store_M_m3_per_d": 10.175355896520001,
+                    "max_cap_store2pipe_M_m3_per_d": 10.175355896520001,
+                    "max_workingGas_M_m3": 10.7927,
+                    "name_short": "Proletarske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.8,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Solokhivske",
+                "id": "GIE_SR_143",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-SOLOKH-4",
+                    "max_cap_pipe2store_M_m3_per_d": 7.9145847078000005,
+                    "max_cap_store2pipe_M_m3_per_d": 13.02347506296,
+                    "max_workingGas_M_m3": 13.814,
+                    "name_short": "Solokhivske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.99,
+                    49.266999999999996
+                ]
+            },
+            "properties": {
+                "name": "UGS Uherske (XIV-XV)",
+                "id": "GIE_SR_144",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-UHERSK-N",
+                    "max_cap_pipe2store_M_m3_per_d": 23.00084849508,
+                    "max_cap_store2pipe_M_m3_per_d": 23.00084849508,
+                    "max_workingGas_M_m3": 20.1543,
+                    "name_short": "Uherske(XIVXV)"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    37.9,
+                    49.46
+                ]
+            },
+            "properties": {
+                "name": "UGS Verhunske",
+                "id": "GIE_SR_145",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "eic_code": "21X0000000013279",
+                    "facility_code": "56W-UGS-VERHUN-S",
+                    "max_cap_pipe2store_M_m3_per_d": 0.0,
+                    "max_cap_store2pipe_M_m3_per_d": 0.0,
+                    "max_workingGas_M_m3": 0.0,
+                    "name_short": "Verhunske"
+                },
+                "method": {
+                    "eic_code": "raw",
+                    "facility_code": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "name_short": "raw"
+                }
+            }
+        }
+    ]
+}

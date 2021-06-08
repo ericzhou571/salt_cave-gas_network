@@ -1,0 +1,12 @@
+Authors of SciGRID_gas
+
+See also the files THANKS and CHANGES
+
+Jan C. Diettrich, Adam Pluta, Wided Medjroubi, and Jan Dasenbrock incorporated the LKD data set into the SciGRID_gas data project.
+
+However, if you use this data or any data set which incorporates this data, you are also obliged to cite the original authors of the LKD data as follows:
+
+Kunz et al. 2017, Data Documentation: Electricity, Heat, and Gas Sector Data for Modeling the German System.(ISBN: 978-3-86780-554-4).
+
+The original data repository can be found under 10.5281/zenodo.1044462 
+

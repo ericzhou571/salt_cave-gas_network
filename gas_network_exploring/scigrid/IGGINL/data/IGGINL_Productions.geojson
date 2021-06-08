@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.106536731070346,
+                    53.02222338807455
+                ]
+            },
+            "properties": {
+                "name": "Production (DE) (GUD) H-Gas-Summe Produktion",
+                "id": "LKD_PD_0",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "PRD-00167",
+                    "is_H_gas": 1,
+                    "max_production_M_m3_per_d": 2336.629416301612,
+                    "operator_name": "gasunie",
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "is_H_gas": "raw",
+                    "max_production_M_m3_per_d": "raw",
+                    "operator_name": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.13045639990686,
+                    52.600633311017596
+                ]
+            },
+            "properties": {
+                "name": "Schneeren",
+                "id": "LKD_PD_1",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "PRD-00021",
+                    "is_H_gas": 1,
+                    "max_production_M_m3_per_d": 271.8317455312593,
+                    "operator_name": "gasunie",
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "is_H_gas": "raw",
+                    "max_production_M_m3_per_d": "raw",
+                    "operator_name": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.882478412877103,
+                    51.35175016658574
+                ]
+            },
+            "properties": {
+                "name": "Aggregate Production H-Gas (Thyssengas)",
+                "id": "LKD_PD_2",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "PRD-00202",
+                    "is_H_gas": 1,
+                    "max_production_M_m3_per_d": 1429.6013876884588,
+                    "operator_name": "Thyssengas GmbH",
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "is_H_gas": "raw",
+                    "max_production_M_m3_per_d": "raw",
+                    "operator_name": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.891570235986509,
+                    51.0998639715029
+                ]
+            },
+            "properties": {
+                "name": "Aggregate Production L-Gas (Thyssengas)",
+                "id": "LKD_PD_3",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "PRD-00203",
+                    "is_H_gas": 1,
+                    "max_production_M_m3_per_d": 0.0,
+                    "operator_name": "Thyssengas GmbH",
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "is_H_gas": "raw",
+                    "max_production_M_m3_per_d": "raw",
+                    "operator_name": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.275472329809927,
+                    53.4726212272826
+                ]
+            },
+            "properties": {
+                "name": "Production (OGE) (DE)",
+                "id": "LKD_PD_4",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "PRD-00200",
+                    "is_H_gas": 1,
+                    "max_production_M_m3_per_d": 1244.4948401351544,
+                    "operator_name": "OpenGridEurope",
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "is_H_gas": "raw",
+                    "max_production_M_m3_per_d": "raw",
+                    "operator_name": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.011673519010131,
+                    52.31711599662928
+                ]
+            },
+            "properties": {
+                "name": "Nowega Zone Production",
+                "id": "LKD_PD_5",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "PRD-00155",
+                    "is_H_gas": 1,
+                    "max_production_M_m3_per_d": 3647.381270669203,
+                    "operator_name": "OGE",
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "is_H_gas": "raw",
+                    "max_production_M_m3_per_d": "raw",
+                    "operator_name": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

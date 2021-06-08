@@ -1,0 +1,933 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9940986,
+                    40.9399278
+                ]
+            },
+            "properties": {
+                "name": "Alexandroupolis",
+                "id": "INET_LG_0",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 16.71232876712329,
+                    "max_workingGas_M_m3": 110.92671200000001,
+                    "median_cap_store2pipe_M_m3_per_d": 16.949847486371613,
+                    "start_year": 2022.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.174,
+                    41.398
+                ]
+            },
+            "properties": {
+                "name": "Barcelona",
+                "id": "INET_LG_1",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 51.1831809156,
+                    "max_workingGas_M_m3": 442.68952,
+                    "median_cap_store2pipe_M_m3_per_d": 51.1831809156,
+                    "start_year": 1969.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0947299999999998,
+                    43.3612
+                ]
+            },
+            "properties": {
+                "name": "Bilbao",
+                "id": "INET_LG_2",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 23.4373526904,
+                    "max_workingGas_M_m3": 262.11672,
+                    "median_cap_store2pipe_M_m3_per_d": 20.9955689628,
+                    "start_year": 2003.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.998,
+                    37.624
+                ]
+            },
+            "properties": {
+                "name": "Cartagena",
+                "id": "INET_LG_4",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "max_workingGas_M_m3": 341.92032,
+                    "median_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "start_year": 1989.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.03,
+                    51.71
+                ]
+            },
+            "properties": {
+                "name": "Dragon",
+                "id": "INET_LG_6",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 20.82191780821918,
+                    "max_workingGas_M_m3": 208.871104,
+                    "median_cap_store2pipe_M_m3_per_d": 20.837207792946437,
+                    "start_year": 2009.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1947919999999996,
+                    51.033134000000004
+                ]
+            },
+            "properties": {
+                "name": "Dunkerque",
+                "id": "INET_LG_7",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 49.005373807199994,
+                    "max_workingGas_M_m3": 350.4,
+                    "median_cap_store2pipe_M_m3_per_d": 49.005373807199994,
+                    "start_year": 2016.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2193451,
+                    43.489646
+                ]
+            },
+            "properties": {
+                "name": "El Ferrol",
+                "id": "INET_LG_8",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 10.8607523328,
+                    "max_workingGas_M_m3": 175.2,
+                    "median_cap_store2pipe_M_m3_per_d": 10.8607523328,
+                    "start_year": 2007.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.847,
+                    43.399
+                ]
+            },
+            "properties": {
+                "name": "El Musel",
+                "id": "INET_LG_9",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 19.17808219178082,
+                    "max_workingGas_M_m3": 195.744536,
+                    "median_cap_store2pipe_M_m3_per_d": 19.282263670316507,
+                    "start_year": 2012.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891,
+                    43.45
+                ]
+            },
+            "properties": {
+                "name": "Fos Cavaou",
+                "id": "INET_LG_10",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 28.2832092,
+                    "max_workingGas_M_m3": 192.72,
+                    "median_cap_store2pipe_M_m3_per_d": 28.2832092,
+                    "start_year": 2020.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891,
+                    43.45
+                ]
+            },
+            "properties": {
+                "name": "Fos Tonkin",
+                "id": "INET_LG_11",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 9.0411992076,
+                    "max_workingGas_M_m3": 46.72,
+                    "median_cap_store2pipe_M_m3_per_d": 9.0411992076,
+                    "start_year": 1972.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064029,
+                    51.973836999999996
+                ]
+            },
+            "properties": {
+                "name": "Gate Rotterdam",
+                "id": "INET_LG_12",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 43.461864804,
+                    "max_workingGas_M_m3": 315.36,
+                    "median_cap_store2pipe_M_m3_per_d": 43.461864804,
+                    "start_year": 2018.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.96,
+                    57.709
+                ]
+            },
+            "properties": {
+                "name": "Gothenburg",
+                "id": "INET_LG_13",
+                "country_code": "SE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 7.667711885127829,
+                    "max_workingGas_M_m3": 21.492952000000002,
+                    "median_cap_store2pipe_M_m3_per_d": 9.299162087068837,
+                    "start_year": 2018.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9508,
+                    37.2583
+                ]
+            },
+            "properties": {
+                "name": "Huelva",
+                "id": "INET_LG_14",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "max_workingGas_M_m3": 360.84776000000005,
+                    "median_cap_store2pipe_M_m3_per_d": 35.4294333912,
+                    "start_year": 1988.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.711,
+                    51.45
+                ]
+            },
+            "properties": {
+                "name": "Isle Of Grain",
+                "id": "INET_LG_15",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 60.714622416000005,
+                    "max_workingGas_M_m3": 599.4176000000001,
+                    "median_cap_store2pipe_M_m3_per_d": 60.714622416000005,
+                    "start_year": 2020.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.101954,
+                    55.7253
+                ]
+            },
+            "properties": {
+                "name": "Klaipeda",
+                "id": "INET_LG_16",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 11.831809182,
+                    "max_workingGas_M_m3": 97.56888,
+                    "median_cap_store2pipe_M_m3_per_d": 11.831809182,
+                    "start_year": 2014.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.14,
+                    47.32
+                ]
+            },
+            "properties": {
+                "name": "Montoir De Bretagne",
+                "id": "INET_LG_17",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 32.5445460528,
+                    "max_workingGas_M_m3": 210.23999999999998,
+                    "median_cap_store2pipe_M_m3_per_d": 31.771471668,
+                    "start_year": 1980.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0045,
+                    59.406009999999995
+                ]
+            },
+            "properties": {
+                "name": "Tallinn",
+                "id": "INET_LG_18",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 10.95890410958904,
+                    "max_workingGas_M_m3": 2.596464,
+                    "median_cap_store2pipe_M_m3_per_d": 11.507543057166853,
+                    "start_year": 2019.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.074939999999998,
+                    59.38445
+                ]
+            },
+            "properties": {
+                "name": "Paldiski",
+                "id": "INET_LG_20",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 6.8493150684931505,
+                    "max_workingGas_M_m3": 104.435552,
+                    "median_cap_store2pipe_M_m3_per_d": 7.620182750592033,
+                    "start_year": 2020.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.838,
+                    44.116
+                ]
+            },
+            "properties": {
+                "name": "Panigaglia",
+                "id": "INET_LG_21",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 11.266144998,
+                    "max_workingGas_M_m3": 23.36,
+                    "median_cap_store2pipe_M_m3_per_d": 11.266144998,
+                    "start_year": 1971.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.181,
+                    61.66
+                ]
+            },
+            "properties": {
+                "name": "Pori",
+                "id": "INET_LG_22",
+                "country_code": "FI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 7.398193159761888,
+                    "max_workingGas_M_m3": 18.607992000000003,
+                    "median_cap_store2pipe_M_m3_per_d": 9.038962940431045,
+                    "start_year": 1983,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "make_Attrib(const)",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.219946,
+                    45.034434
+                ]
+            },
+            "properties": {
+                "name": "Porto Levante",
+                "id": "INET_LG_23",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 21.542377674,
+                    "max_workingGas_M_m3": 146.0,
+                    "median_cap_store2pipe_M_m3_per_d": 21.542377674,
+                    "start_year": 2009.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.412,
+                    38.17
+                ]
+            },
+            "properties": {
+                "name": "Revithoussa",
+                "id": "INET_LG_24",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 25.4454605436,
+                    "max_workingGas_M_m3": 75.92,
+                    "median_cap_store2pipe_M_m3_per_d": 19.373998302,
+                    "start_year": 2000.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1788,
+                    56.9904
+                ]
+            },
+            "properties": {
+                "name": "Riga",
+                "id": "INET_LG_25",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 13.698630136986301,
+                    "max_workingGas_M_m3": 125.0379742631149,
+                    "median_cap_store2pipe_M_m3_per_d": 14.099116594883405,
+                    "start_year": 2019.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "Lasso",
+                    "median_cap_store2pipe_M_m3_per_d": "Lasso",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.457085,
+                    39.533233
+                ]
+            },
+            "properties": {
+                "name": "Sagunto",
+                "id": "INET_LG_26",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 26.237390401200003,
+                    "max_workingGas_M_m3": 349.48895999999996,
+                    "median_cap_store2pipe_M_m3_per_d": 26.237390401200003,
+                    "start_year": 2006.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.83,
+                    38.532
+                ]
+            },
+            "properties": {
+                "name": "Sines",
+                "id": "INET_LG_27",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 18.8554728,
+                    "max_workingGas_M_m3": 227.76000000000002,
+                    "median_cap_store2pipe_M_m3_per_d": 18.1766757792,
+                    "start_year": 2003.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.03,
+                    51.71
+                ]
+            },
+            "properties": {
+                "name": "South Hook",
+                "id": "INET_LG_28",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 61.280286600000004,
+                    "max_workingGas_M_m3": 438.98112000000003,
+                    "median_cap_store2pipe_M_m3_per_d": 61.280286600000004,
+                    "start_year": 2009.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.294722,
+                    53.909167000000004
+                ]
+            },
+            "properties": {
+                "name": "Swinoujscie",
+                "id": "INET_LG_29",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 15.348354859200002,
+                    "max_workingGas_M_m3": 186.88,
+                    "median_cap_store2pipe_M_m3_per_d": 15.348354859200002,
+                    "start_year": 2020.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.311025,
+                    43.547519
+                ]
+            },
+            "properties": {
+                "name": "Toscana",
+                "id": "INET_LG_30",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 15.716036578799999,
+                    "max_workingGas_M_m3": 80.10144,
+                    "median_cap_store2pipe_M_m3_per_d": 15.697181106,
+                    "start_year": 2013.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213,
+                    51.323
+                ]
+            },
+            "properties": {
+                "name": "Zeebrugge",
+                "id": "INET_LG_31",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "max_cap_store2pipe_M_m3_per_d": 41.906288298,
+                    "max_workingGas_M_m3": 223.088,
+                    "median_cap_store2pipe_M_m3_per_d": 41.906288298,
+                    "start_year": 2019.0,
+                    "is_H_gas": 1
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "max_workingGas_M_m3": "raw",
+                    "median_cap_store2pipe_M_m3_per_d": "raw",
+                    "start_year": "raw",
+                    "is_H_gas": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

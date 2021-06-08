@@ -1,0 +1,397 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.059478825320987,
+                    47.89317394611495
+                ]
+            },
+            "properties": {
+                "name": "Inzenham UGS",
+                "id": "LKD_SR_0",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00294",
+                    "max_cap_pipe2store_M_m3_per_d": 0.0,
+                    "max_cap_store2pipe_M_m3_per_d": 0.0,
+                    "operator_name": "bayernets"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.781148938670782,
+                    48.0181412733453
+                ]
+            },
+            "properties": {
+                "name": "Wolfersberg UGS",
+                "id": "LKD_SR_1",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00301",
+                    "max_cap_pipe2store_M_m3_per_d": 6.295842367920001,
+                    "max_cap_store2pipe_M_m3_per_d": 2.498350146,
+                    "operator_name": "bayernets"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.818238361881166,
+                    48.11882656440544
+                ]
+            },
+            "properties": {
+                "name": "Haidach (AT) / Haidach USP (DE)",
+                "id": "LKD_SR_2",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00274",
+                    "max_cap_pipe2store_M_m3_per_d": 0.96186480621,
+                    "max_cap_store2pipe_M_m3_per_d": 67.87970208,
+                    "operator_name": "astora"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.78878209417577,
+                    48.21915679567742
+                ]
+            },
+            "properties": {
+                "name": "Haiming 2-RAGES/bn",
+                "id": "LKD_SR_3",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "ITP-00308",
+                    "max_cap_pipe2store_M_m3_per_d": 67.87970208,
+                    "max_cap_store2pipe_M_m3_per_d": 9.3900254544,
+                    "operator_name": "bayernets"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.420097997783367,
+                    48.092376053638695
+                ]
+            },
+            "properties": {
+                "name": "UGS Bierwang",
+                "id": "LKD_SR_4",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00355",
+                    "max_cap_pipe2store_M_m3_per_d": 19.3457150928,
+                    "max_cap_store2pipe_M_m3_per_d": 6.2788724424,
+                    "operator_name": "bayernets/OGE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40821452881308,
+                    47.91540564685577
+                ]
+            },
+            "properties": {
+                "name": "UGS Breitbrunn",
+                "id": "LKD_SR_5",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00357",
+                    "max_cap_pipe2store_M_m3_per_d": 8.634298104576,
+                    "max_cap_store2pipe_M_m3_per_d": 10.67973979392,
+                    "operator_name": "bayernets"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.46627137355672,
+                    49.81333804570784
+                ]
+            },
+            "properties": {
+                "name": "UGS Stockstadt",
+                "id": "LKD_SR_6",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00375",
+                    "max_cap_pipe2store_M_m3_per_d": 0.5853787121407681,
+                    "max_cap_store2pipe_M_m3_per_d": 10.3092297534,
+                    "operator_name": "MIDAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.347535098990326,
+                    52.5517987869226
+                ]
+            },
+            "properties": {
+                "name": "Rehden",
+                "id": "LKD_SR_7",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00087",
+                    "max_cap_pipe2store_M_m3_per_d": 47.279126989150804,
+                    "max_cap_store2pipe_M_m3_per_d": 0.8747006693238001,
+                    "operator_name": "MIDAL NEL  RHG GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6366222000119,
+                    53.47343165409706
+                ]
+            },
+            "properties": {
+                "name": "UGS Harsefeld",
+                "id": "LKD_SR_8",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00383",
+                    "max_cap_pipe2store_M_m3_per_d": 2.190251720448,
+                    "max_cap_store2pipe_M_m3_per_d": 5.446214763552001,
+                    "operator_name": "RHG GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.324344598079275,
+                    53.270809754664704
+                ]
+            },
+            "properties": {
+                "name": "Jemgum (DE) (astora) / Jemgum I (GASCADE)",
+                "id": "LKD_SR_9",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00399",
+                    "max_cap_pipe2store_M_m3_per_d": 2.8424625246,
+                    "max_cap_store2pipe_M_m3_per_d": 18.971677570428575,
+                    "operator_name": "MIDAL GASCADE"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.135992798188253,
+                    49.55465937668777
+                ]
+            },
+            "properties": {
+                "name": "UGS Eschenfelden",
+                "id": "LKD_SR_10",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00363",
+                    "max_cap_pipe2store_M_m3_per_d": 1.558970491104,
+                    "max_cap_store2pipe_M_m3_per_d": 6.407097199629121,
+                    "operator_name": "OpenGridEurope"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.48787421464695,
+                    47.83810879776254
+                ]
+            },
+            "properties": {
+                "name": "UGS Fronhofen",
+                "id": "LKD_SR_11",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00316",
+                    "max_cap_pipe2store_M_m3_per_d": 1.766003582448,
+                    "max_cap_store2pipe_M_m3_per_d": 0.24889224096,
+                    "operator_name": "terranets bw"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.815024357992035,
+                    51.3961513352192
+                ]
+            },
+            "properties": {
+                "name": "UGS Bad Lauchstdt",
+                "id": "LKD_SR_12",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00309",
+                    "max_cap_pipe2store_M_m3_per_d": 21.4222141027797,
+                    "max_cap_store2pipe_M_m3_per_d": 1.32530404443,
+                    "operator_name": "ONTRAS"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.909049506895919,
+                    52.178295516028044
+                ]
+            },
+            "properties": {
+                "name": "UGS Buchholz",
+                "id": "LKD_SR_13",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "entsog_key": "UGS-00310",
+                    "max_cap_pipe2store_M_m3_per_d": 2.5739983028736,
+                    "max_cap_store2pipe_M_m3_per_d": 2.8626567359688,
+                    "operator_name": "ONTRAS"
+                },
+                "method": {
+                    "entsog_key": "raw",
+                    "max_cap_pipe2store_M_m3_per_d": "raw",
+                    "max_cap_store2pipe_M_m3_per_d": "raw",
+                    "operator_name": "raw"
+                }
+            }
+        }
+    ]
+}

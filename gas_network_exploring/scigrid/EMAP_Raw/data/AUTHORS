@@ -1,0 +1,11 @@
+Authors of SciGRID_gas
+
+See also the files THANKS and CHANGES.
+
+Jan C. Diettrich, Adam Pluta and Wided Medjroubi designed and generated this SciGRID_gas data set.
+
+We would like to acknowledge that the original approach of converting the EntsoG-Map PDF file into a shape file format was originally proposed by Incio Yueksel-Erguen and Janina Zittel (Zuse Institute Berlin (ZIB)).
+
+The origin of the EMap data is a map in PDF format supplied by EntsoG. EntsoG is the acronym for “European Network of Transmission System Operators for Gas”, and is an association of the European transmission system operators. The PDF map can be downloaded from the following link:
+https://www.entsog.eu/sites/default/files/2020-01/ENTSOG_CAP_2019_A0_1189x841_FULL_401.pdf
+A list of all sources used for the generation of this  data set can be found in the Dokumentation, Chapter 3. Data sources SciGRID_gas user manual.

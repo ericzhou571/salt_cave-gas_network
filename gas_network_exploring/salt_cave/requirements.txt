@@ -1,0 +1,12 @@
+pandas
+numpy
+opencv-python
+scikit-learn
+geopandas
+fiona
+rasterio
+shapely
+mapclassify
+geoplot
+pycountry
+ipykernel

@@ -1,0 +1,38 @@
+# this project need different version of cartopy than pypsa-eur
+ 
+name: salt_cave
+channels:
+  - conda-forge
+  - bioconda
+  - http://conda.anaconda.org/gurobi
+dependencies:
+  - python=3.6
+  - pip
+
+  # Dependencies of the workflow itself
+  - scikit-learn
+  - pycountry
+  - seaborn
+  - numpy 
+
+
+
+  # GIS dependencies:
+  - fiona
+  - proj
+  - pyshp
+  - geopandas
+  - rasterio
+  - shapely
+  - libgdal<=3.0.4
+  - descartes
+
+  
+
+  - pip:
+    - opencv-python
+    - mapclassify
+    - geoplot
+    - matplotlib
+    - cartopy>=0.18.0
+    - tqdm

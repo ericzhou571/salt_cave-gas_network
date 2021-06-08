@@ -1,0 +1,3185 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -11.04853,
+                    54.18307
+                ]
+            },
+            "properties": {
+                "name": "Prod0",
+                "id": "Prod0",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.09757,
+                    43.15539
+                ]
+            },
+            "properties": {
+                "name": "Prod1",
+                "id": "Prod1",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.49689,
+                    34.39425
+                ]
+            },
+            "properties": {
+                "name": "Prod2",
+                "id": "Prod2",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.37273,
+                    45.42187
+                ]
+            },
+            "properties": {
+                "name": "Prod3",
+                "id": "Prod3",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.39614,
+                    43.15453
+                ]
+            },
+            "properties": {
+                "name": "Prod4",
+                "id": "Prod4",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.06088,
+                    43.1029
+                ]
+            },
+            "properties": {
+                "name": "Prod5",
+                "id": "Prod5",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.79793,
+                    52.27421
+                ]
+            },
+            "properties": {
+                "name": "Prod6",
+                "id": "Prod6",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1244.4948401351544,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "raw",
+                    "max_supply_M_m3_per_d": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.97778,
+                    45.51566
+                ]
+            },
+            "properties": {
+                "name": "Prod7",
+                "id": "Prod7",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.15898,
+                    55.51782
+                ]
+            },
+            "properties": {
+                "name": "Prod8",
+                "id": "Prod8",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 3647.381270669203,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "raw",
+                    "max_supply_M_m3_per_d": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.51561,
+                    53.72259
+                ]
+            },
+            "properties": {
+                "name": "Prod9",
+                "id": "Prod9",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.42415,
+                    32.12608
+                ]
+            },
+            "properties": {
+                "name": "Prod10",
+                "id": "Prod10",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.58376,
+                    43.87352
+                ]
+            },
+            "properties": {
+                "name": "Prod11",
+                "id": "Prod11",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.01499,
+                    51.45021
+                ]
+            },
+            "properties": {
+                "name": "Prod12",
+                "id": "Prod12",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.18736,
+                    45.13994
+                ]
+            },
+            "properties": {
+                "name": "Prod13",
+                "id": "Prod13",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.48413,
+                    44.3355
+                ]
+            },
+            "properties": {
+                "name": "Prod14",
+                "id": "Prod14",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.18211,
+                    44.46848
+                ]
+            },
+            "properties": {
+                "name": "Prod15",
+                "id": "Prod15",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.45083,
+                    44.0054
+                ]
+            },
+            "properties": {
+                "name": "Prod17",
+                "id": "Prod17",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.57881,
+                    33.25159
+                ]
+            },
+            "properties": {
+                "name": "Prod18",
+                "id": "Prod18",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.91494,
+                    45.31751
+                ]
+            },
+            "properties": {
+                "name": "Prod19",
+                "id": "Prod19",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.48694,
+                    54.61267
+                ]
+            },
+            "properties": {
+                "name": "Prod20",
+                "id": "Prod20",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.68486,
+                    65.70589
+                ]
+            },
+            "properties": {
+                "name": "Prod21",
+                "id": "Prod21",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.78318,
+                    64.28153
+                ]
+            },
+            "properties": {
+                "name": "Prod22",
+                "id": "Prod22",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.04726,
+                    32.24282
+                ]
+            },
+            "properties": {
+                "name": "Prod23",
+                "id": "Prod23",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.51016,
+                    42.99639
+                ]
+            },
+            "properties": {
+                "name": "Prod24",
+                "id": "Prod24",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.73709,
+                    32.42212
+                ]
+            },
+            "properties": {
+                "name": "Prod25",
+                "id": "Prod25",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.88659,
+                    32.3248
+                ]
+            },
+            "properties": {
+                "name": "Prod26",
+                "id": "Prod26",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.89533,
+                    54.2194
+                ]
+            },
+            "properties": {
+                "name": "Prod27",
+                "id": "Prod27",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.60207,
+                    45.27195
+                ]
+            },
+            "properties": {
+                "name": "Prod28",
+                "id": "Prod28",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.54606,
+                    56.1227
+                ]
+            },
+            "properties": {
+                "name": "Prod29",
+                "id": "Prod29",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.98742,
+                    65.96272
+                ]
+            },
+            "properties": {
+                "name": "Prod30",
+                "id": "Prod30",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.86116,
+                    65.94639
+                ]
+            },
+            "properties": {
+                "name": "Prod31",
+                "id": "Prod31",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.56891,
+                    65.67103
+                ]
+            },
+            "properties": {
+                "name": "Prod32",
+                "id": "Prod32",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.61159,
+                    64.98232
+                ]
+            },
+            "properties": {
+                "name": "Prod33",
+                "id": "Prod33",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.93669,
+                    32.11804
+                ]
+            },
+            "properties": {
+                "name": "Prod34",
+                "id": "Prod34",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.44032,
+                    32.33194
+                ]
+            },
+            "properties": {
+                "name": "Prod35",
+                "id": "Prod35",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.26869,
+                    40.73811
+                ]
+            },
+            "properties": {
+                "name": "Prod36",
+                "id": "Prod36",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.90321,
+                    51.39759
+                ]
+            },
+            "properties": {
+                "name": "Prod37",
+                "id": "Prod37",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.95703,
+                    43.55604
+                ]
+            },
+            "properties": {
+                "name": "Prod38",
+                "id": "Prod38",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.27395,
+                    53.73811
+                ]
+            },
+            "properties": {
+                "name": "Prod39",
+                "id": "Prod39",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.28618,
+                    54.38332
+                ]
+            },
+            "properties": {
+                "name": "Prod40",
+                "id": "Prod40",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.09009,
+                    31.95676
+                ]
+            },
+            "properties": {
+                "name": "Prod41",
+                "id": "Prod41",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.79108,
+                    32.51472
+                ]
+            },
+            "properties": {
+                "name": "Prod42",
+                "id": "Prod42",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.16877,
+                    32.35902
+                ]
+            },
+            "properties": {
+                "name": "Prod43",
+                "id": "Prod43",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.04055,
+                    32.5665
+                ]
+            },
+            "properties": {
+                "name": "Prod44",
+                "id": "Prod44",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04162,
+                    57.15996
+                ]
+            },
+            "properties": {
+                "name": "Prod45",
+                "id": "Prod45",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7383,
+                    57.39842
+                ]
+            },
+            "properties": {
+                "name": "Prod46",
+                "id": "Prod46",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.84402,
+                    53.56514
+                ]
+            },
+            "properties": {
+                "name": "Prod47",
+                "id": "Prod47",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.93389,
+                    53.69984
+                ]
+            },
+            "properties": {
+                "name": "Prod48",
+                "id": "Prod48",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.87711,
+                    54.05486
+                ]
+            },
+            "properties": {
+                "name": "Prod49",
+                "id": "Prod49",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.82934,
+                    57.78984
+                ]
+            },
+            "properties": {
+                "name": "Prod50",
+                "id": "Prod50",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.83319,
+                    32.19238
+                ]
+            },
+            "properties": {
+                "name": "Prod51",
+                "id": "Prod51",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.5096,
+                    32.17164
+                ]
+            },
+            "properties": {
+                "name": "Prod52",
+                "id": "Prod52",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.27863,
+                    32.20794
+                ]
+            },
+            "properties": {
+                "name": "Prod53",
+                "id": "Prod53",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.93439,
+                    57.2925
+                ]
+            },
+            "properties": {
+                "name": "Prod54",
+                "id": "Prod54",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.25958,
+                    57.06002
+                ]
+            },
+            "properties": {
+                "name": "Prod55",
+                "id": "Prod55",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8844,
+                    57.26519
+                ]
+            },
+            "properties": {
+                "name": "Prod56",
+                "id": "Prod56",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.68827,
+                    45.61847
+                ]
+            },
+            "properties": {
+                "name": "Prod57",
+                "id": "Prod57",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.14864,
+                    53.16142
+                ]
+            },
+            "properties": {
+                "name": "Prod58",
+                "id": "Prod58",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.864,
+                    53.07406
+                ]
+            },
+            "properties": {
+                "name": "Prod59",
+                "id": "Prod59",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.00237,
+                    57.15221
+                ]
+            },
+            "properties": {
+                "name": "Prod60",
+                "id": "Prod60",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.89624,
+                    56.92577
+                ]
+            },
+            "properties": {
+                "name": "Prod61",
+                "id": "Prod61",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.17476,
+                    61.35762
+                ]
+            },
+            "properties": {
+                "name": "Prod62",
+                "id": "Prod62",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.24444,
+                    64.36755
+                ]
+            },
+            "properties": {
+                "name": "Prod63",
+                "id": "Prod63",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.32341,
+                    64.3921
+                ]
+            },
+            "properties": {
+                "name": "Prod64",
+                "id": "Prod64",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.55904,
+                    32.44425
+                ]
+            },
+            "properties": {
+                "name": "Prod65",
+                "id": "Prod65",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8375,
+                    57.6198
+                ]
+            },
+            "properties": {
+                "name": "Prod66",
+                "id": "Prod66",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7605,
+                    57.85582
+                ]
+            },
+            "properties": {
+                "name": "Prod67",
+                "id": "Prod67",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.02784,
+                    57.99441
+                ]
+            },
+            "properties": {
+                "name": "Prod68",
+                "id": "Prod68",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.99848,
+                    59.19034
+                ]
+            },
+            "properties": {
+                "name": "Prod69",
+                "id": "Prod69",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.75521,
+                    64.99419
+                ]
+            },
+            "properties": {
+                "name": "Prod70",
+                "id": "Prod70",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.95724,
+                    58.5369
+                ]
+            },
+            "properties": {
+                "name": "Prod71",
+                "id": "Prod71",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.74205,
+                    58.46497
+                ]
+            },
+            "properties": {
+                "name": "Prod72",
+                "id": "Prod72",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.48451,
+                    63.32893
+                ]
+            },
+            "properties": {
+                "name": "Prod73",
+                "id": "Prod73",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.36658,
+                    32.72161
+                ]
+            },
+            "properties": {
+                "name": "Prod74",
+                "id": "Prod74",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.5551,
+                    32.68294
+                ]
+            },
+            "properties": {
+                "name": "Prod75",
+                "id": "Prod75",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.82418,
+                    43.89683
+                ]
+            },
+            "properties": {
+                "name": "Prod76",
+                "id": "Prod76",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0326,
+                    43.98256
+                ]
+            },
+            "properties": {
+                "name": "Prod77",
+                "id": "Prod77",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.36824,
+                    53.42418
+                ]
+            },
+            "properties": {
+                "name": "Prod78",
+                "id": "Prod78",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.43508,
+                    53.40756
+                ]
+            },
+            "properties": {
+                "name": "Prod79",
+                "id": "Prod79",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.96875,
+                    60.44403
+                ]
+            },
+            "properties": {
+                "name": "Prod80",
+                "id": "Prod80",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.23996,
+                    59.17244
+                ]
+            },
+            "properties": {
+                "name": "Prod81",
+                "id": "Prod81",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.50059,
+                    59.1817
+                ]
+            },
+            "properties": {
+                "name": "Prod82",
+                "id": "Prod82",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.71016,
+                    58.8782
+                ]
+            },
+            "properties": {
+                "name": "Prod83",
+                "id": "Prod83",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.89938,
+                    65.03563
+                ]
+            },
+            "properties": {
+                "name": "Prod84",
+                "id": "Prod84",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.30784,
+                    60.23457
+                ]
+            },
+            "properties": {
+                "name": "Prod85",
+                "id": "Prod85",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.51377,
+                    60.29139
+                ]
+            },
+            "properties": {
+                "name": "Prod86",
+                "id": "Prod86",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.37545,
+                    63.31667
+                ]
+            },
+            "properties": {
+                "name": "Prod87",
+                "id": "Prod87",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.26474,
+                    64.43615
+                ]
+            },
+            "properties": {
+                "name": "Prod88",
+                "id": "Prod88",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.86071,
+                    32.02137
+                ]
+            },
+            "properties": {
+                "name": "Prod89",
+                "id": "Prod89",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.72095,
+                    60.603
+                ]
+            },
+            "properties": {
+                "name": "Prod90",
+                "id": "Prod90",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.09087,
+                    60.84458
+                ]
+            },
+            "properties": {
+                "name": "Prod91",
+                "id": "Prod91",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.19034,
+                    60.39795
+                ]
+            },
+            "properties": {
+                "name": "Prod92",
+                "id": "Prod92",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.60443,
+                    60.71336
+                ]
+            },
+            "properties": {
+                "name": "Prod93",
+                "id": "Prod93",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.66443,
+                    61.23191
+                ]
+            },
+            "properties": {
+                "name": "Prod94",
+                "id": "Prod94",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.92746,
+                    57.68124
+                ]
+            },
+            "properties": {
+                "name": "Prod95",
+                "id": "Prod95",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.70398,
+                    58.65086
+                ]
+            },
+            "properties": {
+                "name": "Prod96",
+                "id": "Prod96",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.58273,
+                    58.07062
+                ]
+            },
+            "properties": {
+                "name": "Prod97",
+                "id": "Prod97",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.08057,
+                    58.1619
+                ]
+            },
+            "properties": {
+                "name": "Prod98",
+                "id": "Prod98",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.53144,
+                    58.5544
+                ]
+            },
+            "properties": {
+                "name": "Prod99",
+                "id": "Prod99",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.38341,
+                    60.07798
+                ]
+            },
+            "properties": {
+                "name": "Prod100",
+                "id": "Prod100",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2161,
+                    60.72033
+                ]
+            },
+            "properties": {
+                "name": "Prod101",
+                "id": "Prod101",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90682,
+                    60.68386
+                ]
+            },
+            "properties": {
+                "name": "Prod102",
+                "id": "Prod102",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "make_Attrib(const)",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.10654,
+                    53.02222
+                ]
+            },
+            "properties": {
+                "name": "Production (DE) (GUD) H-Gas-Summe Produktion",
+                "id": "LKD_PD_0",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 2336.629416301612,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "raw",
+                    "max_supply_M_m3_per_d": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.13046,
+                    52.60063
+                ]
+            },
+            "properties": {
+                "name": "Schneeren",
+                "id": "LKD_PD_1",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 271.8317455312593,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "raw",
+                    "max_supply_M_m3_per_d": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.88248,
+                    51.35175
+                ]
+            },
+            "properties": {
+                "name": "Aggregate Production H-Gas (Thyssengas)",
+                "id": "LKD_PD_2",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1429.6013876884588,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "raw",
+                    "max_supply_M_m3_per_d": "raw",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.89157,
+                    51.09986
+                ]
+            },
+            "properties": {
+                "name": "Aggregate Production L-Gas (Thyssengas)",
+                "id": "LKD_PD_3",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "is_H_gas": 1,
+                    "max_supply_M_m3_per_d": 1318.537459156476,
+                    "end_year": 2050,
+                    "start_year": 1983,
+                    "status": "operational"
+                },
+                "method": {
+                    "is_H_gas": "raw",
+                    "max_supply_M_m3_per_d": "Median(max_supply_M_m3_per_d)",
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)",
+                    "status": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

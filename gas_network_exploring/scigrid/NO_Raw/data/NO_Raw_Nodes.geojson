@@ -1,0 +1,1373 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.797264624118895,
+                    65.10640013242656
+                ]
+            },
+            "properties": {
+                "name": "N_282613",
+                "id": "NO_N_0",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.193623243315089,
+                    59.332862188736044
+                ]
+            },
+            "properties": {
+                "name": "N_286169",
+                "id": "NO_N_1",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.895158875655893,
+                    60.56035586908638
+                ]
+            },
+            "properties": {
+                "name": "N_277321",
+                "id": "NO_N_2",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8961421395531044,
+                    60.78219442047412
+                ]
+            },
+            "properties": {
+                "name": "N_286505",
+                "id": "NO_N_3",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2984040199654383,
+                    54.78877631323162
+                ]
+            },
+            "properties": {
+                "name": "N_286533",
+                "id": "NO_N_4",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2284748483936863,
+                    51.34967653644987
+                ]
+            },
+            "properties": {
+                "name": "N_286281",
+                "id": "NO_N_5",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.844167218716536,
+                    61.18532142098584
+                ]
+            },
+            "properties": {
+                "name": "N_286365",
+                "id": "NO_N_6",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.724809886770192,
+                    60.6451326397547
+                ]
+            },
+            "properties": {
+                "name": "N_278329",
+                "id": "NO_N_7",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.834238521222291,
+                    60.549682202750056
+                ]
+            },
+            "properties": {
+                "name": "N_286729",
+                "id": "NO_N_8",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8288655889803,
+                    61.206403038532414
+                ]
+            },
+            "properties": {
+                "name": "N_271301",
+                "id": "NO_N_9",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.086585211621832,
+                    66.0270733295091
+                ]
+            },
+            "properties": {
+                "name": "N_282221",
+                "id": "NO_N_10",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.799674199493331,
+                    65.08422923098904
+                ]
+            },
+            "properties": {
+                "name": "N_287261",
+                "id": "NO_N_11",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3290292860187574,
+                    56.489709742026285
+                ]
+            },
+            "properties": {
+                "name": "N_287065",
+                "id": "NO_N_12",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.550243326544268,
+                    55.46163349013938
+                ]
+            },
+            "properties": {
+                "name": "N_277265",
+                "id": "NO_N_13",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8272835824771203,
+                    60.4901443092602
+                ]
+            },
+            "properties": {
+                "name": "N_280541",
+                "id": "NO_N_14",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2266321092207297,
+                    59.5747349163949
+                ]
+            },
+            "properties": {
+                "name": "N_280569",
+                "id": "NO_N_15",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9089060028100853,
+                    58.367949216535806
+                ]
+            },
+            "properties": {
+                "name": "N_277797",
+                "id": "NO_N_16",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4710663357038194,
+                    58.1881647534963
+                ]
+            },
+            "properties": {
+                "name": "N_277797",
+                "id": "NO_N_17",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.908907002791055,
+                    58.367950216584966
+                ]
+            },
+            "properties": {
+                "name": "N_271945",
+                "id": "NO_N_18",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.034542375052693,
+                    54.508639946178604
+                ]
+            },
+            "properties": {
+                "name": "N_377218",
+                "id": "NO_N_19",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.18802338147323,
+                    53.34547799895728
+                ]
+            },
+            "properties": {
+                "name": "N_286141",
+                "id": "NO_N_20",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.315715796112963,
+                    65.32556250869906
+                ]
+            },
+            "properties": {
+                "name": "N_272421",
+                "id": "NO_N_21",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.65333010006602,
+                    63.39431668992888
+                ]
+            },
+            "properties": {
+                "name": "N_286309",
+                "id": "NO_N_22",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.315513801872188,
+                    65.32536749808995
+                ]
+            },
+            "properties": {
+                "name": "N_272421",
+                "id": "NO_N_23",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.227133179788655,
+                    59.573595880052125
+                ]
+            },
+            "properties": {
+                "name": "N_271777",
+                "id": "NO_N_24",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4857423644394028,
+                    59.164660885642185
+                ]
+            },
+            "properties": {
+                "name": "N_280569",
+                "id": "NO_N_25",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8269691252251694,
+                    57.578020575878384
+                ]
+            },
+            "properties": {
+                "name": "N_280569",
+                "id": "NO_N_26",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.843810900154141,
+                    60.54783724577219
+                ]
+            },
+            "properties": {
+                "name": "N_286729",
+                "id": "NO_N_27",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.519846460219176,
+                    59.27282773466223
+                ]
+            },
+            "properties": {
+                "name": "N_286169",
+                "id": "NO_N_28",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.32514696267687,
+                    53.67899037395402
+                ]
+            },
+            "properties": {
+                "name": "N_286141",
+                "id": "NO_N_29",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.045098223367142,
+                    60.54204007494405
+                ]
+            },
+            "properties": {
+                "name": "N_277405",
+                "id": "NO_N_30",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.780900649475936,
+                    64.35286624788783
+                ]
+            },
+            "properties": {
+                "name": "N_272393",
+                "id": "NO_N_31",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.439513710701037,
+                    64.2329284780315
+                ]
+            },
+            "properties": {
+                "name": "N_287373",
+                "id": "NO_N_32",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.22120097485071,
+                    55.70629307727897
+                ]
+            },
+            "properties": {
+                "name": "N_286841",
+                "id": "NO_N_33",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4650651772012306,
+                    58.18808067519417
+                ]
+            },
+            "properties": {
+                "name": "N_278357",
+                "id": "NO_N_34",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.251373994112591,
+                    51.04555455657972
+                ]
+            },
+            "properties": {
+                "name": "N_286757",
+                "id": "NO_N_35",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2198022169992884,
+                    56.5465414290401
+                ]
+            },
+            "properties": {
+                "name": "N_277937",
+                "id": "NO_N_36",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.4995243121059696,
+                    61.079939842045064
+                ]
+            },
+            "properties": {
+                "name": "N_280877",
+                "id": "NO_N_37",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5315910149448997,
+                    61.06616172157949
+                ]
+            },
+            "properties": {
+                "name": "N_277685",
+                "id": "NO_N_38",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.457155948268533,
+                    61.36966155695265
+                ]
+            },
+            "properties": {
+                "name": "N_364607",
+                "id": "NO_N_39",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.944125986201139,
+                    62.851181930243264
+                ]
+            },
+            "properties": {
+                "name": "N_364693",
+                "id": "NO_N_40",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11458158331809955,
+                    53.65843864590715
+                ]
+            },
+            "properties": {
+                "name": "N_369424",
+                "id": "NO_N_41",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.225014779108395,
+                    71.57148152510034
+                ]
+            },
+            "properties": {
+                "name": "N_370654",
+                "id": "NO_N_42",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.588244312933956,
+                    70.68493460631109
+                ]
+            },
+            "properties": {
+                "name": "N_363441",
+                "id": "NO_N_43",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.942171989957398,
+                    62.849942857335186
+                ]
+            },
+            "properties": {
+                "name": "N_371216",
+                "id": "NO_N_44",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3850272697942945,
+                    63.527713850828384
+                ]
+            },
+            "properties": {
+                "name": "N_364693",
+                "id": "NO_N_45",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.942124987431103,
+                    62.849959857473856
+                ]
+            },
+            "properties": {
+                "name": "N_371216",
+                "id": "NO_N_46",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.384779261848518,
+                    63.52770784758016
+                ]
+            },
+            "properties": {
+                "name": "N_364693",
+                "id": "NO_N_47",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8281215664903683,
+                    61.20641602931722
+                ]
+            },
+            "properties": {
+                "name": "N_271301",
+                "id": "NO_N_48",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.895123330052906,
+                    61.33188646663152
+                ]
+            },
+            "properties": {
+                "name": "N_406672",
+                "id": "NO_N_49",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6982211715973463,
+                    61.0202811289482
+                ]
+            },
+            "properties": {
+                "name": "N_406731",
+                "id": "NO_N_50",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7422223046491958,
+                    58.84476207649073
+                ]
+            },
+            "properties": {
+                "name": "N_410651",
+                "id": "NO_N_51",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.9069900086311005,
+                    58.36670014667903
+                ]
+            },
+            "properties": {
+                "name": "N_272365",
+                "id": "NO_N_52",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.840095186244976,
+                    61.77863352470064
+                ]
+            },
+            "properties": {
+                "name": "N_427058",
+                "id": "NO_N_53",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7855460994785075,
+                    61.049252388718884
+                ]
+            },
+            "properties": {
+                "name": "N_433938",
+                "id": "NO_N_54",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.105308240859343,
+                    67.0554108391106
+                ]
+            },
+            "properties": {
+                "name": "N_459032",
+                "id": "NO_N_55",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.947465981059591,
+                    62.85327705394408
+                ]
+            },
+            "properties": {
+                "name": "N_364693",
+                "id": "NO_N_56",
+                "country_code": "NO",
+                "tags": {},
+                "param": {
+                    "exact": 1,
+                    "elevation_m": null
+                },
+                "method": {
+                    "exact": "make_Attrib(const)",
+                    "elevation_m": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

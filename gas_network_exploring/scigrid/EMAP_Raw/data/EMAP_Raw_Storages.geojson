@@ -1,0 +1,5241 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.341534811801782,
+                    47.9001433561246
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_0",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.487753230697704,
+                    48.04216298183115
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_1",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.148555784929865,
+                    47.956835739394386
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_2",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.588447589965007,
+                    48.14798969336822
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_3",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.643944216805162,
+                    49.42887827846532
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_4",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.261028671118293,
+                    49.67323716638089
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_5",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.593475642883924,
+                    49.78709311094957
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_6",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.58097374127119,
+                    49.86069992720806
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_7",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.367237566676476,
+                    50.00735670164217
+                ]
+            },
+            "properties": {
+                "name": "Stor8",
+                "id": "EMAP_SR_8",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.010571288426563,
+                    51.141785002580825
+                ]
+            },
+            "properties": {
+                "name": "Stor9",
+                "id": "EMAP_SR_9",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.73638963719026,
+                    51.286266678925635
+                ]
+            },
+            "properties": {
+                "name": "Stor10",
+                "id": "EMAP_SR_10",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.812884378941975,
+                    51.6724313868385
+                ]
+            },
+            "properties": {
+                "name": "Stor11",
+                "id": "EMAP_SR_11",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.467133796937532,
+                    51.737090286322314
+                ]
+            },
+            "properties": {
+                "name": "Stor12",
+                "id": "EMAP_SR_12",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.599452927152312,
+                    51.90090592068283
+                ]
+            },
+            "properties": {
+                "name": "Stor13",
+                "id": "EMAP_SR_13",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.11377937966216,
+                    52.14054458297022
+                ]
+            },
+            "properties": {
+                "name": "Stor14",
+                "id": "EMAP_SR_14",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.103071695557452,
+                    52.150649642910786
+                ]
+            },
+            "properties": {
+                "name": "Stor15",
+                "id": "EMAP_SR_15",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.013349866972872,
+                    52.16448294202043
+                ]
+            },
+            "properties": {
+                "name": "Stor16",
+                "id": "EMAP_SR_16",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.904953914539809,
+                    52.15173173839017
+                ]
+            },
+            "properties": {
+                "name": "Stor17",
+                "id": "EMAP_SR_17",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.35406348584918,
+                    52.07780062162612
+                ]
+            },
+            "properties": {
+                "name": "Stor18",
+                "id": "EMAP_SR_18",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.455390862240767,
+                    52.25604395905108
+                ]
+            },
+            "properties": {
+                "name": "Stor19",
+                "id": "EMAP_SR_19",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.45112091439784,
+                    52.255191815871385
+                ]
+            },
+            "properties": {
+                "name": "Stor20",
+                "id": "EMAP_SR_20",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.201056384603351,
+                    52.381783393878145
+                ]
+            },
+            "properties": {
+                "name": "Stor21",
+                "id": "EMAP_SR_21",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.987641837026845,
+                    52.46355779002364
+                ]
+            },
+            "properties": {
+                "name": "Stor22",
+                "id": "EMAP_SR_22",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.04368419453831,
+                    52.559880602808896
+                ]
+            },
+            "properties": {
+                "name": "Stor23",
+                "id": "EMAP_SR_23",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.04368419453831,
+                    52.559880602808896
+                ]
+            },
+            "properties": {
+                "name": "Stor24",
+                "id": "EMAP_SR_24",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.47383032712579,
+                    52.60407629240653
+                ]
+            },
+            "properties": {
+                "name": "Stor25",
+                "id": "EMAP_SR_25",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.123692572539213,
+                    52.61636543006752
+                ]
+            },
+            "properties": {
+                "name": "Stor26",
+                "id": "EMAP_SR_26",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.474269488514707,
+                    52.627977564118055
+                ]
+            },
+            "properties": {
+                "name": "Stor27",
+                "id": "EMAP_SR_27",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.534564046464787,
+                    53.11401569733843
+                ]
+            },
+            "properties": {
+                "name": "Stor28",
+                "id": "EMAP_SR_28",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.856210788972913,
+                    53.251319423336284
+                ]
+            },
+            "properties": {
+                "name": "Stor29",
+                "id": "EMAP_SR_29",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.570804827791867,
+                    53.27811931655061
+                ]
+            },
+            "properties": {
+                "name": "Stor30",
+                "id": "EMAP_SR_30",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.064446878188088,
+                    52.594818103181495
+                ]
+            },
+            "properties": {
+                "name": "Stor31",
+                "id": "EMAP_SR_31",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.067739691187024,
+                    53.480339314471045
+                ]
+            },
+            "properties": {
+                "name": "Stor32",
+                "id": "EMAP_SR_32",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.488793203343759,
+                    53.49927687735034
+                ]
+            },
+            "properties": {
+                "name": "Stor33",
+                "id": "EMAP_SR_33",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.64222982978564,
+                    53.48079098826867
+                ]
+            },
+            "properties": {
+                "name": "Stor34",
+                "id": "EMAP_SR_34",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.745001907165003,
+                    53.50692872489189
+                ]
+            },
+            "properties": {
+                "name": "Stor35",
+                "id": "EMAP_SR_35",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3358479648670665,
+                    53.61160220810253
+                ]
+            },
+            "properties": {
+                "name": "Stor36",
+                "id": "EMAP_SR_36",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.53270142621054,
+                    53.9307442122589
+                ]
+            },
+            "properties": {
+                "name": "Stor37",
+                "id": "EMAP_SR_37",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.10237544625902,
+                    54.07905335445551
+                ]
+            },
+            "properties": {
+                "name": "Stor38",
+                "id": "EMAP_SR_38",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.431168234791281,
+                    51.7404542152711
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_39",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0607714235120245,
+                    52.202092578853424
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_40",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0828736968473045,
+                    52.662943773269966
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_41",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.389436959813395,
+                    37.25674206299762
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_42",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.800157850983523,
+                    40.84895943687085
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_43",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35976502691532986,
+                    42.596699425516704
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_44",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.05695345012667107,
+                    43.728057653544376
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_45",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.840906065075103,
+                    43.83079883406985
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_46",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.08395844737091185,
+                    43.79036693197988
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_47",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959279433857249,
+                    45.18702117269188
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_48",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.224913171743868,
+                    46.31479143338104
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_49",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2247253065802752,
+                    47.415543777242725
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_50",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6437522173575712,
+                    47.49180257996081
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_51",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.365686754549482,
+                    48.71365693868547
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_52",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.263981630004676,
+                    48.97420059875918
+                ]
+            },
+            "properties": {
+                "name": "Stor8",
+                "id": "EMAP_SR_53",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0032630514310603,
+                    48.96227494773388
+                ]
+            },
+            "properties": {
+                "name": "Stor9",
+                "id": "EMAP_SR_54",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4208275273451316,
+                    49.176206476743324
+                ]
+            },
+            "properties": {
+                "name": "Stor10",
+                "id": "EMAP_SR_55",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1756507241416347,
+                    49.19182923858934
+                ]
+            },
+            "properties": {
+                "name": "Stor11",
+                "id": "EMAP_SR_56",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6294549771554399,
+                    49.37849744947813
+                ]
+            },
+            "properties": {
+                "name": "Stor12",
+                "id": "EMAP_SR_57",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7654638619128544,
+                    49.6711744302165
+                ]
+            },
+            "properties": {
+                "name": "Stor13",
+                "id": "EMAP_SR_58",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7881512983834176,
+                    51.45592627234153
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_59",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4347260272942326,
+                    53.352134258472994
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_60",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7855651807180415,
+                    53.564284574484994
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_61",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.14904806295845674,
+                    53.74445643473164
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_62",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.801646896694374,
+                    53.79380126593976
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_63",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.801646896694374,
+                    53.79380126593976
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_64",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.801646896694374,
+                    53.79380126593976
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_65",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9878651267932534,
+                    54.82938185329992
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_66",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.463953440864826,
+                    41.91097583414165
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_67",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.08903289113465,
+                    42.58630634969601
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_68",
+                "country_code": "XX",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.928614016764955,
+                    44.4354736825769
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_69",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.48846532110943,
+                    44.57608551539629
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_70",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.97754805535762,
+                    45.10314323675028
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_71",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.431671358145687,
+                    45.29152665631622
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_72",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.809104531628588,
+                    45.41331122500002
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_73",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.450290823147814,
+                    45.41987036093885
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_74",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.087536645887262,
+                    45.41739479944455
+                ]
+            },
+            "properties": {
+                "name": "Stor8",
+                "id": "EMAP_SR_75",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.207264293188036,
+                    45.952371051346255
+                ]
+            },
+            "properties": {
+                "name": "Stor9",
+                "id": "EMAP_SR_76",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.966495399716936,
+                    52.39099506124706
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_77",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.974054189129846,
+                    52.4282676893437
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_78",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9567145451049175,
+                    52.70425977895886
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_79",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3714106868387175,
+                    53.106108451073425
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_80",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.120586620443222,
+                    53.03874491592431
+                ]
+            },
+            "properties": {
+                "name": "Stor8",
+                "id": "EMAP_SR_81",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.399287115041603,
+                    53.27091438396511
+                ]
+            },
+            "properties": {
+                "name": "Stor9",
+                "id": "EMAP_SR_82",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.346111946733997,
+                    48.13773253295517
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_83",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.268156852739965,
+                    48.020031206358574
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_84",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.843655710989502,
+                    48.19597251922596
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_85",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.567846360382076,
+                    48.02731584759425
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_86",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.98725280561844,
+                    48.037518366864205
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_87",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.48892885581734,
+                    48.41535161044719
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_88",
+                "country_code": "AT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.560443587422906,
+                    48.860796633989494
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_89",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.714646555489422,
+                    51.371514966483964
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_90",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.645050993360044,
+                    51.35822943147
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_91",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.67592182683646,
+                    51.35721815432475
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_92",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.603658004863077,
+                    51.37024465324418
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_93",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.714646555489422,
+                    51.371514966483964
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_94",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.58548404759509,
+                    51.43024798567178
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_95",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8012006807804415,
+                    51.39592917570625
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_96",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.560443587422906,
+                    48.860796633989494
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_97",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9063795542027,
+                    49.05095779957042
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_98",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.44410732339574,
+                    49.31322617241623
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_99",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.37107733811657,
+                    49.673179397380174
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_100",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.53402992446764,
+                    49.66899619316726
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_101",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.134965303671345,
+                    49.58486642232705
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_102",
+                "country_code": "CZ",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.573555097896,
+                    55.50044914295291
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_103",
+                "country_code": "DK",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.615466244037588,
+                    56.554411072184045
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_104",
+                "country_code": "DK",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.172081176269035,
+                    46.2670361604103
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_105",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.38792458752063,
+                    46.31077830996212
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_106",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.384474998417943,
+                    46.574550711108586
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_107",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.996381851874613,
+                    46.85742937375458
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_108",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.323724179192354,
+                    47.44450451478797
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_109",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.87031695769808,
+                    57.01136212853598
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_110",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.07380263311036,
+                    49.66808645905914
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_111",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.36653091170196,
+                    49.96665358326168
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_112",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.46834406517538,
+                    50.105348601677036
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_113",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.85111495065366,
+                    50.16239318780518
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_114",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.257018883199972,
+                    51.532588581516634
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_115",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.436275852591926,
+                    52.18561202485528
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_116",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2978327315592,
+                    52.67723653285938
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_117",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.18858793498296,
+                    52.78420632482646
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_118",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.878694053358279,
+                    53.87128981300243
+                ]
+            },
+            "properties": {
+                "name": "Stor8",
+                "id": "EMAP_SR_119",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.760350917947633,
+                    40.000143736371534
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_120",
+                "country_code": "PT",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2881366198278,
+                    44.69367516038566
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_121",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.580982425172763,
+                    44.58147040002368
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_122",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.81419274354042,
+                    44.820905840179904
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_123",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.061618259775287,
+                    44.945629602464685
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_124",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.15641602867373,
+                    45.966967533375
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_125",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.262441088098274,
+                    46.715170636128384
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_126",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.778833470633856,
+                    46.789514344521294
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_127",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.516784475515756,
+                    45.55161006080166
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_128",
+                "country_code": "HR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.430157000890215,
+                    48.82620797793079
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_129",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1001527992396,
+                    48.49520252569237
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_130",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.149745263005773,
+                    48.64597211113121
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_131",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23989999124591,
+                    48.785320123424206
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_132",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.292013441457666,
+                    45.74376269516285
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_133",
+                "country_code": "RS",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.45954428076799,
+                    43.37403111537158
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_134",
+                "country_code": "BG",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.816529741119965,
+                    40.941919158111475
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_135",
+                "country_code": "AL",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.972444269344134,
+                    57.17046926540015
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_136",
+                "country_code": "SE",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.07273523165861,
+                    36.91528865763415
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_137",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.76031095224721,
+                    38.30191137980837
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_138",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.07273523165861,
+                    36.91528865763415
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_139",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.76031095224721,
+                    38.30191137980837
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_140",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.07273523165861,
+                    36.91528865763415
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_141",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.76031095224721,
+                    38.30191137980837
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_142",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.07273523165861,
+                    36.91528865763415
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_143",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.76031095224721,
+                    38.30191137980837
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_144",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.07273523165861,
+                    36.91528865763415
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_145",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.76031095224721,
+                    38.30191137980837
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_146",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.07273523165861,
+                    36.91528865763415
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_147",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.76031095224721,
+                    38.30191137980837
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_148",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.8254199048127,
+                    38.11558819685438
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_149",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58068873656591,
+                    52.39335048503738
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_150",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.71168314140819,
+                    53.475136342520074
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_151",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58068873656591,
+                    52.39335048503738
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_152",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.667855145112906,
+                    53.57806908044565
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_153",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58068873656591,
+                    52.39335048503738
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_154",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.667855145112906,
+                    53.57806908044565
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_155",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58068873656591,
+                    52.39335048503738
+                ]
+            },
+            "properties": {
+                "name": "Stor18",
+                "id": "EMAP_SR_156",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.71168314140819,
+                    53.475136342520074
+                ]
+            },
+            "properties": {
+                "name": "Stor22",
+                "id": "EMAP_SR_157",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58068873656591,
+                    52.39335048503738
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_158",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.71168314140819,
+                    53.475136342520074
+                ]
+            },
+            "properties": {
+                "name": "Stor11",
+                "id": "EMAP_SR_159",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.38055277243072,
+                    39.57655879100467
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_160",
+                "country_code": "AM",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.38055277243072,
+                    39.57655879100467
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_161",
+                "country_code": "AM",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.38055277243072,
+                    39.57655879100467
+                ]
+            },
+            "properties": {
+                "name": "Stor1",
+                "id": "EMAP_SR_162",
+                "country_code": "AM",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.43616610971286,
+                    39.56391165018599
+                ]
+            },
+            "properties": {
+                "name": "Stor2",
+                "id": "EMAP_SR_163",
+                "country_code": "AM",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.06652917970793,
+                    45.42099241511854
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_164",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.19699504284095,
+                    48.986531564844334
+                ]
+            },
+            "properties": {
+                "name": "Stor7",
+                "id": "EMAP_SR_165",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.855840617940327,
+                    49.07517819148093
+                ]
+            },
+            "properties": {
+                "name": "Stor8",
+                "id": "EMAP_SR_166",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.72983478114324,
+                    49.30738996467521
+                ]
+            },
+            "properties": {
+                "name": "Stor9",
+                "id": "EMAP_SR_167",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.211011516968384,
+                    49.398293301125996
+                ]
+            },
+            "properties": {
+                "name": "Stor10",
+                "id": "EMAP_SR_168",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.561721806631255,
+                    49.49625634054173
+                ]
+            },
+            "properties": {
+                "name": "Stor11",
+                "id": "EMAP_SR_169",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.030206328248173,
+                    49.66942285505499
+                ]
+            },
+            "properties": {
+                "name": "Stor12",
+                "id": "EMAP_SR_170",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.94495321982474,
+                    49.73770185049909
+                ]
+            },
+            "properties": {
+                "name": "Stor13",
+                "id": "EMAP_SR_171",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.11904793252225,
+                    51.17275600457124
+                ]
+            },
+            "properties": {
+                "name": "Stor14",
+                "id": "EMAP_SR_172",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    31.343522435355506,
+                    51.289213913975956
+                ]
+            },
+            "properties": {
+                "name": "Stor15",
+                "id": "EMAP_SR_173",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.135296704221844,
+                    49.83953623359537
+                ]
+            },
+            "properties": {
+                "name": "Stor16",
+                "id": "EMAP_SR_174",
+                "country_code": "UA",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.239525241237263,
+                    48.64164846976435
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_175",
+                "country_code": "SK",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.28884161753079,
+                    45.44124812295639
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_176",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.370190620111046,
+                    45.43569157887622
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_177",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.96984205330485,
+                    46.9360978712544
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_178",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.06508598083992,
+                    52.093415451185216
+                ]
+            },
+            "properties": {
+                "name": "Stor17",
+                "id": "EMAP_SR_179",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.32608120599859,
+                    52.18563689152839
+                ]
+            },
+            "properties": {
+                "name": "Stor19",
+                "id": "EMAP_SR_180",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.523437758475524,
+                    52.34561426937786
+                ]
+            },
+            "properties": {
+                "name": "Stor20",
+                "id": "EMAP_SR_181",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.551823662606246,
+                    52.69483239622821
+                ]
+            },
+            "properties": {
+                "name": "Stor21",
+                "id": "EMAP_SR_182",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.11582141116339,
+                    54.1315669424859
+                ]
+            },
+            "properties": {
+                "name": "Stor23",
+                "id": "EMAP_SR_183",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.10064301752488,
+                    52.25178479898374
+                ]
+            },
+            "properties": {
+                "name": "Stor24",
+                "id": "EMAP_SR_184",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.95496510013253,
+                    54.34027552362178
+                ]
+            },
+            "properties": {
+                "name": "Stor25",
+                "id": "EMAP_SR_185",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.47930770498726,
+                    54.35194042410718
+                ]
+            },
+            "properties": {
+                "name": "Stor26",
+                "id": "EMAP_SR_186",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.36728001148116,
+                    54.39109493375018
+                ]
+            },
+            "properties": {
+                "name": "Stor27",
+                "id": "EMAP_SR_187",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.66928029768736,
+                    54.53473226588909
+                ]
+            },
+            "properties": {
+                "name": "Stor28",
+                "id": "EMAP_SR_188",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.09391669383317,
+                    54.168725093867614
+                ]
+            },
+            "properties": {
+                "name": "Stor29",
+                "id": "EMAP_SR_189",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7938559944005,
+                    54.612789380050536
+                ]
+            },
+            "properties": {
+                "name": "Stor30",
+                "id": "EMAP_SR_190",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.742233489138464,
+                    54.699528162707566
+                ]
+            },
+            "properties": {
+                "name": "Stor31",
+                "id": "EMAP_SR_191",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.233805429865374,
+                    54.75040079659194
+                ]
+            },
+            "properties": {
+                "name": "Stor32",
+                "id": "EMAP_SR_192",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.23072616624006,
+                    55.012716783089544
+                ]
+            },
+            "properties": {
+                "name": "Stor33",
+                "id": "EMAP_SR_193",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.22289578881427,
+                    54.86181022444936
+                ]
+            },
+            "properties": {
+                "name": "Stor34",
+                "id": "EMAP_SR_194",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.78211598113407,
+                    54.857782254227935
+                ]
+            },
+            "properties": {
+                "name": "Stor35",
+                "id": "EMAP_SR_195",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.86022208333333,
+                    56.03484729563449
+                ]
+            },
+            "properties": {
+                "name": "Stor36",
+                "id": "EMAP_SR_196",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.99282505918889,
+                    56.19057759922767
+                ]
+            },
+            "properties": {
+                "name": "Stor37",
+                "id": "EMAP_SR_197",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.57518446838615,
+                    58.04056677744711
+                ]
+            },
+            "properties": {
+                "name": "Stor38",
+                "id": "EMAP_SR_198",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.621542386732514,
+                    58.15707774662005
+                ]
+            },
+            "properties": {
+                "name": "Stor39",
+                "id": "EMAP_SR_199",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.744050273028673,
+                    59.487058330324324
+                ]
+            },
+            "properties": {
+                "name": "Stor40",
+                "id": "EMAP_SR_200",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.651027828540705,
+                    58.300361340348275
+                ]
+            },
+            "properties": {
+                "name": "Stor41",
+                "id": "EMAP_SR_201",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.466123458891104,
+                    65.8110875619206
+                ]
+            },
+            "properties": {
+                "name": "Stor42",
+                "id": "EMAP_SR_202",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.577879843731225,
+                    68.40443057772372
+                ]
+            },
+            "properties": {
+                "name": "Stor43",
+                "id": "EMAP_SR_203",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.56970689182494,
+                    68.45407969844564
+                ]
+            },
+            "properties": {
+                "name": "Stor44",
+                "id": "EMAP_SR_204",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.69878899485343,
+                    59.53670951135766
+                ]
+            },
+            "properties": {
+                "name": "Stor45",
+                "id": "EMAP_SR_205",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.96110672145323,
+                    54.689082487636064
+                ]
+            },
+            "properties": {
+                "name": "Stor46",
+                "id": "EMAP_SR_206",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.28884161753079,
+                    45.44124812295639
+                ]
+            },
+            "properties": {
+                "name": "Stor3",
+                "id": "EMAP_SR_207",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.96984205330485,
+                    46.9360978712544
+                ]
+            },
+            "properties": {
+                "name": "Stor4",
+                "id": "EMAP_SR_208",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.06508598083992,
+                    52.093415451185216
+                ]
+            },
+            "properties": {
+                "name": "Stor5",
+                "id": "EMAP_SR_209",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    43.300997969571505,
+                    52.171670244129146
+                ]
+            },
+            "properties": {
+                "name": "Stor6",
+                "id": "EMAP_SR_210",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.370190620111046,
+                    45.43569157887622
+                ]
+            },
+            "properties": {
+                "name": "Stor8",
+                "id": "EMAP_SR_211",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    45.523437758475524,
+                    52.34561426937786
+                ]
+            },
+            "properties": {
+                "name": "Stor9",
+                "id": "EMAP_SR_212",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.51587846524243,
+                    52.6587464637249
+                ]
+            },
+            "properties": {
+                "name": "Stor10",
+                "id": "EMAP_SR_213",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.12343840835294,
+                    54.134091431334845
+                ]
+            },
+            "properties": {
+                "name": "Stor12",
+                "id": "EMAP_SR_214",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    46.95496510013253,
+                    54.34027552362178
+                ]
+            },
+            "properties": {
+                "name": "Stor13",
+                "id": "EMAP_SR_215",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.39238546126185,
+                    54.38933218670482
+                ]
+            },
+            "properties": {
+                "name": "Stor14",
+                "id": "EMAP_SR_216",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.47930770498726,
+                    54.35194042410718
+                ]
+            },
+            "properties": {
+                "name": "Stor15",
+                "id": "EMAP_SR_217",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.66928029768736,
+                    54.53473226588909
+                ]
+            },
+            "properties": {
+                "name": "Stor16",
+                "id": "EMAP_SR_218",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.60195439465237,
+                    54.53276957589239
+                ]
+            },
+            "properties": {
+                "name": "Stor17",
+                "id": "EMAP_SR_219",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    44.11639831651307,
+                    52.25873811299519
+                ]
+            },
+            "properties": {
+                "name": "Stor18",
+                "id": "EMAP_SR_220",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.7938559944005,
+                    54.612789380050536
+                ]
+            },
+            "properties": {
+                "name": "Stor19",
+                "id": "EMAP_SR_221",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.73385361115618,
+                    54.698780934263326
+                ]
+            },
+            "properties": {
+                "name": "Stor20",
+                "id": "EMAP_SR_222",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    35.23072616624006,
+                    55.012716783089544
+                ]
+            },
+            "properties": {
+                "name": "Stor21",
+                "id": "EMAP_SR_223",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.233805429865374,
+                    54.75040079659194
+                ]
+            },
+            "properties": {
+                "name": "Stor22",
+                "id": "EMAP_SR_224",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    38.96110672145323,
+                    54.689082487636064
+                ]
+            },
+            "properties": {
+                "name": "Stor23",
+                "id": "EMAP_SR_225",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    50.813412511984914,
+                    54.8712316695094
+                ]
+            },
+            "properties": {
+                "name": "Stor24",
+                "id": "EMAP_SR_226",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    36.85754080056607,
+                    56.035261566956606
+                ]
+            },
+            "properties": {
+                "name": "Stor25",
+                "id": "EMAP_SR_227",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    39.97641031812554,
+                    56.186614452363926
+                ]
+            },
+            "properties": {
+                "name": "Stor26",
+                "id": "EMAP_SR_228",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.57518446838615,
+                    58.04056677744711
+                ]
+            },
+            "properties": {
+                "name": "Stor27",
+                "id": "EMAP_SR_229",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.621542386732514,
+                    58.15707774662005
+                ]
+            },
+            "properties": {
+                "name": "Stor28",
+                "id": "EMAP_SR_230",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    47.651027828540705,
+                    58.300361340348275
+                ]
+            },
+            "properties": {
+                "name": "Stor29",
+                "id": "EMAP_SR_231",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.744050273028673,
+                    59.487058330324324
+                ]
+            },
+            "properties": {
+                "name": "Stor30",
+                "id": "EMAP_SR_232",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.724598722481094,
+                    59.50831174964513
+                ]
+            },
+            "properties": {
+                "name": "Stor31",
+                "id": "EMAP_SR_233",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.577879843731225,
+                    68.40443057772372
+                ]
+            },
+            "properties": {
+                "name": "Stor32",
+                "id": "EMAP_SR_234",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    51.56970689182494,
+                    68.45407969844564
+                ]
+            },
+            "properties": {
+                "name": "Stor33",
+                "id": "EMAP_SR_235",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    54.48935489536332,
+                    65.78685599063577
+                ]
+            },
+            "properties": {
+                "name": "Stor34",
+                "id": "EMAP_SR_236",
+                "country_code": "RU",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.469394127915226,
+                    40.96550817146229
+                ]
+            },
+            "properties": {
+                "name": "Stor0",
+                "id": "EMAP_SR_237",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "exact": 3
+                },
+                "method": {
+                    "exact": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

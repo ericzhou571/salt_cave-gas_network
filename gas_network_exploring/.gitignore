@@ -1,0 +1,14 @@
+.*
+!.gitignore
+backup*
+__pycache__
+__pycache__/*
+*.cpython*
+tmp_table
+salt_cave_extract_RGB_space-Copy1.ipynb
+!salt_cave/vector/final.shp
+/salt_cave/raster/*
+!/salt_cave/raster/*.md
+/salt_cave/vector/*
+!/salt_cave/vector/*.md
+salt_cave_Kopie

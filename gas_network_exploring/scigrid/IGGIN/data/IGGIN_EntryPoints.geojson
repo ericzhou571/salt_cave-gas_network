@@ -1,0 +1,893 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3036,
+                    36.7348
+                ]
+            },
+            "properties": {
+                "name": "Almeria",
+                "id": "INET_EP_0",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.466,
+                    52.8506
+                ]
+            },
+            "properties": {
+                "name": "Bacton",
+                "id": "INET_EP_1",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.822,
+                    52.86
+                ]
+            },
+            "properties": {
+                "name": "Balgzand",
+                "id": "INET_EP_2",
+                "country_code": "NL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5320069,
+                    48.198510799999994
+                ]
+            },
+            "properties": {
+                "name": "Beregdaroc",
+                "id": "INET_EP_3",
+                "country_code": "HU",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.121625,
+                    48.552002
+                ]
+            },
+            "properties": {
+                "name": "Budince",
+                "id": "INET_EP_4",
+                "country_code": "SI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0813,
+                    53.232
+                ]
+            },
+            "properties": {
+                "name": "Burton Point",
+                "id": "INET_EP_5",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.68003,
+                    37.906
+                ]
+            },
+            "properties": {
+                "name": "Cordoba",
+                "id": "INET_EP_6",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.404,
+                    53.66
+                ]
+            },
+            "properties": {
+                "name": "Dornum",
+                "id": "INET_EP_7",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.644184699999997,
+                    49.808796799999996
+                ]
+            },
+            "properties": {
+                "name": "Drozdwicze",
+                "id": "INET_EP_8",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1947919999999996,
+                    51.033134000000004
+                ]
+            },
+            "properties": {
+                "name": "Dunkerque",
+                "id": "INET_EP_9",
+                "country_code": "FR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.11978,
+                    53.6548
+                ]
+            },
+            "properties": {
+                "name": "Easington",
+                "id": "INET_EP_10",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2062,
+                    53.3422
+                ]
+            },
+            "properties": {
+                "name": "Emden",
+                "id": "INET_EP_11",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.18364,
+                    54.099578
+                ]
+            },
+            "properties": {
+                "name": "Gateway",
+                "id": "INET_EP_12",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.269219,
+                    37.052698
+                ]
+            },
+            "properties": {
+                "name": "Gela",
+                "id": "INET_EP_13",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.655607,
+                    54.151055
+                ]
+            },
+            "properties": {
+                "name": "Greifswald",
+                "id": "INET_EP_14",
+                "country_code": "DE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.03,
+                    51.71
+                ]
+            },
+            "properties": {
+                "name": "Herbrandston",
+                "id": "INET_EP_15",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7645463,
+                    61.169597700000004
+                ]
+            },
+            "properties": {
+                "name": "Imatra",
+                "id": "INET_EP_16",
+                "country_code": "FI",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4607273,
+                    45.265423
+                ]
+            },
+            "properties": {
+                "name": "Isaccea",
+                "id": "INET_EP_17",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.307160999999997,
+                    40.970417
+                ]
+            },
+            "properties": {
+                "name": "Kipoi",
+                "id": "INET_EP_18",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4065582,
+                    41.1224394
+                ]
+            },
+            "properties": {
+                "name": "Komotini",
+                "id": "INET_EP_19",
+                "country_code": "GR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.896413,
+                    53.01781
+                ]
+            },
+            "properties": {
+                "name": "Kondratki",
+                "id": "INET_EP_20",
+                "country_code": "PL",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.943475899999996,
+                    57.5928519
+                ]
+            },
+            "properties": {
+                "name": "Korneti",
+                "id": "INET_EP_21",
+                "country_code": "LV",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7475233,
+                    54.716599
+                ]
+            },
+            "properties": {
+                "name": "Kotlovka",
+                "id": "INET_EP_22",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.597628,
+                    37.65533
+                ]
+            },
+            "properties": {
+                "name": "Mazara Del Vallo",
+                "id": "INET_EP_23",
+                "country_code": "IT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1376644,
+                    47.786743
+                ]
+            },
+            "properties": {
+                "name": "Mediesu Aurit",
+                "id": "INET_EP_24",
+                "country_code": "RO",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.325508000000003,
+                    40.980957000000004
+                ]
+            },
+            "properties": {
+                "name": "Meric Nehri",
+                "id": "INET_EP_25",
+                "country_code": "TR",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1790751,
+                    59.3796931
+                ]
+            },
+            "properties": {
+                "name": "Narva",
+                "id": "INET_EP_26",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3122919,
+                    55.617559
+                ]
+            },
+            "properties": {
+                "name": "Nybro",
+                "id": "INET_EP_27",
+                "country_code": "DK",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0480199,
+                    54.952670999999995
+                ]
+            },
+            "properties": {
+                "name": "Sakiai",
+                "id": "INET_EP_28",
+                "country_code": "LT",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8270025378152583,
+                    57.57801527849238
+                ]
+            },
+            "properties": {
+                "name": "StFergusE1",
+                "id": "INET_EP_29",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8270025378152583,
+                    57.57801527849238
+                ]
+            },
+            "properties": {
+                "name": "StFergusE2",
+                "id": "INET_EP_30",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.127558,
+                    54.57551899999999
+                ]
+            },
+            "properties": {
+                "name": "Teesside",
+                "id": "INET_EP_31",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.233697,
+                    53.361334
+                ]
+            },
+            "properties": {
+                "name": "Theddlethorpe",
+                "id": "INET_EP_32",
+                "country_code": "GB",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6375433,
+                    57.957053599999995
+                ]
+            },
+            "properties": {
+                "name": "Varska",
+                "id": "INET_EP_33",
+                "country_code": "EE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.371,
+                    52.3696
+                ]
+            },
+            "properties": {
+                "name": "Wysokoje",
+                "id": "INET_EP_34",
+                "country_code": "BY",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.833539,
+                    36.128832
+                ]
+            },
+            "properties": {
+                "name": "Zahara De Los Atunes",
+                "id": "INET_EP_35",
+                "country_code": "ES",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213,
+                    51.323
+                ]
+            },
+            "properties": {
+                "name": "Zeebrugge",
+                "id": "INET_EP_36",
+                "country_code": "BE",
+                "tags": {},
+                "param": {
+                    "end_year": 2050,
+                    "start_year": 1983
+                },
+                "method": {
+                    "end_year": "make_Attrib(const)",
+                    "start_year": "make_Attrib(const)"
+                }
+            }
+        }
+    ]
+}

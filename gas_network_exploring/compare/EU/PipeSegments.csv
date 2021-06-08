@@ -1,0 +1,7 @@
+,index,amount,max_cap_M_m3_per_d,dataset
+0,0,3745.0,2548.0,EMAP_Raw
+1,1,818.0,818.0,IGG
+2,2,818.0,818.0,INET_Filled
+3,3,818.0,130.0,INET_Raw
+4,4,1260.0,140.0,LKD_Raw
+5,5,47.0,16.0,NO_Raw
