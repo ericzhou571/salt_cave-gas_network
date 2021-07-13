@@ -100,7 +100,8 @@ def load_clusters_region(key_word,path2resources):
             logger.info('find mask {}'.format(str(file.absolute())))
     return _mask_list
 
-def add_storge2buses(buses,mask_list,capacity_shape,considered_locations):
+def add_storge2buses(buses,mask_list,capacity_shape,considered_locations
+                     , capacity_name = 'co2_storage_Mt'):
     '''
     load the nodes' area divisions
 
@@ -137,13 +138,13 @@ def add_storge2buses(buses,mask_list,capacity_shape,considered_locations):
             part_map = gpd.clip(_capacity_shape,mask_gdf.iloc[row:row+1])
             _capacity.append(sum(part_map['capacity_per_area']*part_map.to_crs(crs='EPSG:3395').area))
 
-        mask_gdf['hydrogen_storage_potential_MWh'] = _capacity
+        mask_gdf[capacity_name] = _capacity
         # kwh to mwh
-        mask_gdf['hydrogen_storage_potential_MWh'] = mask_gdf['hydrogen_storage_potential_MWh']/1e3
+        mask_gdf[capacity_name] = mask_gdf[capacity_name]/1e3
         _result.append(mask_gdf)
 
     _capacity_df = geo_concat(_result)
-    _capacity_df = _capacity_df[['name','hydrogen_storage_potential_MWh']]
+    _capacity_df = _capacity_df[['name',capacity_name]]
     _capacity_df = _capacity_df.groupby('name').sum()
     _total_capacity = _capacity_df.hydrogen_storage_potential_MWh.sum()
     logger.info('total capacity of nodes = {:.2e} mwh'.format(_total_capacity))
